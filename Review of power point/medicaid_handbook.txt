@@ -1,0 +1,3085 @@
+  Florida
+  Medicaid
+
+COMMUNITY BEHAVIORAL HEALTH SERVICES
+   COVERAGE AND LIMITATIONS HANDBOOK
+
+                     Agency for Health Care Administration
+
+                                                 March 2014
+                    COMMUNITY BEHAVIORAL HEALTH SERVICES
+                       COVERAGE AND LIMITATIONS HANDBOOK
+                                                UPDATE LOG
+
+How to Use the Update Log
+
+Introduction        The update log provides a history of the handbook updates. Each Florida
+                    Medicaid handbook contains an update log.
+
+Obtaining the       When a handbook is updated, the provider will be notified. The notification
+Handbook Update     instructs the provider to obtain the updated handbook from the Medicaid fiscal
+                    agent's Web site at www.mymedicaid-florida.com. Select Public Information for
+                    Providers, then Provider Support, and then Provider Handbooks.
+
+                    Providers who are unable to obtain an updated handbook from the Web site may
+                    request a paper copy from the Medicaid fiscal agent's Provider Services Contact
+                    Center at 1-800-289-7799.
+
+Explanation of the  Providers can use the update log below to determine if updates to the handbook
+Update Log          have been received.
+
+                    Update describes the change that was made.
+
+                    Effective Date is the date that the update is effective.
+
+                    UPDATE                                                    EFFECTIVE DATE
+                    Revised Handbook                                          July 2000
+                    Replacement Pages                                         July 2000
+                    Replacement Pages                                         May 2002
+                    Errata Replacement Pages and Pen and Ink Changes          June 2002
+                    Revised Handbook                                          October 2004
+                    Replacement Handbook                                      March 2014
+COMMUNITY BEHAVIORAL HEALTH SERVICES
+   COVERAGE AND LIMITATIONS HANDBOOK
+                    TABLE OF CONTENTS
+
+Chapter and Topic                      Page
+
+Introduction to the Handbook
+
+          Overview ........................................................................................................................................ i
+          Handbook Use .............................................................................................................................. ii
+          Characteristics of the Handbook .................................................................................................. iii
+          Handbook Updates ...................................................................................................................... iv
+
+Chapter 1 ­ Qualifications, Enrollment, and Requirements
+
+          Overview ....................................................................................................................................1-1
+          Purpose and Definitions .............................................................................................................1-1
+          Staff Qualifications .....................................................................................................................1-4
+          Enrollment ................................................................................................................................1-10
+          Requirements ........................................................................................................................... 1-12
+
+Chapter 2 ­ Covered, Limited, and Excluded Services
+
+          Overview ....................................................................................................................................2-1
+          General Coverage Information...................................................................................................2-1
+          Assessment Services.................................................................................................................2-5
+          Treatment Plan Development and Modification .......................................................................2-13
+          Medical and Psychiatric Services ............................................................................................2-17
+          Behavioral Health Therapy Services........................................................................................2-21
+          Community Support and Rehabilitative Services.....................................................................2-26
+          Therapeutic Behavioral On-Site Services for Recipients Under the Age of 21 Years .............2-29
+          Nursing Facility Residents........................................................................................................2-34
+          Excluded Services....................................................................................................................2-35
+
+Chapter 3 ­ Reimbursement and Fee Schedule
+
+          Overview ....................................................................................................................................3-1
+          Reimbursement Information.......................................................................................................3-1
+          How to Read the Fee Schedule .................................................................................................3-3
+
+Appendices
+
+          Appendix A: Procedure Codes and Fee Schedule................................................................... A-1
+          Appendix B: Temporary Service Authorization ........................................................................ B-1
+                   Community Behavioral Health Services Coverage and Limitations Handbook
+
+                   INTRODUCTION TO THE HANDBOOK
+
+Overview           This chapter outlines the three types of Florida Medicaid policy handbooks
+                   that all enrolled providers must comply with in order to obtain reimbursement.
+Introduction       This chapter also describes the format used for the handbooks and instructs
+Background         the reader how to use the handbooks.
+
+Federal and State  There are three types of Florida Medicaid handbooks:
+Authority
+In This Chapter    · Provider General Handbook describes the Florida Medicaid program.
+                   · Coverage and limitations handbooks explain covered services, their
+
+                        limits, who is eligible to receive them, and any corresponding fee
+                        schedules. Fee schedules can be incorporated within the handbook or
+                        separately.
+                   · Reimbursement handbooks describe how to complete and file claims for
+                        reimbursement from Medicaid.
+
+                   The current Florida Medicaid provider handbooks are posted on the Medicaid
+                   fiscal agent's Web site at www.mymedicaid-florida.com. Select Public
+                   Information for Providers, then Provider Support, and then Provider
+                   Handbooks.
+
+                   The following federal and state laws govern Florida Medicaid:
+
+                   · Title XIX of the Social Security Act
+                   · Title 42 of the Code of Federal Regulations
+                   · Chapter 409, Florida Statutes
+                   · Rule Division 59G, Florida Administrative Code
+
+                   This chapter contains:                                         PAGE
+                                                                                     i
+                    TOPIC                                                            ii
+                    Overview                                                         iii
+                    Handbook Use                                                     iv
+                    Characteristics of the Handbook
+                    Handbook Updates
+
+March 2014                                                                                         i
+                  Community Behavioral Health Services Coverage and Limitations Handbook
+
+Handbook Use      The purpose of the Medicaid handbooks is to educate the Medicaid provider
+                  about policies and procedures needed to receive reimbursement for covered
+Purpose           services provided to eligible Florida Medicaid recipients.
+
+Provider          The handbooks provide descriptions and instructions on how and when to
+                  complete forms, letters, or other documentation.
+Recipient
+Provider          Term used to describe any entity, facility, person, or group who is enrolled in
+General Handbook  the Medicaid program and provides services to Medicaid recipients and bills
+                  Medicaid for services.
+Coverage and
+Limitations       Term used to describe an individual enrolled in Florida Medicaid.
+Handbook
+                  Information that applies to all providers regarding the Florida Medicaid
+Reimbursement     program, recipient eligibility, provider enrollment, fraud and abuse policy, and
+Handbook          important resources are included in the Florida Medicaid Provider General
+                  Handbook.
+
+                  Each coverage and limitations handbook is named for the service it describes.
+                  A provider who renders more than one type of Medicaid service will have
+                  more than one coverage and limitations handbook with which they must
+                  comply.
+
+                  Most reimbursement handbooks are named for the type of claim form
+                  submitted.
+
+March 2014        ii
+                   Community Behavioral Health Services Coverage and Limitations Handbook
+
+Characteristics of the Handbook
+
+Format             The format of the handbook represents a reader-friendly way of displaying
+                   material.
+
+Label              Labels are located in the left margin of each information block. They identify
+                   the content of the block in order to help scanning and locating information
+                   quickly.
+
+Information Block  Information blocks replace the traditional paragraph and may consist of one
+                   or more paragraphs about a portion of the subject. Blocks are separated by
+                   horizontal lines.
+
+                   Each block is identified or named with a label.
+
+Chapter Topics     Each chapter contains a list of topics on the first page, which serves as a
+                   table of contents for the chapter, listing the subjects and the page number
+                   where the subject can be found.
+
+Note               Note is used to refer the reader to other important documents or policies
+                   contained outside of this handbook.
+
+Page Numbers       Pages are numbered consecutively within each chapter throughout the
+                   handbook. The chapter number appears as the first digit before the page
+                   number at the bottom of each page.
+
+White Space        The "white space" found throughout a handbook enhances readability and
+                   allows space for writing notes.
+
+March 2014                                                                                         iii
+                     Community Behavioral Health Services Coverage and Limitations Handbook
+
+Handbook Updates
+
+Update Log           The first page of each handbook will contain the update log.
+
+                     Every update will contain a new updated log page with the most recent update
+                     information added to the log. The provider can use the update log to
+                     determine if all updates to the current handbook have been received.
+
+                     Each update will be designated by an "Update" and "Effective Date."
+
+Handbook Update      The Medicaid handbooks will be updated as needed. Updates are classified
+Classifications      as either a:
+
+                     · Replacement handbook ­ Major revisions resulting in a rewrite of the
+                          existing handbook, without any underlines and strikethroughs throughout
+                          the rulemaking process.
+
+                     · Revised handbook ­ Minor revisions resulting in modification of the
+                          existing handbook identified during the rulemaking process by underlines
+                          and strikethroughs.
+
+Handbook Effective   The effective date of a handbook is the month and year that will appear on the
+Date                 final published handbook. The provider can check this date to ensure that the
+                     material being used is the most current and up to date.
+
+Identifying New      New information or information moved from one place to another within the
+Information          handbook will be identified by an underline on draft versions of the handbook
+                     during the development and proposed stages of the rulemaking process (e.g.,
+                     new information).
+
+Identifying Deleted  Deleted information will be identified by a line through the middle of the
+Information          selected text on draft versions of the handbook during the development and
+                     proposed stages of the rulemaking process (e.g., deleted information).
+
+Final Published      The adopted and published version of the handbook will not have underlines
+Handbook             (indicating insertions) and text with strikethroughs (indicating deletions).
+
+March 2014                                                                                          iv
+                         Community Behavioral Health Services Coverage and Limitations Handbook
+
+                                                 CHAPTER 1
+            QUALIFICATIONS, ENROLLMENT, AND REQUIREMENTS
+
+Overview
+
+Introduction        This chapter describes Florida Medicaid's community behavioral health
+                    services, the specific authority regulating these services, staff qualifications,
+                    and provider enrollment and requirements.
+
+Legal Authority     Community behavioral health services are authorized by section 409.906,
+                    Florida Statutes (F.S.), and in Rule 59G-4.050, Florida Administrative Code
+                    (F.A.C.).
+
+In This Chapter     This chapter contains:
+
+                     TOPIC                                  PAGE
+                     Overview                                 1-1
+                     Purpose and Definitions                  1-1
+                     Staff Qualifications                     1-4
+                     Enrollment                              1-10
+                     Requirements                            1-12
+
+Purpose and Definitions
+
+Medicaid Provider   This handbook is intended for use by community behavioral health services
+Handbooks           providers that render services to eligible Medicaid recipients. It must be used
+                    in conjunction with the Florida Medicaid Provider Reimbursement Handbook,
+                    CMS-1500, which contains information about specific procedures for
+                    submitting claims for payment, and the Florida Medicaid Provider General
+                    Handbook, which describes the Florida Medicaid program.
+
+                    Note: The Florida Medicaid provider handbooks are available on the Medicaid
+                    fiscal agent's Web site at www.mymedicaid-florida.com. Select Public
+                    Information for Providers, then Provider Support, and then Provider
+                    Handbooks. All of the Florida Medicaid provider handbooks are incorporated
+                    by reference in Rule Division 59G, F.A.C.
+
+Aftercare Planning  The process of planning for a recipient's transition from the current level of
+                    care. This process begins during the assessment process when the
+                    recipient's needs and possible barriers to care are identified.
+
+                    The recipient and the treating staff should collaborate to develop the
+                    recipient's individualized formal aftercare plan. A formal aftercare plan should
+                    include community resources, activities, services, and supports that will be
+                    utilized to help the recipient sustain gains achieved during treatment.
+
+March 2014                                                  1-1
+                        Community Behavioral Health Services Coverage and Limitations Handbook
+
+Purpose and Definitions, continued
+
+Bachelor's Level        A bachelor's level practitioner who provides services to recipients under the
+Infant Mental Health    age of 6 years.
+Practitioner
+
+Discharge Criteria      Measurable criteria established at the onset of treatment that identify a
+                        recipient's readiness to transition to a new level of care or out of care.
+                        Discharge criteria must be included on the recipient's individualized treatment
+                        plan and are separate and apart from the recipient's treatment plan goals and
+                        objectives.
+
+                        The recipient and the treating staff should collaborate to develop the
+                        individualized, measurable discharge criteria. The recipient's progress toward
+                        meeting the discharge criteria should be addressed throughout the course of
+                        treatment as part of the treatment plan review.
+
+Emotional               A person under the age of 21 years who is diagnosed with a mental,
+Disturbance             emotional, or behavioral disorder of sufficient duration to meet one of the
+                        diagnostic categories specified in the most recent edition of the Diagnostic
+                        and Statistical Manual of the American Psychiatric Association, but who does
+                        not exhibit behaviors that substantially interfere with or limit the role or ability
+                        to function in the family, school, or community. The emotional disturbance
+                        must not be considered to be a temporary response to a stressful situation.
+
+Hub Site                The telecommunication distance site in Florida at which the consulting
+                        physician, dentist or therapist is delivering telemedicine services.
+
+Infant Mental Health    A mental health aide who provides services to recipients under the age of 6
+Aides                   years.
+
+Institution for Mental  A hospital or other institution of more than 16 beds that is primarily engaged
+Disease                 in providing diagnosis, treatment, or care to persons with behavioral diseases
+                        in accordance with 42 CFR 435.1010.
+
+Other Responsible       A relative, legal guardian, caretaker, or other individuals and natural supports
+Persons                 who are known to the recipient and family and are active in providing care to
+                        the recipient.
+
+March 2014                                                                                      1-2
+                       Community Behavioral Health Services Coverage and Limitations Handbook
+
+Purpose and Definitions, continued
+
+Serious Emotional      A person under the age of 21 years who is all of the following:
+Disturbance
+                       · Diagnosed as having a mental, emotional, or behavioral disorder that
+                            meets one of the diagnostic categories specified in the most recent
+                            edition of the Diagnostic and Statistical Manual of Mental Disorders of the
+                            American Psychiatric Association.
+
+                       · Exhibits behaviors that substantially interfere with or limit the role or
+                            ability to function in the family, school, or community, which behaviors are
+                            not considered to be a temporary response to a stressful situation.
+
+Shelter Status         The legal status that begins when a recipient under the age of 18 years is
+                       taken into the protective custody of the Department of Children and Families
+                       (DCF) and ceases when one of the following occurs:
+
+                       · Court grants custody to a parent.
+                       · After disposition of the petition for dependency.
+                       · Court orders the child to be released to a parent or placed in the
+
+                            temporary custody of a relative, a nonrelative, or DCF.
+
+Spoke Site             The provider office location in Florida where an approved service is being
+                       furnished through telemedicine.
+
+Telemedicine           The practice of health care delivery using telecommunication equipment by
+                       the treating provider (at the spoke site) for the provision of approved covered
+                       services by the consulting provider (at the hub site) for the purpose of
+                       evaluation, diagnosis, or treatment.
+
+Treating Practitioner  A Medicaid-enrolled professional who authorizes services within the purview
+                       of that practitioner's credentials and state law on behalf of the Medicaid group
+                       provider (provider type 05).
+
+Treatment Team         Key staff involved in planning and providing behavioral health services to the
+                       recipient.
+
+March 2014                                                                                         1-3
+                      Community Behavioral Health Services Coverage and Limitations Handbook
+
+Staff Qualifications
+
+General               Community behavioral health provider staff must provide services within the
+                      scope of professional licensure or certification, training, protocols, and
+                      competence.
+
+                      Providers must maintain staff records with background screening results,
+                      state mandated I-9 results, staff qualifications, verification of work
+                      experience, reference checks, and evidence of ongoing training. These
+                      records must additionally reflect adherence to human resources policies and
+                      procedures established by the provider.
+
+Advanced              A licensed ARNP who works in collaboration with a physician according to
+Registered Nurse      protocol to provide diagnostic and interventional patient care. An ARNP must
+Practitioner (ARNP)   be authorized to provide these services in accordance with Chapter 464,
+                      F.S., and protocols filed with the Florida Board of Nursing.
+
+Bachelor's Level      A bachelor's level infant mental health practitioner must have completed 20
+Infant Mental Health  hours of documented training in the following areas, prior to working with this
+Practitioner          age population:
+
+                      · Early childhood development
+                      · Behavior observation
+                      · Developmental screening
+                      · Parent and child intervention and interaction
+                      · Functional assessment
+                      · Developmentally appropriate practice for serving infants
+                      · Young children and their families
+                      · Psychosocial assessment and diagnosis of young children
+                      · Crisis intervention training
+
+                      Bachelor's level practitioners who have had the above training through
+                      conferences, workshops, continuing education credits, or academic training
+                      are not required to repeat the training.
+
+                      Bachelor's level infant mental health practitioners must be supervised by a
+                      master's level practitioner with two years of experience with recipients under
+                      the age of 6 years or by a licensed practitioner of the healing arts.
+
+March 2014            1-4
+                      Community Behavioral Health Services Coverage and Limitations Handbook
+
+Staff Qualifications, continued
+
+Bachelor's Level      A bachelor's level practitioner must meet all of the following criteria:
+Practitioner
+                      · A bachelor's degree from an accredited university or college with a major
+                           in counseling, social work, psychology, nursing, rehabilitation, special
+                           education, health education, or a related human services field.
+
+                      · Training in the treatment of behavioral health disorders, human growth
+                           and development, evaluations, assessments, treatment planning, basic
+                           counseling and behavior management interventions, case management,
+                           clinical record documentation, psychopharmacology, abuse regulations,
+                           and recipient rights.
+
+                      · Work under the supervision of a master's level practitioner.
+
+Behavioral Health     A behavioral health technician must:
+Technician
+                      · Have a high school diploma or equivalent and in-service training in the
+                           treatment of mental health disorders, abuse regulations, recipient rights,
+                           crisis management interventions, and confidentiality.
+
+                      · Work under the supervision of a bachelor's level practitioner or higher.
+                      · Be certified as a behavioral health technician by the Florida Certification
+
+                           Board (FCB).
+
+                      Note: Information on initial and renewal certification requirements can be
+                      found on the FCB Web site at www.flcertificationboard.org.
+
+Certified Addictions  A CAP must be certified by the FCB in accordance with Chapter 397, F.S.
+Professional (CAP)
+                      A bachelor's level CAP must have a bachelor's degree and be certified in
+                      accordance with Chapter 397, F.S. by the FCB.
+
+                      A master's level CAP must have a master's degree and be certified in
+                      accordance with Chapter 397, F.S. by the FCB.
+
+Certified Associate   A certified associate behavior analyst must be a National Board Certified
+Behavior Analyst      Associate Behavior Analyst or Florida Associate Behavior Analyst, who
+                      maintains active certification for a Florida Board Certified Associate Behavior
+                      Analyst.
+
+Certified Behavior    A certified behavior analyst must be a National Board Certified or Florida
+Analyst               Certified Behavior Analyst, who maintains active certification as required for
+                      a Florida Board Certified Behavior Analyst. A Board Certified Behavior
+                      Analyst may possess a master's degree (BCBA) or doctoral degree
+                      (BCBA-D).
+
+March 2014                                                                                      1-5
+                       Community Behavioral Health Services Coverage and Limitations Handbook
+
+Staff Qualifications, continued
+
+Certified Psychiatric  A certified psychiatric rehabilitation practitioner must be certified by the
+Rehabilitation         Certification Commission for Psychiatric Rehabilitation, established by the
+Practitioner           United States Psychiatric Rehabilitation Association, and is working under the
+                       supervision of a bachelor's level practitioner or higher.
+
+Certified Recovery     A certified recovery peer specialist--adult must be certified by the FCB and
+Peer Specialist--      must work under the supervision of a bachelor's level practitioner, master's
+Adult                  level CAP, or higher.
+
+Certified Recovery     A certified recovery peer specialist--family must be certified by the FCB and
+Peer Specialist--      must work under the supervision of a bachelor's level practitioner, master's
+Family                 level CAP, or higher.
+
+Certified Recovery     A certified recovery support specialist must be certified by the FCB and must
+Support Specialist     work under the supervision of a bachelor's level practitioner, master's level
+                       CAP, or higher.
+
+Clinical Social        A clinical social worker must be licensed in accordance with Chapter 491,
+Worker                 F.S.
+
+Infant Mental Health   Infant mental health aides must, at a minimum, have a high school diploma or
+Aides                  equivalent with at least two years' experience with infants and toddlers, or
+                       hold a Child Development Aide certificate.
+
+Licensed Practical     A licensed practical nurse must be licensed to practice practical nursing in
+Nurse                  accordance with Chapter 464, F.S.
+
+Licensed               LPHAs include:
+Practitioner of the
+Healing Arts (LPHA)    · Clinical social workers licensed in accordance with Chapter 491, F.S.
+                       · Mental health counselors, licensed in accordance with Chapter 491, F.S.
+                       · Marriage and family therapists licensed in accordance with Chapter 491,
+
+                            F.S.
+                       · Psychologists licensed in accordance with Chapter 490, F.S.
+                       · Clinical nurse specialists (CNS) with a subspecialty in child/adolescent
+
+                            psychiatric and mental health or psychiatric and mental health licensed in
+                            accordance with Chapter 496, F.S.
+                       · Psychiatric advanced registered nurse practitioners licensed in
+                            accordance with Chapter 464, F.S.
+                       · Psychiatric physician assistants licensed in accordance with Chapters
+                            458 and 459, F.S.
+
+March 2014                                                                                           1-6
+                     Community Behavioral Health Services Coverage and Limitations Handbook
+
+Staff Qualifications, continued
+
+Marriage and Family  A marriage and family therapist must be licensed in accordance with Chapter
+Therapist            491, F.S.
+
+Master's Level       A master's level practitioner must have a master's degree from an accredited
+Practitioner         university or college with a major in the field of counseling, social work,
+                     psychology, nursing, rehabilitation, special education, health education, or a
+                     related human services field with one of the following:
+
+                     · Two years of professional experience in providing services to persons
+                          with behavioral health disorders.
+
+                     · Current supervision under an LPHA as described in this section.
+
+                     Master's level practitioners hired after July 1, 2014 with degrees other than
+                     social work, psychology, marriage and family therapy, or mental health
+                     counseling must have completed graduate level coursework in at least four of
+                     the following thirteen content areas: human growth and development;
+                     diagnosis and treatment of psychopathology; human sexuality; counseling
+                     theories and techniques; group theories and practice; dynamics of marriage
+                     and family systems; individual evaluation and assessment; career and
+                     lifestyle assessment; research and program evaluation; personality theories;
+                     social and cultural foundations; counseling in community settings; and
+                     substance use disorders.
+
+Medical Assistant    A medical assistant must registered or certified in accordance with Chapter
+                     458, F.S.
+
+Mental Health        A mental health counselor must be licensed in accordance with Chapter 491,
+Counselor            F.S.
+
+Physician Assistant  A physician assistant must be a graduate of an approved program or its
+                     equivalent or meets standards approved by the Florida Board of Medicine and
+                     must be certified to perform medical services in accordance with Chapters
+                     458 and 459, F.S.
+
+Psychiatric          A psychiatric ARNP must have education or training in psychiatry and be
+Advanced             authorized to provide these services in accordance with Chapter 464, F.S.,
+Registered Nurse     and protocols filed with the Florida Board of Nursing.
+Practitioner (ARNP)
+
+March 2014                                                                                        1-7
+                      Community Behavioral Health Services Coverage and Limitations Handbook
+
+Staff Qualifications, continued
+
+Psychiatric Clinical  A psychiatric CNS must have a subspecialty in child/adolescent psychiatric
+Nurse Specialist      and mental health or psychiatric and mental health and be licensed in
+(CNS)                 accordance with Chapter 464, F.S., and who must meet all of the following
+                      criteria:
+
+                      · A current and active license as a registered nurse in Florida.
+                      · A master's degree or higher in nursing as a CNS.
+                      · Provide proof of current certification in a specialty area as a CNS from
+
+                           one of the four certifying bodies: American Nurses Credentialing Center,
+                           American Association of Critical-Care Nurses, Oncology Nursing
+                           Certification Corporation, and National Board for Certification of Hospice
+                           and Palliative Nurses; or meets the requirements of Chapter 464, F.S and
+                           has provided the required affidavit.
+                      · A certificate issued by the Florida Board of Nursing as a CNS.
+
+                      A registered nurse currently enrolled as an LPHA must be licensed as a CNS
+                      with a subspecialty of child/adolescent psychiatric and mental health or
+                      psychiatric and mental health by January 1, 2016.
+
+Psychiatric           A PPA must be a licensed prescribing physician assistant as defined in
+Physician Assistant   Chapter 458 or 459, F.S., with a Psychiatric Certificate of Added Qualification.
+(PPA)                 The PPA's supervising physician must be a provider type 25 or 26 that is
+                      linked to the community behavioral health group provider type 05.
+
+Psychologist          A psychologist must be licensed in accordance with Chapter 490, F.S.
+
+Registered Nurse      An RN must be licensed to practice professional nursing in accordance with
+(RN)                  Chapter 464, F.S.
+
+Substance Abuse       A substance abuse counselor must have a bachelor's degree from an
+Counselor             accredited university or college with a major in counseling, social work,
+                      psychology, nursing, rehabilitation, special education, health education, or a
+                      related human services field. In addition, the counselor must have training in
+                      the treatment of substance use disorders, to include signs and symptoms
+                      associated with abuse and dependence, human growth and development,
+                      evaluations and assessments, treatment planning, addictions counseling and
+                      behavior management interventions, twelve-step recovery, case
+                      management, clinical record documentation, pharmacology, abuse
+                      regulations, patient rights, and special circumstances, such as emergencies,
+                      suicide, and out-of-control behavior.
+
+March 2014                                                                                  1-8
+                       Community Behavioral Health Services Coverage and Limitations Handbook
+
+Staff Qualifications, continued
+
+Substance Abuse        A substance abuse technician must have a high school degree or equivalent,
+Technician             must be working under the supervision of a bachelor's level practitioner or
+                       higher, and one of the following:
+
+                       · In-service training in the treatment of substance use disorders
+                       · Five years of experience working directly with recipients experiencing
+
+                            substance use disorders in a treatment setting.
+
+                       The substance abuse technician must be able to function as a member of a
+                       recipient's multidisciplinary team, provide therapeutic support, and recognize
+                       the signs and symptoms associated with abuse and dependence. The
+                       substance abuse technician must be familiar with substance use rules and
+                       regulations, confidentiality, twelve-step recovery concepts, clinical record
+                       documentation requirements, and patient rights, and be able to respond to
+                       special circumstances such as emergencies, suicide, and out-of-control
+                       behavior.
+
+Treating Practitioner  Treating practitioners include:
+
+                       · Physician
+                       · Psychiatrist
+                       · Psychiatric ARNP
+                       · PPA
+                       · LPHA
+                       · Master's level CAP (for the authorization of substance use treatment only)
+
+March 2014                       1-9
+                       Community Behavioral Health Services Coverage and Limitations Handbook
+
+Enrollment
+
+Introduction           The qualifications listed in this section apply to the following providers:
+
+                       · Community behavioral health services (provider type 05)
+                       · Treating physicians (provider types 25 and 26)
+                       · Treating practitioners (provider type 07)
+
+                       Note: Enrollment forms may be obtained from the Medicaid fiscal agent's
+                       Web site at www.mymedicaid-florida.com, select Public Information for
+                       Providers, then Provider Support, and then Enrollment, or by calling Provider
+                       Enrollment at 1-800-289-7799 and selecting Option 4.
+
+Provider               To enroll as a Medicaid community behavioral health services provider,
+Qualifications         providers must meet all of the following:
+
+                       · Employ or have under contract a Medicaid-enrolled psychiatrist or a
+                            physician, who is linked with the Medicaid group provider.
+
+                       · Achieve compliance on a community behavioral health services provider
+                            pre-enrollment certification review.
+
+                       · Hold a regular (i.e., not probationary or interim) substance abuse license
+                            in accordance with Chapter 65D-30, F.A.C., for at least one of the
+                            following components, if substance abuse services are provided:
+
+                       · Prevention
+                       · Intervention
+                       · Outpatient
+
+Treating Practitioner  A treating practitioner must be independently enrolled in the Florida Medicaid
+                       program per provider type.
+
+Treating Physician     A treating physician must enroll as a provider type 25 or 26 and must also be
+                       linked to a community behavioral health group (provider type 05).
+
+                       Services provided by the treating physician must be reimbursed through the
+                       community behavioral health group (provider type 05) provider Medicaid
+                       number, not the treating physician's (provider type 25 or 26) Medicaid
+                       provider number.
+
+Psychiatric            A psychiatric ARNP must enroll as a provider type 07 and must also be linked
+Advanced               to a group provider type 05. To enroll as a provider type 07, a psychiatric
+Registered Nurse       ARNP must submit a signed Practitioner Collaborative Agreement form with a
+Practitioner (ARNP)    physician (provider type 25 or 26) that is linked to the community behavioral
+                       health group (provider type 05). Community behavioral health services
+                       provided by a psychiatric ARNP must be reimbursed through the community
+                       behavioral health group (provider type 05) Medicaid number.
+
+March 2014             1-10
+                       Community Behavioral Health Services Coverage and Limitations Handbook
+
+Enrollment, continued
+
+Psychiatric            A PPA must enroll as a provider type 07 and must also be linked to a
+Physician Assistant    community behavioral health group (provider type 05). To enroll as provider
+(PPA)                  type 07, a PPA must submit a signed Practitioner Collaborative Agreement
+                       form with a physician (provider type 25 or 26) that is linked to the community
+                       behavioral health group (provider type 05).
+
+                       Community behavioral health services provided by a PPA must be
+                       reimbursed through the community behavioral health group provider type 05
+                       Medicaid number.
+
+Licensed               A treating LPHA must enroll as a provider type 07 and must also be linked to
+Practitioner of the    a community behavioral health group (provider type 05) for services rendered
+Healing Arts (LPHA)    in the capacity of a treating practitioner in order to be qualified and
+                       reimbursed.
+
+Certified Addictions   A CAP with a master's degree must enroll as provider type 07 and must also
+Professional (CAP)     be linked to a community behavioral health group (provider type 05) in order
+                       to authorize services for treatment for substance use disorders.
+
+Pre-Enrollment         Agencies or organizations seeking enrollment as community behavioral
+Provider               health providers must complete a provider pre-enrollment certification review
+Certification Review   with Medicaid or its designee, to assure compliance with state and federal
+                       guidelines.
+
+Multiple Service       Community behavioral health services agency providers who render services
+Locations within the   at more than one service address within the same Medicaid-designated area
+Same Medicaid-         are required to submit an application for a new location code to identify each
+Designated Area        separate physical address where services are provided. The application for a
+                       new location code is an attachment to the Florida Medicaid Provider
+                       Enrollment Application.
+
+                       Providers must use the code assigned to the location when billing for
+                       services provided at that location.
+
+                       Additional service sites are subject to an on-site review by the local Medicaid
+                       area office or its designee.
+
+March 2014             1-11
+                       Community Behavioral Health Services Coverage and Limitations Handbook
+
+Enrollment, continued
+
+Multiple Service       Community behavioral health services agency providers who render services
+Locations in           at more than one service address in different Medicaid-designated areas are
+Different Medicaid-    required to submit a separate Florida Medicaid Provider Enrollment
+Designated Areas       Application for each Medicaid-designated area.
+
+                       Providers must use the code assigned to the location when billing for
+                       services provided at that location.
+
+                       Additional service sites are subject to an on-site review by the local Medicaid
+                       area office or its designee.
+
+Subcontracting         Florida Medicaid allows a provider to contract with an individual practitioner,
+                       but not with another agency for service delivery.
+
+                       As of July 1, 2014, providers are required to retain all contracts with
+                       subcontracted staff for no less than five years from the termination date of the
+                       contract. Providers must maintain subcontractor records with background
+                       screening results, staff qualifications, and verification of work experience.
+                       These records must additionally reflect adherence to human resources
+                       policies and procedures established by the provider related to subcontracting.
+
+Requirements
+
+Providers Contracted   The service-specific Medicaid coverage and limitations handbooks provide
+with Medicaid Health   the minimum requirements for all providers. This includes providers who
+Plans                  contract with Florida Medicaid health plans (e.g., provider service networks
+                       and health maintenance organizations). Providers shall comply with all of
+                       the requirements outlined in this handbook, unless otherwise specified in
+                       their contract with the health plan. The provision of services to recipients
+                       enrolled in a Medicaid health plan shall not be subject to more stringent
+                       criteria or limits than specified in this handbook.
+
+March 2014             1-12
+                   Community Behavioral Health Services Coverage and Limitations Handbook
+
+                                              CHAPTER 2
+                 COVERED, LIMITED, AND EXCLUDED SERVICES
+
+Overview
+
+Introduction       This chapter provides service coverage, limitations, and exclusions
+                   information. It also describes who can provide and receive services and any
+                   applicable service requirements.
+
+In This Chapter    This chapter contains the following section topics:
+
+                    TOPIC                                                         PAGE
+                    Overview                                                        2-1
+                    General Coverage Information                                    2-1
+                    Assessment Services                                             2-5
+                    Treatment Plan Development and Modification                    2-13
+                    Medical and Psychiatric Services                               2-17
+                    Behavioral Health Therapy Services                             2-21
+                    Community Support and Rehabilitative Services                  2-26
+                    Therapeutic Behavioral On-Site Services for Recipients Under   2-29
+                    the Age of 21 Years
+                    Nursing Facility Residents                                     2-34
+                    Excluded Services                                              2-35
+
+General Coverage Information
+
+Medical Necessity  Medicaid reimburses services that are determined medically necessary and
+                   do not duplicate another provider's service.
+
+                   Rule 59G-1.010 (166), Florida Administrative Code (F.A.C.) defines
+                   "medically necessary" or "medical necessity" as follows:
+
+                   "[T]he medical or allied care, goods, or services furnished or ordered must:
+
+                   (a) Meet the following conditions:
+                        1. Be necessary to protect life, to prevent significant illness or
+                             significant disability, or to alleviate severe pain;
+                        2. Be individualized, specific, and consistent with symptoms or
+                             confirmed diagnosis of the illness or injury under treatment, and not
+                             in excess of the patient's needs;
+                        3. Be consistent with generally accepted professional medical
+                             standards as determined by the Medicaid program and not
+                             experimental or investigational;
+
+March 2014                                                                        2-1
+                     Community Behavioral Health Services Coverage and Limitations Handbook
+
+General Coverage Information, continued
+
+Medical Necessity,        4. Be reflective of the level of service that can be safely furnished, and
+continued                      for which no equally effective and more conservative or less costly
+                               treatment is available statewide; and
+
+                          5. Be furnished in a manner not primarily intended for the convenience
+                               of the recipient, the recipient's caretaker, or the provider."
+
+                     "(c) The fact that a provider has prescribed, recommended, or approved
+                     medical or allied care, goods, or services does not, in itself, make such care,
+                     goods or services medically necessary or a medical necessity or a covered
+                     service."
+
+Exceptions to the    As required by federal law, Florida Medicaid provides services to eligible
+Limits (Special      recipients under the age of 21 years, if such services are medically
+Services) Process    necessary to correct or ameliorate a defect, a condition, or a physical or
+                     mental illness. Included are diagnostic services, treatment, equipment,
+                     supplies, and other measures described in section 1905(a) of the Social
+                     Security Act, codified in Title 42 of the United States Code 1396d(a).
+
+                     Services for recipients under the age of 21 years in excess of limitations
+                     described within this handbook or the associated fee schedule may be
+                     approved, if medically necessary, through the process described in the
+                     Florida Medicaid Provider General Handbook.
+
+Description          Community behavioral health services include mental health and substance
+                     abuse services provided to recipients with mental health, substance use, and
+                     co-occurring mental health and substance use disorders for the maximum
+                     reduction of the recipient's disability and restoration to the best possible
+                     functional level.
+
+General Requirement  Providers must request reimbursement only for services that are rendered by
+                     individuals employed by, under contract with, or who are compensated
+                     monetarily by the provider.
+
+March 2014                                                                                       2-2
+                    Community Behavioral Health Services Coverage and Limitations Handbook
+
+General Coverage Information, continued
+
+Assessment          Prior to the development of a treatment plan the provider must complete and
+Requirement         provide to the recipient an assessment of mental health status, substance
+                    use concerns, functional capacity, strengths, and service needs or must
+                    have an assessment on file that has been conducted in the last six months.
+                    The purpose of the assessment is to gather information to be used in the
+                    formulation of a diagnosis and development of a plan of care that includes
+                    the discharge criteria.
+
+                    For recipients under the age of 6 years, a comprehensive behavioral health
+                    assessment completed within the past year, in accordance with the Florida
+                    Medicaid Specialized Therapeutic Services Coverage and Limitations
+                    Handbook, may satisfy the current assessment requirement for services.
+
+Recipient Clinical  Providers must maintain a clinical record for each recipient treated that
+Record              contains all of the following documentation:
+
+                    · Consent for treatment that is signed by the recipient or the recipient's
+                         legal guardian. An explanation must be provided for signatures omitted
+                         in situations of exception.
+
+                    · An evaluation or assessment that, at a minimum, contains the
+                         components of a brief behavioral health status examination conducted
+                         by a physician, psychiatrist, a licensed practitioner of the healing arts
+                         (LPHA), or master's level certified addictions professional (CAP) for
+                         diagnostic and treatment planning purposes. For new admissions, the
+                         evaluation or assessment by an LPHA for treatment planning purposes
+                         must have been completed within the past six months.
+
+                    · Copies of relevant assessments, reports, and tests.
+                    · Service notes (progress toward treatment plans and goals).
+                    · Documentation of service eligibility, if applicable.
+                    · Current treatment plans (within the last six months), reviews, and
+
+                         addenda.
+                    · Copies of all certification forms (e.g., comprehensive behavioral health
+
+                         assessment).
+                    · The practitioner's orders and results of diagnostic and laboratory tests.
+                    · Documentation of medication assessment, prescription, and
+
+                         management.
+
+                    Note: For information about electronic records, see the Florida Medicaid
+                    Provider General Handbook.
+
+March 2014                               2-3
+                 Community Behavioral Health Services Coverage and Limitations Handbook
+
+General Coverage Information, continued
+
+General Service  Providers must maintain documentation to support each service for which
+Documentation    Medicaid reimbursement is requested; clearly distinguish and reference each
+Requirements     separate service billed; and be authenticated with the dated signature of the
+                 individual who rendered the service. The date of a claim should be the same
+                 as the date the service was rendered.
+
+                 Service documentation must contain all of the following:
+
+                 · Recipient's name
+                 · Date the service was rendered
+                 · Start and end times
+                 · Identification of the setting in which the service was rendered
+                 · Identification of the specific problem, behavior, or skill deficit for which the
+
+                      service is being provided
+                 · Identification of the service rendered
+                 · Updates regarding the recipient's progress toward meeting treatment-
+
+                      related goals and objectives addressed during the provision of a service
+                 · Dated signature of the individual who rendered the service
+                 · Printed or stamped name identifying the signature of the individual who
+
+                      rendered the service and the credentials (e.g., licensed clinical social
+                      worker) or functional title (e.g., treating practitioner)
+
+                 Note: For information about electronic signatures, see the Florida Medicaid
+                 Provider General Handbook.
+
+Compliance and   Provider's compliance with service eligibility determination procedures,
+Quality of Care  service authorization policy, staffing requirements, and service documentation
+Reviews          requirements can be reviewed periodically by AHCA or its designee.
+                 Providers that violate these requirements are subject to recoupments, fines,
+                 or termination in accordance with section 409.913, F.S.
+
+March 2014                               2-4
+                     Community Behavioral Health Services Coverage and Limitations Handbook
+
+General Coverage Information, continued
+
+Telemedicine         Services must be delivered from a facility that is enrolled in Medicaid as a
+                     community behavioral health services provider for Medicaid to reimburse for
+                     services delivered through telemedicine. Services that can be provided
+                     through telemedicine are listed in the Procedure Codes and Fee Schedule,
+                     found in the appendices.
+
+                     The following interactions do not constitute reimbursable telemedicine
+                     services:
+
+                     · Telephone conversations
+                     · Video cell phone interactions
+                     · E-mail messages
+                     · Facsimile transmission
+                     · "Store and forward" visits and consultations, which are transmitted after
+
+                          the recipient or psychiatrist is no longer available
+
+                     Providers utilizing telemedicine must implement technical written policies and
+                     procedures for telemedicine systems that comply with the Health Insurance
+                     Portability and Accountability Act privacy regulations as well as applicable
+                     state and federal laws that pertain to patient privacy. Policies and procedures
+                     must also address the technical safeguards required by Title 45, Code of
+                     Federal Regulations, section 164.312, where applicable.
+
+Assessment Services
+
+Introduction         All assessment services must be billed with the correct procedure code and
+                     modifier found in the appendices. Assessment services include the following:
+
+                     · Psychiatric evaluation
+                     · Brief behavioral health status examination
+                     · Psychiatric review of records
+                     · In-depth assessment
+                     · Bio-psychosocial evaluation
+                     · Psychological testing
+                     · Limited functional assessment
+
+Assessment           In addition to meeting the general documentation requirements, a written
+Documentation        report of evaluation and testing results for services listed in this section must
+Requirements         be completed by the individual rendering the service.
+
+March 2014                               2-5
+                  Community Behavioral Health Services Coverage and Limitations Handbook
+
+Assessment Services, continued
+
+Psychiatric       A psychiatric evaluation is a comprehensive evaluation that investigates the
+Evaluation        recipient's clinical status.
+
+                  The purpose of a psychiatric evaluation is to establish a therapeutic doctor­
+                  patient relationship, gather accurate data in order to formulate a diagnosis,
+                  and initiate an effective treatment plan.
+
+                  A psychiatric evaluation must be conducted at the onset of illness. It can be
+                  utilized again if an extended hiatus occurs, a marked change in mental status
+                  occurs, or admission or readmission to an inpatient setting for a psychiatric
+                  illness is being considered or occurs.
+
+                  Provision of a psychiatric evaluation is not considered necessary when the
+                  recipient has a previously established diagnosis of organic brain disorder
+                  (dementia), unless there has been a change in mental status requiring an
+                  evaluation to rule-out additional psychiatric or neurological processes that
+                  may be treatable.
+
+Evaluation        A psychiatric evaluation must provide information on the following
+Components        components:
+
+                  · Presenting problems
+                  · History of the presenting illness or problem
+                  · Psychiatric history
+                  · Physical history
+                  · Trauma history
+                  · Medication history
+                  · Alcohol and other drug use history
+                  · Relevant personal and family medical history
+                  · Personal strengths
+                  · Mental health status examination
+                  · Summary of findings
+                  · Diagnostic formulation
+                  · Treatment recommendations or plan
+
+Who Must Provide  A psychiatric evaluation must be provided by one of the following qualified
+                  treating practitioners:
+
+                  · Treating physician
+                  · Treating psychiatrist
+                  · Psychiatric physician assistant (PPA)
+                  · Psychiatric ARNP
+
+March 2014                                                                                     2-6
+                  Community Behavioral Health Services Coverage and Limitations Handbook
+
+Assessment Services, continued
+
+Brief Behavioral  A brief behavioral health status examination is a brief clinical, psychiatric,
+Health Status     diagnostic, or evaluative interview to assess behavioral stability or treatment
+Examination       status. A brief behavioral health status examination must be completed prior
+                  to the development of the recipient's individualized treatment plan.
+
+                  A brief behavioral health status examination is not required when a psychiatric
+                  evaluation, bio-psychosocial assessment, or in-depth assessment has been
+                  completed by a physician, psychiatrist, LPHA, or a master's level CAP within
+                  six months prior to the development of recipient's treatment plan.
+
+Examination       A brief behavioral health status examination must provide information on all of
+Components        the following components:
+
+                  · Purpose of the exam
+                  · Mental health status
+                  · Summary of findings
+                  · Diagnostic formulation
+                  · Treatment recommendations or plan
+
+Who Must Provide  A brief behavioral health status examination must be provided by one of the
+                  following qualified practitioners:
+
+                  · Physician
+                  · Psychiatrist
+                  · LPHA
+                  · Master's level CAP on the behalf of recipients with a primary diagnosis of
+
+                       a substance use disorder and no co-occurring mental health concerns
+
+March 2014                      2-7
+                    Community Behavioral Health Services Coverage and Limitations Handbook
+
+Assessment Services, continued
+
+Psychiatric Review  A psychiatric review of records includes a review of a recipient records,
+of Records          psychiatric reports, psychometric or projective tests, and clinical and
+                    psychological evaluation data for diagnostic use in evaluating and planning
+                    for recipient care. A written report must be done by the individual rendering
+                    the service and must be included in the recipient's clinical record.
+
+                    A psychiatric review of records does not include a review of the provider
+                    agency's own records except for psychological testing and other evaluations
+                    or evaluative data used explicitly to address documented diagnostic
+                    questions.
+
+Who Must Provide    A psychiatric review of records must be provided by one of the following
+                    qualified practitioners:
+
+                    · Physician
+                    · Psychiatrist
+                    · PPA
+                    · Psychiatric ARNP
+
+Specific            A psychiatric review of records may be documented in a report format or by a
+Documentation       progress note in the recipient's clinical record.
+Requirements
+                    The sole use of checklists or fill in the blank forms is not allowed.
+
+In-Depth            An in-depth assessment is a diagnostic tool for gathering information to
+Assessment          establish or support a diagnosis, to provide the basis for the development of
+                    or modification to the treatment plan, and to develop the discharge criteria.
+                    The in-depth assessment must include an integrated summary as described
+                    here.
+
+                    Written documentation must be included in the recipient's clinical record to
+                    support the recipient's eligibility for this service.
+
+March 2014                                                                                    2-8
+            Community Behavioral Health Services Coverage and Limitations Handbook
+
+Assessment Services, continued
+
+Assessment  The in-depth assessment must provide detailed information on all the
+Components  following components:
+
+            · Chief complaint--recipient's perception of problems, needs, or prominent
+                 symptoms.
+
+            · Personal history, including:
+                 - Identifying information
+                 - Medical
+                 - Alcohol and other drug use
+                 - Traumatic experiences
+                 - Legal involvement
+                 - Educational analysis
+                 - Resources and strengths.
+
+             · History of treatment (as applicable), including:
+                 - Psychiatric treatment to include previous and current psychotropic
+                      medications
+                 - Inpatient behavioral health treatment
+                 - Acute care treatment
+                 - Therapy and counseling
+                 - Mental health status examination
+                 - Desired services and goals from the recipient's viewpoint
+                 - Treatment recommendations or plan
+
+            For recipients under the age of 6 years, the in-depth assessment must include
+            the following additional components:
+
+            · Presenting symptoms and behaviors
+            · Developmental and medical history: history of the mother's pregnancy and
+
+                 the recipient's delivery, past and current medical conditions, and
+                 developmental milestones
+            · Family psychosocial and medical history (can be as reported or based
+                 upon collateral information)
+            · Family functioning, cultural and communication patterns, and current
+                 environmental conditions and stressors
+            · Clinical interview with the primary caretaker and observation of the
+                 caregiver­infant or ­child relationship and interactive patterns
+            · Provider's observation and assessment of the recipient, including
+                 affective, language, cognitive, motor, sensory, self-care, and social
+                 functioning
+
+March 2014                      2-9
+                    Community Behavioral Health Services Coverage and Limitations Handbook
+
+Assessment Services, continued
+
+Who Can Receive     A new in-depth assessment can be provided to recipients who meet one of
+                    the following criteria:
+
+                    · Recipients who are being admitted to treatment when it is documented
+                         that a psychosocial evaluation or bio-psychosocial evaluation was
+                         insufficient in providing a comprehensive basis for treatment planning.
+
+                    · Recipients who have been identified as high-risk.
+                    · Recipients, under the age of 6 years, who are exhibiting symptoms of an
+
+                         emotional or behavior nature that are atypical for the child's age and
+                         development.
+
+                    An established patient in-depth assessment may be provided to recipients
+                    who meet one of the following criteria:
+
+                    · Recipients for whom outpatient services, as initially prescribed, have been
+                         unsuccessful and whose clinical record documents a need for a more
+                         intensive level of treatment.
+
+                    · Recipients who have been identified through the utilization management
+                         process as being high risk or high utilizers of behavioral health services.
+
+Who Must Provide    The in-depth assessment and integrated summary must be provided by one
+                    of the following qualified practitioners:
+
+                    · Physician
+                    · Psychiatrist
+                    · LPHA
+                    · Master's level CAP
+                    · Master's level practitioner
+
+                    For recipients, under the age of 6 years, the in-depth assessment must be
+                    provided by one of the above professionals who has training and experience
+                    in infant, toddler, and early childhood development and the observation and
+                    assessment of young children.
+
+Integrated Summary  The integrated summary is developed after the in-depth assessment has
+Specific            been completed. The integrated summary is written to evaluate, integrate,
+Documentation       and interpret from a broad perspective, the history and assessment
+Requirements        information collected. The summary identifies and prioritizes the recipient's
+                    service needs, establishes a diagnosis, provides an evaluation of the efficacy
+                    of past interventions, and helps to establish discharge criteria.
+
+                    The integrated summary must meet the assessment documentation
+                    standards defined in this handbook.
+
+March 2014                      2-10
+                  Community Behavioral Health Services Coverage and Limitations Handbook
+
+Assessment Services, continued
+
+Bio-Psychosocial  A bio-psychosocial evaluation describes the biological, psychological, and
+Evaluation        social factors that may have contributed to the recipient's need for services.
+                  The evaluation includes a brief mental status exam and preliminary service
+                  recommendations.
+
+                  When it is consistent with the recipient's treatment needs, bio-psychosocial
+                  evaluations can be completed using telemedicine.
+
+Evaluation        A bio-psychosocial evaluation must provide information on all the following
+Components        components:
+
+                  · Presenting problems
+                  · Biological factors
+                  · Psychological factors
+                  · Social factors
+                  · Mental health status examination
+                  · Summary of findings
+                  · Diagnostic impression
+                  · Treatment recommendations or plan
+
+Who Must Provide  A bio-psychosocial evaluation must be provided by one of the following
+                  qualified practitioners:
+
+                  · Physician
+                  · Psychiatrist
+                  · LPHA
+                  · Master's level CAP
+                  · Master's level practitioner
+                  · CAP
+                  · Bachelor's level practitioner
+
+Who Must Review   A bio-psychosocial evaluation completed by a bachelor's level practitioner
+                  must be reviewed, signed, and dated by a master's level practitioner,
+                  bachelor's level CAP, or a treating practioner prior to completion of the
+                  treatment planning process. The review must include clinical impressions, a
+                  provisional diagnosis, and a statement by the reviewer that indicates
+                  concurrence or alternative recommendations regarding treatment.
+
+March 2014                                                                                2-11
+                    Community Behavioral Health Services Coverage and Limitations Handbook
+
+Assessment Services, continued
+
+Psychological       Psychological testing is the assessment, evaluation, and diagnosis of the
+Testing             recipient's mental status or psychological condition through the use of
+                    standardized testing methodologies.
+
+Who Can Receive     Recipients are eligible to receive psychological testing only under one or more
+                    of the following circumstances:
+
+                    · At the onset of illness or suspected illness or when the recipient first
+                         presents for treatment.
+
+                    · If an extended hiatus in treatment or a marked change in status occurs, or
+                         if the recipient is being considered for admission or readmission to a
+                         psychiatric inpatient setting.
+
+                    · When there is difficulty determining a diagnosis or where there are
+                         differential diagnostic impressions.
+
+                    · When additional information is needed to evaluate or redirect treatment
+                         efforts.
+
+Who Must Provide    Psychological testing must be provided by an individual practitioner within the
+                    scope of professional licensure, training, protocols, and competence.
+
+Limited Functional  A limited functional assessment is restricted to administration of the
+Assessment          Functional Assessment Rating Scale (FARS), and the Children's Functional
+                    Assessment Rating Scale (C-FARS), the American Society of Addiction
+Who Must Provide    Medicine Patient Placement Criteria (ASAM PPC-2R), or any other functional
+                    assessment required by the Department of Children and Families (DCF).
+
+                    When it is consistent with the recipient's treatment needs, limited functional
+                    assessments can be completed using telemedicine.
+
+                    The FARS and the C-FARS must be provided by an individual who is certified
+                    by DCF to administer the assessment.
+
+                    As of July 1, 2014, the American Society of Addiction Medicine Patient
+                    Placement Criteria must be provided by an individual who has completed
+                    provider agency training on how to use the instrument to make accurate level
+                    of care determinations.
+
+March 2014                                                                                     2-12
+                   Community Behavioral Health Services Coverage and Limitations Handbook
+
+Treatment Plan Development and Modification
+
+Introduction       A treatment plan is an individualized, structured, and goal-oriented schedule
+                   of services with measurable objectives that promotes the maximum reduction
+                   of the recipient's disability and restoration to the best possible functional level.
+                   Treatment plan development and modification include:
+
+                   · Treatment plan development
+                   · Treatment plan review
+
+                   Individualized recipient treatment plans must directly address the primary
+                   diagnosis(es) that is(are) consistent with the assessment.
+
+                   A treatment plan should directly address additional diagnoses that are
+                   consistent with assessment and that are in the range of the provider's
+                   expertise. The provider must document efforts to coordinate services for
+                   diagnoses outside their expertise that, if treated, would assist meeting the
+                   recipient's goals.
+
+                   Community behavioral health services must be prescribed on a treatment
+                   plan authorized by one of the group provider's treating practitioners.
+
+Treatment Plan     The treatment plan must be jointly developed by the recipient and the
+Development        treatment team. The treatment plan must be recipient-centered and
+                   consistent with the recipient's identified strengths, abilities, needs, and
+                   preferences.
+
+                   The recipient's parent, guardian, or legal custodian should be included in the
+                   development of the recipient's individualized treatment plan, if the recipient is
+                   under the age of 18 years. Treatment planning for a recipient under the age
+                   of 18 years that does not include the recipient's parent, guardian, or legal
+                   custodian in a situation of exception requires a documented explanation.
+
+Required           The treatment plan must contain all of the following components:
+Components of the
+Treatment Plan     · The recipient's diagnosis code(s) consistent with assessment(s)
+                   · Goals that are individualized, strength-based, and appropriate to the
+
+                        recipient's diagnosis, age, culture, strengths, abilities, preferences, and
+                        needs, as expressed by the recipient
+                   · Measurable objectives with target completion dates that are identified for
+                        each goal
+                   · A list of the services to be provided (treatment plan development,
+                        treatment plan review, and evaluation or assessment services provided to
+                        establish a diagnosis and to gather information for the development of the
+                        treatment plan need not be listed)
+                   · The amount, frequency, and duration of each service for the six month
+                        duration of the treatment plan (e.g., four units of therapeutic behavioral
+                        on-site services two days per week for six months). It is not permissible to
+                        use the terms "as needed," "p.r.n.," or to state that the recipient will
+                        receive a service "x to y times per week"
+
+March 2014                                   2-13
+                      Community Behavioral Health Services Coverage and Limitations Handbook
+
+Treatment Plan Development and Modification, continued
+
+Required              · Dated signature of the recipient
+Components of the     · Dated signature of the recipient's parent, guardian, or legal custodian (if
+Treatment Plan,
+continued                  the recipient is under the age of 18 years)
+                      · Signatures of the treatment team members who participated in
+
+                           development of the plan
+                      · A signed and dated statement by the treating practitioner that services are
+
+                           medically necessary and appropriate to the recipient's diagnosis and
+                           needs
+                      · Discharge criteria
+
+Exceptions to the     If the recipient's age or clinical condition precludes participation in the
+Requirement for       development and signing of the treatment plan, an explanation must be
+Recipient's           provided on the treatment plan.
+Signature
+
+Exceptions to the     There are exceptions to the requirement for a signature by the recipient's
+Requirement for       parent, guardian, or legal custodian. Documentation and justification of the
+Signature of Parent,  exception must be provided in the recipient's clinical record. The following
+Guardian, or Legal    exceptions are:
+Custodian
+                      · As allowed by Chapter 397, F.S., recipients under the age of 18 years
+                           seeking substance use services from a licensed service provider.
+                           Recipients ages 13 years and older, experiencing an emotional crisis in
+                           accordance with section 394.4784 (1), (2), F.S.
+
+                      · Recipients in the custody of the Department of Juvenile Justice who have
+                           been court ordered into treatment or require emergency treatment such
+                           that delay in providing treatment would endanger the mental or physical
+                           well-being of the recipient. The signature of the parent, guardian, or legal
+                           custodian must be obtained as soon as possible after emergency
+                           treatment is administered.
+
+                      · For recipients in the care and custody of the DCF (foster care or shelter
+                           status), the child's DCF or Community Based Care (CBC) caseworker
+                           must sign the treatment plan if it is not possible to obtain the parent's
+                           signature. The caseworker and foster parent should be encouraged to
+                           participate in the treatment planning. In cases where DCF is working
+                           toward reunification, the parent should be involved and must sign the
+                           treatment plan.
+
+March 2014                                                                                         2-14
+                   Community Behavioral Health Services Coverage and Limitations Handbook
+
+Treatment Plan Development and Modification, continued
+
+Authorization and  The treatment plan becomes effective on the date it is signed and dated by
+Effective Date of  the treating practitioner. Medicaid will reimburse for services provided within
+Treatment Plan     45 days prior to the signature of the treating practitioner.
+
+Reimbursement      Medicaid reimburses for one treatment plan development per provider, per
+Limitations        state fiscal year (July 1 through June 30). Medicaid reimburses for a
+                   maximum total of two treatment plans per recipient, per state fiscal year (July
+                   1 through June 30).
+
+Use of Addendum    An addendum may be used to make changes to the treatment plan, when
+                   significant changes have not occurred, in lieu of rewriting the entire plan. A
+                   treatment plan addendum can be used to add additional services or to modify
+                   services prescribed on the treatment plan. The addendum becomes part of
+                   the recipient's treatment plan. The addendum must be signed and dated by
+                   the treating practitioner and the recipient.
+
+                   Development of an addendum is not a reimbursable service.
+
+Temporary Service  Anytime there is a temporary increase in prescribed services, the provider
+Authorization      must report the increase using the Temporary Service Authorization, found in
+                   the appendices.
+
+                   The Temporary Service Authorization can be used to report the provision of
+                   crisis-oriented services that are not prescribed in the treatment plan. This
+                   form may also be used for documenting the need for services already
+                   provided when a recipient leaves treatment prior to completion of the
+                   treatment plan. When used for this purpose, the form must be completed
+                   within 45 days of intake and the recipient's file must reflect the recipient has
+                   been discharged from services. The Temporary Service Authorization must
+                   be completed, signed, and dated by a treating practitioner and placed in the
+                   recipient's clinical record.
+
+                   The Temporary Service Authorization cannot be used to add ongoing
+                   services to a recipient's treatment plan.
+
+March 2014                                              2-15
+                  Community Behavioral Health Services Coverage and Limitations Handbook
+
+Treatment Plan Development and Modification, continued
+
+Treatment Plan    The treatment plan review is a process conducted by the treatment team to
+Review            ensure that treatment goals, objectives, and services continue to be
+                  appropriate to the recipient's needs and to assess the recipient's progress
+                  and continued need for services. The treatment plan review requires the
+                  participation of the recipient and the treatment team identified in the
+                  recipient's individualized treatment plan as responsible for addressing the
+                  treatment needs of the recipient.
+
+Frequency of the  A formal review of the treatment plan must be conducted at least every six
+Treatment Plan    months. The treatment plan may be reviewed more often than once every six
+Review            months when significant changes occur.
+
+Specific          Activities, notations of discussions, findings, conclusions, and
+Documentation     recommendations must be documented during the treatment plan review. Any
+Requirements      modifications or additions to the treatment plan must be documented based
+                  on the results of the review.
+
+                  The treatment plan review must contain all of the following components:
+
+                  · Current diagnosis code(s) and justification for any changes in diagnosis
+                  · Recipient's progress toward meeting individualized goals and objectives
+                  · Recipient's progress toward meeting individualized discharge criteria
+                  · Updates to aftercare plan
+                  · Findings
+                  · Recommendations
+                  · Dated signature of the recipient
+                  · Dated signature of the recipient's parent, guardian, or legal custodian (if
+
+                       the recipient is under the age of 18 years)
+                  · Signatures of the treatment team members who participated in review of
+
+                       the plan
+                  · A signed and dated statement by the treating practitioner that services
+
+                       are medically necessary and appropriate to the recipient's diagnosis and
+                       needs
+
+                  If the treatment plan review process indicates that the goals and objectives
+                  have not been met, documentation must reflect the treatment team's re-
+                  assessment of services and justification if no changes are made.
+
+                  The written documentation must be included in the recipient's clinical record
+                  upon completion of the treatment plan review activities.
+
+March 2014                                              2-16
+                  Community Behavioral Health Services Coverage and Limitations Handbook
+
+Medical and Psychiatric Services
+
+Introduction      These services include evaluation of the need for medication; evaluation of
+                  clinical effectiveness and side effects of medication; prescribing, dispensing,
+                  and administering of psychiatric medications; medication education and
+                  facilitating informed consent (including discussing side effects, risks, benefits,
+                  and alternatives with the recipient or other responsible persons); planning
+                  related to service delivery; and evaluating the status of the recipient's
+                  community functioning. Medication management cannot be provided in a
+                  group.
+
+                  The following services are included under medical and psychiatric services:
+
+                  · Medication management
+                  · Brief individual medical psychotherapy
+                  · Brief group medical therapy
+                  · Behavioral health-related medical screening services
+                  · Behavioral health-related services: verbal interactions
+                  · Behavioral health-related services: alcohol and other drug testing
+
+                       specimen collection
+                  · Medication assisted treatment
+
+Medication        Medication management is the review of relevant laboratory test results, prior
+Management        pharmacy interventions (e.g., medication dosages, blood levels if available,
+                  and treatment duration), and current medication usage. Medication
+                  management includes the discussion of indications and contraindications for
+                  treatment, risks, and management strategies with the recipient or other
+                  responsible persons.
+
+Who Must Provide  Medication management must be provided by one of the following qualified
+                  practitioners:
+
+                  · Physician
+                  · Psychiatrist
+                  · PA
+                  · PPA
+                  · Psychiatric ARNP
+
+Brief Individual  Brief individual medical psychotherapy is treatment activity designed to
+Medical           reduce maladaptive behaviors related to the recipient's behavioral health
+Psychotherapy     disorder, to maximize behavioral self-control, or to restore normalized
+                  functioning and more appropriate interpersonal and social relationships. Brief
+                  medical psychotherapy includes insight-oriented, cognitive behavioral, or
+                  supportive therapy interventions.
+
+March 2014                        2-17
+                     Community Behavioral Health Services Coverage and Limitations Handbook
+
+Medical and Psychiatric Services, continued
+
+Who Must Provide     Brief individual medical psychotherapy must be provided by one of the
+                     following qualified practitioners:
+
+                     · Physician
+                     · Psychiatrist
+                     · PA
+                     · PPA
+                     · Psychiatric ARNP
+
+Brief Group Medical  Brief group medical therapy is a treatment activity designed to reduce
+Therapy              maladaptive behaviors; maximize behavioral self-control; or to restore
+                     normalized functioning, reality orientation, and emotional adjustment. This
+                     service includes continuing medical diagnostic evaluation and drug
+                     management, when indicated, and can include insight oriented, cognitive
+                     behavioral, or supportive therapy.
+
+Who Must Provide     Brief group medical therapy must be provided by one of the following qualified
+                     practitioners:
+
+                     · Physician
+                     · Psychiatrist
+                     · PPA
+                     · Psychiatric ARNP
+                     · Psychiatric nurse
+
+Group Size           Medicaid will reimburse for brief group medical therapy where the total group
+Restrictions         size equals 10 or fewer participants.
+
+Behavioral Health-   A behavioral health-related medical screening service must include a face-to-
+Related Medical      face assessment of physical status, a brief history, and decision-making of
+Screening Service    low complexity.
+
+                     The assessment must include, at a minimum:
+
+                     · Vital signs.
+                     · Medication concerns to include side effects.
+                     · Brief mental health status assessment.
+                     · Plan for follow-up, if indicated.
+
+March 2014                                                                                  2-18
+                    Community Behavioral Health Services Coverage and Limitations Handbook
+
+Medical and Psychiatric Services, continued
+
+Who Must Provide    Behavioral health-related medical screening services must be provided by
+                    one of the following qualified practitioners:
+
+                    · Physician
+                    · Psychiatrist
+                    · PPA
+                    · Physician assistant
+                    · Psychiatric ARNP
+                    · ARNP
+                    · Psychiatric nurse
+                    · Registered nurse
+
+Behavioral Health-  This procedure code covers a verbal interaction (15-minute minimum)
+Related Medical     between a qualified medical professional and a recipient. This service must
+Services: Verbal    be directly related to the recipient's behavioral health disorder or to monitor
+Interactions        side effects associated with medication.
+
+Who Must Provide    For behavioral health-related medical services, verbal interactions must be
+                    provided by one of the following qualified practitioners:
+
+                    · Physician
+                    · Psychiatrist
+                    · PPA
+                    · Physician assistant
+                    · Psychiatric ARNP
+                    · ARNP
+                    · Psychiatric nurse
+                    · Registered nurse
+
+Behavioral Health-  The corresponding procedure code covers the following services:
+Related Medical
+Services: Medical   · Specimen collection (for the purposes of medication management)
+Procedures          · Taking of vital signs
+                    · Administering injections
+
+                    This service must be directly related to the recipient's behavioral health
+                    disorder or to monitor side effects associated with psychotropic medication.
+
+March 2014                                   2-19
+                    Community Behavioral Health Services Coverage and Limitations Handbook
+
+Medical and Psychiatric Services, continued
+
+Who Must Provide    For behavioral health-related medical services, medical procedures must be
+                    provided by one of the following qualified practitioners:
+
+                    · Physician
+                    · Psychiatrist
+                    · PPA
+                    · Physician assistant
+                    · Psychiatric ARNP
+                    · ARNP
+                    · Psychiatric nurse
+                    · Registered nurse
+                    · Licensed practical nurse
+                    · Medical assistant
+
+Behavioral Health-  This procedure code covers specimen collection for the purposes of alcohol
+Related Medical     and other drug testing for the treatment of substance use disorders.
+Services: Alcohol
+and Other Drug
+Screening
+Specimen
+Collection
+
+Who Must Provide    For behavioral health-related medical services, alcohol and other drug
+                    screening specimen collection must be provided by one of the following
+                    qualified practitioners:
+
+                    · Physician
+                    · Psychiatrist
+                    · PPA
+                    · Physician assistant
+                    · Psychiatric ARNP
+                    · ARNP
+                    · Psychiatric nurse
+                    · Registered nurse
+                    · Licensed practical nurse
+                    · Medical assistant
+                    · LPHA
+                    · Master's level CAP
+                    · Master's level practitioner
+                    · CAP
+                    · Bachelor's level practitioner
+                    · Certified recovery peer specialist
+                    · Certified psychiatric rehabilitation practitioner
+                    · Certified recovery support specialist
+                    · Certified behavioral health technician
+                    · Substance abuse technician
+
+March 2014                                                                                  2-20
+                     Community Behavioral Health Services Coverage and Limitations Handbook
+
+Medical and Psychiatric Services, continued
+
+Medication-Assisted  Services for medication-assisted treatment is reimbursed for opioid addiction
+Treatment            treatment by a program licensed by the state and certified by the Federal
+                     Substance Abuse and Mental Health Services Administration (SAMHSA), in
+                     accordance with state and federal regulations.
+
+                     Recipients receiving methadone treatment can be prescribed take-home
+                     doses after 30 days of treatment, if it is clinically indicated. In order to qualify
+                     for take-home doses, it must be documented that a recipient is participating in
+                     a methadone maintenance regimen, in addition to meeting the conditions
+                     outlined in Rule 65D-30.014, F.A.C.
+
+Who Must Provide     Medication-assisted treatment services must be provided under the
+                     supervision of a physician or a psychiatrist. Medication-assisted treatment
+                     must be provided by one of the following qualified practitioners:
+
+                     · Physician
+                     · Psychiatrist
+                     · PPA
+                     · Physician assistant
+                     · Psychiatric ARNP
+                     · ARNP
+                     · Psychiatric nurse
+                     · Registered nurse
+                     · Licensed practical nurse
+                     · Medical assistant
+
+Behavioral Health Therapy Services
+
+Introduction         Behavioral health therapy services include:
+
+                     · Individual and family therapy
+                     · Group therapy
+                     · Behavioral health day services
+
+Individual and       Individual and family therapy services include the provision of insight-
+Family Therapy       oriented, cognitive behavioral or supportive therapy interventions to an
+                     individual recipient or a recipient's family.
+
+                     Individual and family therapy may involve the recipient, the recipient's family
+                     without the recipient present, or a combination of therapy with the recipient
+                     and the recipient's family. The focus or primary beneficiary of individual and
+                     family therapy services must always be the recipient.
+
+March 2014                                                        2-21
+                   Community Behavioral Health Services Coverage and Limitations Handbook
+
+Behavioral Health Therapy Services, continued
+
+Who Must Provide   Individual and family therapy services must be provided by one of the
+                   following qualified practitioners:
+
+                   · Physician
+                   · Psychiatrist
+                   · PPA
+                   · Psychiatric ARNP
+                   · LPHA
+                   · Master's level CAP
+                   · Master's level practitioner
+
+Group Therapy      Group therapy services include the provision of cognitive behavioral or
+                   supportive therapy interventions to an individual recipient or the recipient's
+                   family.
+
+                   In addition to counseling, group therapy services to recipient families or other
+                   responsible persons include educating, the sharing of clinical information, and
+                   guidance on how to assist the recipient.
+
+Who Must Provide   Group therapy services must be provided by one of the following qualified
+                   practitioners:
+
+                   · Physician
+                   · Psychiatrist
+                   · PPA
+                   · Psychiatric ARNP
+                   · LPHA
+                   · Master's level CAP
+                   · Master's level practitioner
+                   · CAP
+                   · Bachelor's level practitioner
+
+Group Size         Medicaid will reimburse for group therapy where the total group size is equal
+Restrictions       to 15 or fewer participants.
+
+Behavioral Health  These services are designed to enable recipients to function successfully in
+Day Services       the community in the least restrictive environment and to restore or enhance
+                   ability for personal, social, and prevocational life management services.
+                   Behavioral health day services utilize an intensive therapeutic treatment
+                   approach to stabilize the symptoms of behavioral health disorders. These
+                   services should be used to provide transitional treatment after an acute
+                   episode or to reduce or eliminate the need for more intensive levels of care.
+
+March 2014                                                                                    2-22
+                      Community Behavioral Health Services Coverage and Limitations Handbook
+
+Behavioral Health Therapy Services, continued
+
+Behavioral Health     Behavioral health day services are appropriate early childhood therapeutic
+Day Services,         services provided to recipients ages 2 years through 5 years who are
+continued             experiencing emotional problems and who meet the eligibility criteria
+                      described below. Services are designed to strengthen individual and family
+                      functioning, prevent more restrictive placement of recipients, and provide an
+                      integrated set of interventions to promote behavioral and emotional
+                      adjustments.
+
+                      Services must be provided in a therapeutic milieu that allows for a broad
+                      range of therapeutic activities designed for the treatment of specific social,
+                      emotional, and behavioral problems. Services must be delivered in a
+                      coordinated manner and must be appropriate for the developmental age of
+                      the recipient. Services must be individualized and directly related to the
+                      treatment plan goals and the long-term goal of returning the recipient to
+                      regular day care, preschool, or the least restrictive environment possible.
+
+Eligibility Criteria  In order to receive behavioral health day services a recipient must:
+
+                      · Be age 2 years and older.
+                      · Score in at least the moderate impairment range on a behavior and
+
+                           functional rating scale developed for this age group.
+
+Components of         Behavioral health day services are comprised of individual, group, or family
+Behavioral Health     therapy services, and therapeutic care services.
+Day Services
+                      Individual and family therapy services include the provision of insight-
+                      oriented, cognitive behavioral or supportive therapy to an individual recipient
+                      or family.
+
+                      Individual and family therapy may involve the recipient, the recipient's family
+                      without the recipient present, or a combination of therapy with the recipient
+                      and the recipient's family. The focus or primary beneficiary of individual and
+                      family therapy services must always be the recipient.
+
+                      Group therapy services include the provision of cognitive behavioral,
+                      supportive therapy, or counseling to individuals or families, and consultation
+                      with family or other responsible persons for sharing of clinical information.
+                      Also included is education, counseling, or advising family or other responsible
+                      persons on how to assist the recipient. Group therapy services include the
+                      provision of cognitive behavioral, supportive therapy, or counseling to
+                      recipients and their families.
+
+                      In addition to counseling, group therapy services to recipient families and
+                      other responsible persons include education, the sharing of clinical
+                      information, and guidance on how to assist recipients.
+
+March 2014                                                                                  2-23
+                       Community Behavioral Health Services Coverage and Limitations Handbook
+
+Behavioral Health Therapy Services, continued
+
+Components of          Therapeutic care services assist the recipient in the development of the skills
+Behavioral Health      necessary for independent living and for symptom management. Progress
+Day Services,          toward treatment goals related to therapeutic care services should be
+continued              assessed through observation.
+
+Program                Behavioral health day services for recipients ages 2 years through 5 years
+Requirements for       must meet the following requirements:
+Recipients Ages
+2 Years Through        · Services must be provided for a minimum of two to a maximum of four
+5 Years                     hours within the day. This need not be a continuous time period, but must
+                            be provided in one day. Therapeutic activities, as listed in the recipient's
+                            treatment plan, must be interwoven throughout the recipient's scheduled
+                            activities.
+
+                       · The day treatment program must have a parent or caregiver component.
+                            At a minimum, there should be a monthly face-to-face contact with the
+                            parent or caregiver at the day treatment center or at the recipient's home.
+
+                       · If the provider is unable to involve the parent or caregiver or meet the
+                            requirement for the face-to-face contact, a telephone contact is allowable,
+                            but is not reimbursable as part of day treatment. Written justification of
+                            why the face-to-face intervention could not occur must be provided in the
+                            recipient's clinical record.
+
+                       · The group size during therapeutic activities must not exceed 10
+                            recipients.
+
+                       · The behavioral health day services staff-to-recipient ratio during
+                            therapeutic activities cannot exceed 1:5. Infant mental health aides may
+                            be used to meet these staffing requirements.
+
+Written Certification  Prior to a recipient receiving behavioral health day services, a physician or a
+for Behavioral         LPHA experienced in the diagnosis of mental disorders in young children
+Health Day Services    must provide written certification that:
+for Recipients Ages
+2 Years Through        · Recipient meets the service eligibility criteria.
+5 Years                · Services can be expected to slow deterioration, or maintain or improve
+
+                            the recipient's condition and functional level.
+                       · Recipient's condition or functional level cannot be improved in a less
+
+                            restrictive level of care.
+
+Who Must Provide       Individual and family therapy services must be provided by one of the
+                       following qualified practitioners:
+
+                       · Physician
+                       · Psychiatrist
+                       · PPA
+                       · Psychiatric ARNP
+                       · LPHA
+                       · Master's level CAP
+                       · Master's level practitioner
+
+March 2014                                                                                    2-24
+                   Community Behavioral Health Services Coverage and Limitations Handbook
+
+Behavioral Health Therapy Services, continued
+
+Who Must Provide,  Group therapy services must be provided by one of the following qualified
+continued          practitioners:
+
+                   · Physician
+                   · Psychiatrist
+                   · PPA
+                   · Psychiatric ARNP
+                   · LPHA
+                   · Master's level CAP
+                   · Master's level practitioner
+                   · CAP
+                   · Bachelor's level practitioner
+
+                   Therapeutic care services must be provided by one of the following qualified
+                   practitioners:
+
+                   · Physician
+                   · Psychiatrist
+                   · PPA
+                   · Psychiatric ARNP
+                   · LPHA
+                   · Master's level CAP
+                   · Master's level practitioner
+                   · CAP
+                   · Bachelor's level practitioner
+                   · Certified recovery peer specialist
+                   · Certified psychiatric rehabilitation practitioner
+                   · Certified recovery support specialist
+                   · Certified behavioral health technician
+
+                   A psychiatrist, LPHA, or master's level CAP must be available to provide
+                   clinical consultation for both mental health and substance use day treatment
+                   services during all hours of operation.
+
+                   The behavioral health day services program for recipients ages 2 years
+                   through 5 years must have, per group of 10, one of the following qualified
+                   professionals who has training and experience in infant, toddler, and early
+                   childhood development and the observation and assessment of young
+                   children:
+
+                   · Physician
+                   · Psychiatrist
+                   · PPA
+                   · Psychiatric ARNP
+                   · LPHA
+                   · Master's level CAP
+                   · Master's level practitioner
+                   · Bachelor's level infant mental health practitioner
+
+March 2014                                     2-25
+                 Community Behavioral Health Services Coverage and Limitations Handbook
+
+Behavioral Health Therapy Services, continued
+
+Specific         Documentation must include at least a daily progress note that addresses
+Documentation    each service provided.
+Requirements
+                 For the behavioral health day services program for recipients ages 2 years
+                 through 5 years, documentation must include a weekly summary note of the
+                 specific therapeutic activities rendered that is signed by at least a master's
+                 level practitioner.
+
+Community Support and Rehabilitative Services
+
+Introduction     Community support and rehabilitative services include:
+
+                 · Psychosocial rehabilitation
+                 · Clubhouse
+
+                 These services encompass rehabilitation-focused, community-based
+                 psychosocial services. Community support and rehabilitative services are
+                 designed to assist recipients in strengthening or regaining interpersonal skills
+                 and in developing environmental supports necessary to function in their
+                 community.
+
+Who Can Receive  Community support and rehabilitative services are appropriate for recipients
+                 exhibiting psychiatric, behavioral or cognitive symptoms, addictive behavior,
+                 or clinical conditions of sufficient severity to bring about significant impairment
+                 in day-to-day personal, social, prevocational, and educational functioning.
+
+Psychosocial     Psychosocial rehabilitation services are intended to restore a recipient's skills
+Rehabilitation   and abilities essential for independent living. Activities include: development
+Services         and maintenance of necessary daily living skills; food planning and
+                 preparation; money management; maintenance of the living environment; and
+                 training in appropriate use of community services. This service combines daily
+                 medication use, independent living and social skills training, housing services,
+                 prevocational and transitional employment rehabilitation training, social
+                 support, and network enhancement to recipients and their families.
+
+March 2014                                     2-26
+                     Community Behavioral Health Services Coverage and Limitations Handbook
+
+Community Support and Rehabilitative Services, continued
+
+Psychosocial         These services are designed to assist the recipient to eliminate or
+Rehabilitation       compensate for functional deficits and interpersonal and environmental
+Services, continued  barriers created by their disabilities, and to restore social skills for
+                     independent living and effective life management. This activity differs from
+                     counseling and therapy in that it concentrates less upon the amelioration of
+                     symptoms and more upon restoring functional capabilities. The service may
+                     also be used to facilitate cognitive and socialization skills necessary for
+                     functioning in a work environment, focusing on maximum recovery and
+                     independence. It includes work readiness assessment, job development on
+                     behalf of the recipient, job matching, on the job training, and job support.
+
+                     Psychosocial rehabilitation services may be provided in a facility, home, or
+                     community setting.
+
+Who Must Provide     Psychosocial rehabilitation services must be provided by one of the following
+                     qualified professionals:
+
+                     · Physician
+                     · Psychiatrist
+                     · PPA
+                     · Psychiatric ARNP
+                     · LPHA
+                     · Master's level CAP
+                     · Master's level practitioner
+                     · CAP
+                     · Bachelor's level practitioner
+                     · Certified recovery peer specialist
+                     · Certified psychiatric rehabilitation practitioner
+                     · Certified recovery support specialist
+                     · Certified behavioral health technician
+                     · Substance abuse technician
+
+Group Size           Medicaid will reimburse for provision of psychosocial rehabilitation services,
+Restrictions         where the group size is equal to 12 or fewer.
+
+Specific             Documentation must include at least a daily progress note that addresses
+Documentation        each service provided.
+Requirements
+
+March 2014                                                                                     2-27
+                    Community Behavioral Health Services Coverage and Limitations Handbook
+
+Community Support and Rehabilitative Services, continued
+
+Clubhouse Services  Clubhouse services are structured, community-based group services provided
+                    in a group rehabilitation service setting. These services include a range of
+                    social, educational, pre-vocational and transitional employment rehabilitation
+                    training in a group rehabilitation service setting utilizing behavioral, cognitive,
+                    or supportive interventions to improve a recipient's potential for establishing
+                    and maintaining social relationships and obtaining occupational or educational
+                    achievements.
+
+                    A clubhouse group service is designed to strengthen and improve the
+                    recipient's interpersonal skills, and provide psychosocial therapy toward
+                    rehabilitation that emphasizes a holistic approach focusing on the recipient's
+                    strengths and abilities to promote recovery from mental illness. This service is
+                    primarily rehabilitative in nature, using a wellness model that offers a setting
+                    to restore independent living skills. These services are designed to assist the
+                    recipient in eliminating the functional, interpersonal, and environmental
+                    barriers created by their disabilities and to restore social skills for independent
+                    living and effective life management. The service may also be used to
+                    facilitate cognitive and socialization skills necessary for functioning in a work
+                    environment focusing on maximum recovery and independence.
+
+Who Can Receive     To be eligible for clubhouse services, recipients must:
+
+                    · Have a mental health diagnosis.
+                    · Be at least 16 years of age.
+
+Who Must Provide    Clubhouse services must be provided by one of the following qualified
+                    professionals:
+
+                    · Physician
+                    · Psychiatrist
+                    · PPA
+                    · Psychiatric ARNP
+                    · LPHA
+                    · Master's level CAP
+                    · Master's level practitioner
+                    · CAP
+                    · Bachelor's level practitioner
+                    · Certified recovery peer specialist
+                    · Certified psychiatric rehabilitation practitioner
+                    · Certified recovery support specialist
+                    · Certified behavior health technician
+
+March 2014                                                                                 2-28
+               Community Behavioral Health Services Coverage and Limitations Handbook
+
+Community Support and Rehabilitative Services, continued
+
+Group Size     Medicaid will reimburse for provision of clubhouse services up to 12
+Restrictions   participants per staff member.
+
+Specific       Documentation must include at least a daily progress note that addresses
+Documentation  each service provided.
+Requirements
+
+Therapeutic Behavioral On-Site Services for Recipients Under the Age of 21 Years
+
+Introduction   Therapeutic behavioral on-site services are intended to prevent recipients
+               who have complex needs from requiring placement in a more intensive,
+               restrictive behavioral health setting. These services are coordinated through
+               individualized treatment teams and are designed to assist recipients and their
+               families.
+
+               The treatment team must include the recipient and recipient's family,
+               guardian, caregivers, other persons who provide natural, informal support to
+               the family system, and the professionals involved in providing services. The
+               recipient-specific plan for therapeutic behavioral on-site services must be
+               based on a thorough assessment, with input from the recipient and recipient's
+               family, to identify needs, strengths, and desired service outcomes. When
+               indicated by the assessment and agreed to by the family, the plan must
+               reflect referral to, and coordination with, other agencies and resources.
+
+               It is recognized that involvement of the family in the treatment of the recipient
+               is necessary and appropriate. Provision of therapeutic behavioral on-site
+               services with the family must clearly be directed toward meeting the
+               recipient's identified treatment needs. Services provided to the recipient's
+               family, independent of meeting the recipient's identified needs, are not
+               reimbursable by Medicaid.
+
+               If the assessment indicates a need for intensive, clinical therapeutic
+               behavioral on-site services, and the family agrees to these services, the
+               following services are reimbursable under Medicaid:
+
+               · Therapeutic behavioral on-site--therapy services
+               · Therapeutic behavioral on-site--behavior management services
+               · Therapeutic behavioral on-site--therapeutic support services
+
+               Therapeutic behavioral on-site services are intended to maintain the recipient
+               in the home (permanent or foster). Services are limited to recipients under the
+               age of 21 years meeting specific eligibility criteria.
+
+March 2014                                                                           2-29
+                       Community Behavioral Health Services Coverage and Limitations Handbook
+
+Therapeutic Behavioral On-Site Services for Recipients Under the Age of 21 Years,
+
+continued
+
+Eligibility Criteria   In order to receive therapeutic behavioral on-site services, a recipient must
+                       meet one of the following eligibility critera:
+
+                       · Under the age of 2 years and meets one of the following criteria:
+                             - Exhibiting symptoms of an emotional or behavioral nature that are
+                                  atypical for the recipient's age and development that interferes with
+                                  social interaction and relationship development.
+                             - Failure to thrive (due to emotional or psychosocial causes, not solely
+                                  medical issues).
+
+                       · Ages 2 years through 5 years and meets both of the following criteria:
+                             - Exhibiting symptoms of an emotional or behavioral nature that are
+                                  atypical for the recipient's age and development.
+                             - Score in at least the moderate impairment range on a behavior and
+                                  functional rating scale developed for the specific age group.
+
+                       · Ages 6 years through 17 years and meets one of the following criteria:
+                       · Have an emotional disturbance.
+                       · Have a serious emotional disturbance.
+
+                             - Have a substance use disorder.
+                       · Ages 18 years through 20 years, but otherwise meets the criteria for an
+
+                            emotional disturbance or a serious emotional.
+
+Continued Eligibility  Within six months of the original determination of eligibility for services and
+for Services           every six months thereafter, the members of the recipient's treatment team
+                       must document that the recipient continues to meet the eligibility criteria
+                       stated previously. The determination of eligibility must be maintained in the
+                       recipient's clinical record.
+
+                       Services may be authorized for less than six months.
+
+Additional             If any component of the therapeutic behavioral on-site service is provided by
+Treatment Plan         a different provider, the provider's name must be indicated on the plan. The
+Documentation          plan and progress notes must reflect ongoing coordination with the other
+Requirements           provider for the provision of services to the same recipient.
+
+                       The treatment plan must include a specific schedule for review of the plan
+                       with the recipient, the recipient's family, and others on the recipient's
+                       treatment team and other providers rendering a component of the service.
+
+March 2014                                                                         2-30
+                  Community Behavioral Health Services Coverage and Limitations Handbook
+
+Therapeutic Behavioral On-Site Services for Recipients Under the Age of 21 Years,
+
+continued
+
+Formal Aftercare  The recipient and the recipient's family should collaborate with the treating
+Plan              staff to develop the recipient's individualized formal aftercare plan within 45
+                  days of admission to therapeutic behavioral on-site services. A formal
+                  aftercare plan should include community resources, activities, services, and
+                  supports that will be utilized to help the recipient sustain gains achieved
+                  during treatment. The formal aftercare plan must be placed in the recipient's
+                  clinical record.
+
+Place of Service  Services must be provided in community settings, including where the
+                  recipient resides and is educated. When possible, services should be
+                  provided in settings where the recipient is experiencing emotional or
+                  behavioral difficulties.
+
+                  These services may not be provided in a psychiatric hospital, a psychiatric
+                  unit of a general hospital, a crisis stabilization unit, or any other setting where
+                  the same services are already being paid for by another source.
+
+Therapy           Therapeutic behavioral on-site therapy services include the following:
+
+                  · Individual and family therapy
+                  · Collaborative development of the formal aftercare plan
+
+Who Must Provide  Therapeutic behavioral on-site therapy services must be provided by one of
+                  the following qualified professionals:
+
+                  · Physician
+                  · Psychiatrist
+                  · LPHA
+                  · Master's level CAP
+                  · Master's level practitioner
+
+                  Practitioners must have training and experience in infant, toddler, and early
+                  childhood development and the observation and assessment of young
+                  children when treating recipients under the age of 6 years.
+
+March 2014                                                                                2-31
+                     Community Behavioral Health Services Coverage and Limitations Handbook
+
+Therapeutic Behavioral On-Site Services for Recipients Under the Age of 21 Years,
+
+continued
+
+Behavior             Therapeutic behavioral on-site behavior management services include the
+Management           following:
+
+                     · On-going monitoring and assessment of the relationship between
+                          interactions that motivate, maintain, or improve recipient behavior, and
+                          the skill deficits and assets of the recipient and recipient's family,
+                          caregivers, and other involved persons
+
+                     · Development of an individual behavior plan, with measurable goals and
+                          objectives that must be integrated into the recipient's treatment plan
+
+                     · Training the recipient's family, caregivers, and other involved persons in
+                          the implementation of the behavior plan
+
+                     · Monitoring interactions between the recipient and the recipient's family,
+                          caregivers, and other involved persons to measure progress
+
+                     · Coordinating treatment plan services
+
+Who Must Provide     Therapeutic behavioral on-site behavior management services must be
+                     provided by a certified behavior analyst, certified assistant behavior analyst,
+                     or by one of the following licensed practitioners who has three years of
+                     behavior analysis experience and a minimum of 10 hours of documented
+                     training every year, dedicated to behavior analysis:
+
+                     · Clinical social worker
+                     · Mental health counselor
+                     · Marriage and family therapist
+                     · Psychologist
+
+                     Practitioners must have training and experience in infant, toddler, and early
+                     childhood development and the observation and assessment of young
+                     children when treating recipients under the age of 6 years.
+
+Therapeutic Support  Therapeutic behavioral on-site therapeutic support services include the
+                     following:
+
+                     · One-to-one supervision and intervention with the recipient during
+                          therapeutic activities
+
+                     · Providing skills training in accordance with the recipient's treatment plan
+                          to the recipient for restoration of basic living and social skills
+
+                     · Assistance to the recipient and the recipient's family, caregivers, and
+                          other involved persons in implementing the recipient's behavior plan
+
+March 2014                                                                         2-32
+                  Community Behavioral Health Services Coverage and Limitations Handbook
+
+Therapeutic Behavioral On-Site Services for Recipients Under the Age of 21 Years,
+
+continued
+
+One-to-One vs.    Therapeutic behavioral on-site therapeutic support services are considered
+Group             primarily one-to-one interactions. When provided in a group, it must be in
+                  response to a specific recommendation and must be justified by the treating
+                  physician or treating LPHA in the recipient's treatment plan.
+
+                  Under no circumstances may the group-to-staff ratio exceed four group
+                  members to one staff person.
+
+Who Must Provide  Therapeutic behavioral on-site therapeutic support services must be provided
+                  by one of the following qualified professionals:
+
+                  · Physician
+                  · Psychiatrist
+                  · PPA
+                  · Psychiatric ARNP
+                  · LPHA
+                  · Master's level CAP
+                  · Master's level practitioner
+                  · Bachelor's level practitioner
+                  · Certified behavior analyst
+                  · Certified assistant behavior analyst
+                  · Certified recovery peer specialist
+                  · Certified psychiatric rehabilitation practitioner
+                  · Certified recovery support specialist
+                  · Certified behavioral health technician
+
+                  Services for recipients under the age of 6 years must be provided by
+                  bachelor's level infant mental health practitioners or higher. Practitioners must
+                  have training and experience in infant, toddler, and early childhood
+                  development and the observation and assessment of young children when
+                  treating recipients under the age of 6 years.
+
+March 2014                                                                         2-33
+                  Community Behavioral Health Services Coverage and Limitations Handbook
+
+Nursing Facility Residents
+
+Covered Services  Community behavioral health services for nursing facility residents, for whom
+                  the nursing facility is billing Medicaid on a per diem basis, are only
+                  reimbursable for recipients who have one of the following:
+
+                  · Pre-Admission Screening and Resident Review-Level II (PASRR II)
+                       evaluation that recommends community behavioral health services for the
+                       recipient, completed by the Department of Children and Families or its
+                       designee.
+
+                  · A physician recommendation for community behavioral health services.
+                  · A written referral from the nursing facility to a community behavioral
+
+                       health services provider.
+
+                  The referral from the nursing facility must be retained in the recipient's clinical
+                  record. In addition, the recipient's individualized treatment plan must be
+                  coordinated and integrated with the nursing facility's plan of care.
+
+                  For nursing facilities billing Medicaid on a per diem basis, the following
+                  services are reimbursable for residents, regardless of where the services are
+                  rendered:
+
+                  · Psychiatric evaluation by physician or psychiatrist
+                  · Brief behavioral health status exam
+                  · Psychiatric review of records
+                  · In-depth assessment, new patient
+                  · In-depth assessment, established patient
+                  · Bio-psychosocial evaluation
+                  · Psychological testing
+                  · Limited functional assessment
+                  · Treatment plan development
+                  · Treatment plan review
+                  · Medication management
+                  · Brief individual medical psychotherapy
+                  · Individual and family therapy
+
+March 2014                  2-34
+                   Community Behavioral Health Services Coverage and Limitations Handbook
+
+Excluded Services
+
+Community          Medicaid does not reimburse for community behavioral health services for
+Behavioral Health  treatment of a cognitive deficit severe enough to prohibit the service from
+                   being of benefit to the recipient.
+
+                   The following are services and supports not reimbursed under community
+                   behavioral health services:
+
+                   · Services provided to a recipient on the day of admission into the Statewide
+                        Inpatient Psychiatric Program (SIPP); however, community behavioral
+                        health services are reimbursable on the day of discharge
+
+                   · Case management services
+                   · Partial hospitalization
+                   · Services rendered to individuals residing in an institution for mental
+
+                        diseases
+                   · Services rendered to institutionalized individuals, as defined in 42 CFR
+
+                        435.1009
+                   · Basic childcare programs for developmental delays, preschool, or
+
+                        enrichment programs
+                   · Travel time
+                   · Activities performed to maintain and review records for facility utilization,
+
+                        continuous quality improvement, recipient eligibility status processing, and
+                        staff training purposes
+                   · Activities (other than record reviews, services with family member or other
+                        interested persons that benefit the recipient, or services performed using
+                        telemedicine) that are not performed face-to-face with the recipient, except
+                        those defined as:
+                        - Services rendered by a recipient's relative
+                        - Services rendered by unpaid interns or volunteers
+                        - Services paid for by another funding source
+                        - Escorting or transporting a recipient to and from a service site
+
+March 2014         2-35
+                    Community Behavioral Health Services Coverage and Limitations Handbook
+
+                                          CHAPTER 3
+                    REIMBURSEMENT AND FEE SCHEDULE
+
+Overview            This chapter describes reimbursement and fee schedule information for
+                    community behavioral health services.
+Introduction
+In This Chapter     This chapter contains the following section topics:
+
+                     TOPIC                                               PAGE
+                     Overview                                              3-1
+                     Reimbursement Information                             3-1
+                     How to Read the Fee Schedule                          3-3
+
+Reimbursement Information
+
+Procedure Codes     The procedure codes listed in this handbook are Healthcare Common
+                    Procedure Coding System (HCPCS) Level II, which is a part of a nationally
+                    standardized code set. Level II of the HCPCS is a standardized coding system
+                    used primarily to identify products, supplies, and services not included in the
+                    CPT codes. HCPCS Level II codes are also referred to as alpha-numeric
+                    codes because they consist of a single alphabetical letter (A ­ V) followed by
+                    four numeric digits. Please refer to the current HCPCS Level II Expert code
+                    book for complete descriptions of the standard codes. The HCPCS Level II
+                    Expert© code book is copyrighted by Ingenix, Inc. All rights reserved.
+
+Copayment           Providers are required to collect a copayment of $2.00, per service, per day
+                    from the recipient unless the recipient of the service is exempt.
+
+                    Note: For information on copayments and the categories of recipients and
+                    services exempt from the copayment, see the Florida Medicaid Provider
+                    General Handbook.
+
+In-Home Services    In-home services with the recipient's parent, guardian, or caregiver can be
+for Recipients      billed as part of the day services program. If provided on a day when no
+Under the Age of 6  behavioral health day services are billed, an in-home service may be billed as
+Years               individual or family therapy or therapeutic behavioral on-site therapy services.
+
+March 2014                                                                                        3-1
+                   Community Behavioral Health Services Coverage and Limitations Handbook
+
+Reimbursement Information, continued
+
+Units of Service   A unit of service is the number of times a procedure is performed. The
+                   definition of unit varies by service.
+
+                   For services defined in 15-minute increments, the total units of service for the
+                   day must be entered on the claim form. If multiple units are provided on the
+                   same day, the actual time spent must be totaled. If the minutes total ends in a
+                   7 or less, round down to the nearest 15-minute increment. If the minutes total
+                   ends in 8 or more, round up to the nearest 15-minute increment. For example,
+                   37 minutes is billed as two units of service while, 38 minutes is billed as three
+                   units of services. The provider may not round up each service episode to the
+                   nearest 15-minute increment before summing the total.
+
+                   Note: For more information on entering units of service on the claim, see the
+                   Florida Medicaid Provider Reimbursement Handbook, CMS-1500.
+
+Combinations of    The following services may not be reimbursed in conjunction with behavioral
+Services that      health day services for the same recipient on the same day:
+Cannot be
+Reimbursed in                               Service             Procedure  Modifier (if
+Conjunction with   Psychosocial Rehabilitative Services            Code     required)
+Behavioral Health  Therapeutic Behavioral On-Site Services--       H2017
+Day Services for   Therapy                                         H2019        HO
+Recipients Ages 2  Therapeutic Behavioral On-Site Services--
+Years Through 5    Behavior Management                          H2019      HM
+Years              Therapeutic Behavioral On-Site Services--
+                   Therapeutic Support
+                                                                H2019      HN
+                   Specialized Therapeutic Foster Care--
+                   Level I                                      S5145
+                   Specialized Therapeutic Foster Care--
+                   Level II                                     S5145      HE
+                   Specialized Therapeutic Foster Care--Crisis
+                   Therapeutic Behavioral On-Site--             S5145      HK
+                   Juvenile Justice
+                   Therapeutic Behavioral On-Site--             H2020      HK
+                   Child Welfare
+                                                                H2020      HA
+
+Service Limits     Service limits are per recipient, per state fiscal year (July 1 through June 30).
+                   Medicaid will not reimburse for the same procedure code twice in one day.
+
+March 2014                                                                     3-2
+                Community Behavioral Health Services Coverage and Limitations Handbook
+
+How to Read the Fee Schedule
+
+Introduction    Procedure codes allowed for community behavioral health services are listed
+                in the Procedures Codes and Fee Schedule in the appendices.
+
+                The Procedures Codes and Fee Schedule includes the following information:
+
+                · Description of covered service
+                · Covered procedure code
+                · Modifiers
+                · Maximum fee per code
+                · Reimbursement and service limitations
+
+Description of  Describes the service to be reimbursed.
+Service
+
+Procedure Code  The code in the Procedure Codes and Fee Schedule, found in the appendices,
+                that corresponds to community behavioral health services.
+
+Modifier        For certain types of services, a two-digit modifier must be entered on the claim
+                form. Modifiers more fully describe the procedure performed so that accurate
+                payment may be determined.
+
+Maximum Fee     Maximum amount that Medicaid will reimburse for the procedure code, per unit
+                of service.
+
+Reimbursement   Reimbursement and service limitations that pertain to the specific procedure
+and Service     code.
+Limitations
+
+March 2014                                               3-3
+                     Community Behavioral Health Services Coverage and Limitations Handbook
+
+                                   APPENDIX A
+            PROCEDURE CODES AND FEE SCHEDULE
+
+March 2014  A-1
+                          Community Behavioral Health Services Coverage and Limitations Handbook
+
+                          PROCEDURE CODES AND FEE SCHEDULE
+
+           These procedure codes are to be used for dates of service April 1, 2014 and after.
+
+Description of            Procedure Modifier Modifier Maximum Fee Reimbursement and
+    Service
+                          Code   1   2                        Service Limitations
+
+Assessment Services
+
+Psychiatric evaluation by H2000  HP             $210.00 per   Medicaid reimburses a
+                                                evaluation    maximum of two
+physician                            GT $210.00 per           psychiatric evaluations
+                                                evaluation    per recipient, per state
+Psychiatric evaluation by H2000  HP             $150.00 per   fiscal year.*
+                                                evaluation
+physician--telemedicine                         $14.66 per    There is a maximum
+                                                quarter hour  daily limit of two
+Psychiatric evaluation by H2000  HO  GT $14.66 per            quarter-hour units.
+                                                quarter hour
+nonphysician                                                  Medicaid reimburses
+                                                              for brief behavioral
+Brief behavioral health   H2010  HO                           health status
+                                                              examinations a
+status exam                                                   maximum of 10
+                                                              quarter-hour units
+Brief behavioral health   H2010  HO                           annually (2.5 hours),
+                                                              per recipient, per state
+status exam--                                                 fiscal year.*
+
+telemedicine
+
+Psychiatric review of     H2000         $26.00 per            A brief behavioral
+records                                 review                assessment is not
+                                                              reimbursable on the
+                                                              same day that a
+                                                              psychiatric evaluation,
+                                                              bio-psychosocial
+                                                              assessment, or in-
+                                                              depth assessment has
+                                                              been completed by a
+                                                              qualified treating
+                                                              practitioner.
+                                                              Medicaid reimburses a
+                                                              maximum of two
+                                                              psychiatric reviews of
+                                                              records, per recipient,
+                                                              per state fiscal year.*
+
+                                                              This service may not
+                                                              be billed for review of
+                                                              lab work (see
+                                                              medication
+                                                              management).
+
+*July 1 through June 30.
+
+March 2014                                                                                     A-2
+                          Community Behavioral Health Services Coverage and Limitations Handbook
+
+Description of            Procedure Modifier Modifier Maximum Fee Reimbursement and
+    Service
+                          Code   1   2                        Service Limitations
+
+Assessment Services, continued
+
+In-depth assessment,      H0031  HO             $125.00 per   Medicaid reimburses
+                                                assessment    one in-depth
+new patient, mental                                           assessment, per
+                                     GT $125.00 per           recipient, per state
+health                                          assessment    fiscal year.*
+
+In-depth assessment,      H0031  HO             $100.00 per   An in-depth
+                                                assessment    assessment is not
+new patient, mental                                           reimbursable on the
+                                     GT $100.00 per           same day for the same
+health--telemedicine                            assessment    recipient as a bio-
+                                                              psychosocial
+In-depth assessment,      H0031  TS             $125.00 per   evaluation.
+                                                assessment
+established patient,                                          A bio-psychosocial
+                                     GT $125.00 per           evaluation is not
+mental health                                   assessment    reimbursable for the
+                                                              same recipient after an
+In-depth assessment,      H0031  TS             $100.00 per   in-depth assessment
+                                                assessment    has been completed,
+established patient,                                          unless there is a
+                                     GT $100.00 per           documented change in
+mental health--                                 assessment    the recipient's status
+                                                              and additional
+telemedicine                                    $48.00 per    information must be
+                                                assessment    gathered to modify the
+In-depth assessment,      H0001  HO                           recipient's treatment
+                                     GT $48.00 per            plan.
+new patient, substance                          assessment    Medicaid reimburses
+                                                              one bio-psychosocial
+abuse                                           $48.00 per    evaluation, per
+                                                assessment    recipient, per state
+In-depth assessment,      H0001  HO                           fiscal year.*
+                                     GT $48.00 per
+new patient, substance                          assessment    A bio-psychosocial
+                                                              evaluation is not
+abuse--telemedicine                             $15.00 per    reimbursable on the
+                                                quarter hour  same day for the same
+In-depth assessment,      H0001  TS                           recipient as an in-
+                                                              depth assessment.
+established patient,
+                                                              Medicaid reimburses a
+substance abuse                                               maximum of 40
+                                                              quarter-hour units (10
+In-depth assessment,      H0001  TS                           hours) of psychological
+                                                              testing, per recipient,
+established patient,                                          per state fiscal year.*
+
+substance abuse--
+
+telemedicine
+
+Bio-psychosocial          H0031  HN
+
+Evaluation, mental
+
+health
+
+Bio-psychosocial          H0031  HN
+
+evaluation, mental
+
+health--telemedicine
+
+Bio-psychosocial          H0001  HN
+
+evaluation, substance
+
+abuse
+
+Bio-psychosocial          H0001  HN
+
+evaluation, substance
+
+abuse--telemedicine
+
+Psychological testing     H2019
+
+*July 1 through June 30.
+
+March 2014                                                    A-3
+                          Community Behavioral Health Services Coverage and Limitations Handbook
+
+Description of            Procedure Modifier Modifier Maximum Fee Reimbursement and
+    Service
+                          Code   1           2              Service Limitations
+
+Assessment Services, continued
+
+Limited functional        H0031                 $15.00 per  Medicaid reimburses a
+                                                assessment  maximum of three
+assessment, mental                                          limited functional
+                                                $15.00 per  assessments, per
+health                                          assessment  recipient, per state
+                                                            fiscal year.*
+Limited functional        H0031  GT             $15.00 per
+                                                assessment
+assessment, mental
+                                                $15.00 per
+health--telemedicine                            assessment
+
+Limited functional        H0001
+
+assessment, substance
+
+abuse
+
+Limited functional        H0001  GT
+
+assessment, substance
+
+abuse--telemedicine
+
+Treatment Plan Development and Modification
+
+Treatment plan            H0032                 $97.00 per  Medicaid reimburses
+                                                event       for the development of
+development, new and                                        one treatment plan per
+                                                $97.00 per  provider, per state
+established patient,                            event       fiscal year.*
+
+mental health                                               Medicaid reimburses
+                                                            for a maximum total of
+Treatment plan            T1007                             two treatment plans
+                                                            per recipient per state
+development, new and                                        fiscal year.*
+
+established patient,
+
+substance abuse
+
+Treatment plan review,    H0032  TS             $48.50 per  The reimbursement
+                                                event       date for treatment plan
+mental health                                   $48.50 per  development is the
+                                                event       day it is authorized by
+Treatment plan review,    T1007  TS                         the treating
+                                                            practitioner.
+substance abuse                                             Medicaid reimburses a
+                                                            maximum of four
+                                                            treatment plan
+                                                            reviews, per recipient,
+                                                            per state fiscal year.*
+
+                                                            The reimbursement
+                                                            date for a treatment
+                                                            plan review is the day
+                                                            it is authorized by the
+                                                            treating practitioner.
+
+*July 1 through June 30.
+
+March 2014                                                  A-4
+                          Community Behavioral Health Services Coverage and Limitations Handbook
+
+Description of            Procedure Modifier Modifier Maximum Fee Reimbursement and
+    Service
+                          Code    1   2                        Service Limitations
+
+Medical and Psychiatric Services                 $60.00 per    Medicaid reimburses
+                                                 event         medication
+Medication management T1015                      $60.00 per    management as
+                                                 event         medically necessary.
+Medication                T1015   GT
+management--                                     $15.00 per    Medication
+telemedicine                                     quarter hour  management is not
+                                      GT $15.00 per            reimbursable on the
+Brief individual medical  H2010   HE             quarter hour  same day, for the
+                                                 $15.00 per    same recipient, as
+psychotherapy, mental                            quarter hour  brief group medical
+                                      GT $15.00 per            therapy or brief
+health                                           quarter hour  individual medical
+                                                               psychotherapy.
+Brief individual medical  H2010   HE                           There is a maximum
+                                                               daily limit of two
+psychotherapy, mental                                          quarter-hour units.
+
+health--telemedicine                                           Medicaid reimburses a
+                                                               maximum of 16
+Brief individual medical  H2010   HF                           quarter-hour units (4
+                                                               hours) of brief
+psychotherapy,                                                 individual medical
+                                                               psychotherapy, per
+substance abuse                                                recipient, per state
+                                                               fiscal year.*
+Brief individual medical  H2010   HF
+                                                               Brief individual medical
+psychotherapy,                                                 psychotherapy is not
+                                                               reimbursable on the
+substance abuse--                                              same day, for the
+                                                               same recipient, as
+telemedicine                                                   brief group medical
+                                                               therapy or medication
+                                                               management.
+
+*July 1 through June 30.
+
+March 2014                                                     A-5
+                          Community Behavioral Health Services Coverage and Limitations Handbook
+
+Description of            Procedure Modifier Modifier Maximum Fee Reimbursement and
+    Service
+                          Code   1           2                Service Limitations
+
+Medical and Psychiatric Services, continued
+
+Brief group medical       H2010  HQ             $8.65 per     There is a maximum
+                                                quarter hour  daily limit of two
+therapy                                                       quarter-hour units.
+
+                                                              Medicaid reimburses a
+                                                              maximum of 18
+                                                              quarter-hour units (4.5
+                                                              hours) of group
+                                                              medical therapy, per
+                                                              recipient, per state
+                                                              fiscal year.*
+
+Behavioral health         T1023  HE             $43.62 per    Brief group medical
+medical screening,                              event         therapy is not
+mental health             T1023  HF                           reimbursable on the
+Behavioral health                               $43.62 per    same day, for the
+medical screening,                              event         same recipient as brief
+substance abuse                                               individual medical
+                                                              psychotherapy or
+                                                              behavioral health-
+                                                              related medical
+                                                              services: verbal
+                                                              interactions,
+                                                              medication
+                                                              management.
+                                                              Medicaid reimburses
+                                                              two behavioral health
+                                                              medical screening
+                                                              services, per recipient,
+                                                              per state fiscal year.*
+
+                                                              Behavioral health-
+                                                              related medical
+                                                              screening services are
+                                                              not reimbursable on
+                                                              the same day, for the
+                                                              same recipient, as
+                                                              behavioral health-
+                                                              related medical
+                                                              services: verbal
+                                                              interactions,
+                                                              medication
+                                                              management.
+
+*July 1 through June 30.
+
+March 2014                                                    A-6
+                           Community Behavioral Health Services Coverage and Limitations Handbook
+
+Description of             Procedure Modifier Modifier Maximum Fee Reimbursement and
+    Service
+                           Code   1          2                  Service Limitations
+
+Medical and Psychiatric Services, continued
+
+Behavioral health--        H0046                $15.00 per      Medicaid reimburses
+                                                event           52 behavioral health-
+related medical services:                                       related medical
+                                                $15.00 per      services: medical
+verbal interaction,                             event           procedures, per
+                                                                recipient, per state
+mental health                                   $15.00 per      fiscal year.*
+                                                event
+Behavioral health-         H0046  GT                            Behavioral health-
+                                                $15.00 per      related medical
+related medical services:                       event           services: verbal
+                                                                interactions are not
+verbal interaction,                                             reimbursable on the
+                                                                same day as
+mental health--                                                 behavioral health
+                                                                screening services.
+telemedicine
+
+Behavioral health-         H0047
+
+related medical services:
+
+verbal interaction,
+
+substance abuse
+
+Behavioral health-         H0047  GT
+
+related medical services:
+
+verbal interaction,
+
+substance abuse--
+
+telemedicine
+
+Behavioral health-         T1015  HE            $10.00 per      Medicaid reimburses
+                                                event           52 behavioral health-
+related medical services:                                       related medical
+                                                $10.00 per      services: medical
+medical procedures,                             event           procedures, per
+                                                                recipient, per state
+mental health                                                   fiscal year.*
+
+Behavioral health-         T1015  HF
+
+related medical services:
+
+medical procedures,
+
+substance abuse
+
+Behavioral health-         H0048                $10.00 per      Medicaid reimburses
+                                                event           52 behavioral health-
+related medical services:                                       related medical
+                                                $67.48, weekly  services: alcohol and
+alcohol and other drug                          rate            other drug screening
+                                                                specimen collections,
+screening specimen                                              per recipient, per state
+                                                                fiscal year.*
+collection                                                      Medicaid reimburses
+                                                                medication-assisted
+Medication-assisted        H0020                                treatment services 52
+treatment services                                              times, per recipient,
+                                                                per state fiscal year.*
+                                                                The service is billed
+                                                                one time per seven
+                                                                days.
+
+                                                                This service is not
+                                                                reimbursable using
+                                                                any other procedure
+                                                                code.
+
+*July 1 through June 30.
+
+March 2014                                                      A-7
+                          Community Behavioral Health Services Coverage and Limitations Handbook
+
+Description of            Procedure Modifier Modifier Maximum Fee Reimbursement and
+    Service
+                          Code      1   2                        Service Limitations
+
+Behavioral Health Therapy Services
+
+Individual and family     H2019     HR             $18.33 per    Medicaid reimburses a
+                                                   quarter hour  maximum of 104
+therapy                                 GT $18.33 per            quarter-hour units (26
+                                                   quarter hour  hours) of individual
+Individual and family     H2019     HR                           and family therapy
+                                                                 services, per recipient,
+therapy--telemedicine                                            per state fiscal year.*
+
+Group therapy             H2019     HQ     $6.67 per             There is a maximum
+                                           quarter hour          daily limit of four
+Behavioral health day     H2012                                  quarter-hour units (1
+                                           $12.50 per hour       hour).
+services, mental health                    $12.50 per hour       Medicaid reimburses a
+                                                                 maximum of 156
+Behavioral health day     H2012     HF                           quarter-hour units (39
+                                                                 hours) of group
+services, substance                                              therapy services, per
+                                                                 recipient, per state
+abuse                                                            fiscal year.*
+                                                                 Medicaid reimburses a
+                                                                 maximum of 190-hour
+                                                                 units (47.5 hours; 11.9
+                                                                 half-days) per
+                                                                 recipient, per state
+                                                                 fiscal year.*
+
+                                                                 Medicaid will not
+                                                                 reimburse for
+                                                                 behavioral health day
+                                                                 services the same day
+                                                                 as psychosocial
+                                                                 rehabilitation services.
+
+*July 1 through June 30.
+
+March 2014                                                       A-8
+                           Community Behavioral Health Services Coverage and Limitations Handbook
+
+Description of             Procedure Modifier Modifier Maximum Fee  Reimbursement/
+    Service
+                           Code   1            2                    Service Limitations
+
+Community Support and Rehabilitative Services
+
+Psychosocial               H2017                  $9.00 per         Medicaid reimburses a
+                                                  quarter hour      maximum of 1,920
+rehabilitation services                                             units (480 hours; 20
+                                                                    days) of psychosocial
+                                                                    rehabilitation services,
+                                                                    per recipient, per state
+                                                                    fiscal year.*
+
+Clubhouse services         H2030                  $5.00 per         These units count
+                                                  quarter hour      against clubhouse
+                                                                    service units.
+                                                                    Medicaid reimburses
+                                                                    clubhouse services for
+                                                                    a maximum of 1920
+                                                                    quarter-hour units (480
+                                                                    hours; 20 days)
+                                                                    annually, per recipient,
+                                                                    per state fiscal year.*
+
+                                                                    These units count
+                                                                    against psychosocial
+                                                                    rehabilitation units of
+                                                                    service.
+
+Therapeutic Behavioral On-Site Services for Recipients Under the Age of 21 Years
+
+Therapeutic behavioral     H2019  HO              $16.00 per        Medicaid reimburses
+
+on-site services, therapy                         quarter hour      therapeutic behavioral
+
+                                                                    on-site therapy
+
+                                                                    services a maximum
+
+                                                                    combined limit of a
+
+                                                                    total of 36, 15-minute
+
+                                                                    units per month( 9
+
+                                                                    hours) by a master's
+
+                                                                    level or certified
+
+                                                                    behavioral analyst.
+
+*July 1 through June 30.
+
+March 2014                                                                               A-9
+                        Community Behavioral Health Services Coverage and Limitations Handbook
+
+Description of          Procedure Modifier Modifier Maximum Fee  Reimbursement/
+    Service
+                        Code   1   2                             Service Limitations
+
+Therapeutic Behavioral On-Site Services for Recipients Under the Age of 21 Years, continued
+
+Therapeutic behavioral  H2019  HN     $10.00 per                 Medicaid reimburses
+
+on-site services,                     quarter hour               therapeutic behavioral
+
+behavior management                                              on-site behavior
+
+                                                                 management and
+
+                                                                 therapeutic behavioral
+
+                                                                 on-site therapy
+
+                                                                 services for a
+
+                                                                 maximum combined
+
+                                                                 total of 36, 15-minute
+
+                                                                 units per month by a
+
+                                                                 master's level
+
+                                                                 practitioner, certified
+
+                                                                 behavioral analyst, or
+
+                                                                 certified associate
+
+                                                                 behavioral analyst.
+
+Therapeutic behavioral  H2019  HM     $4.00 per                  Medicaid reimburses
+
+on-site services,                     quarter hour               therapeutic behavioral
+
+therapeutic support                                              on-site therapeutic
+
+                                                                 support services for a
+
+                                                                 maximum of 128
+
+                                                                 quarter-hour units per
+
+                                                                 month (32 hours), per
+
+                                                                 recipient.
+
+March 2014                                                                                   A-10
+                    Community Behavioral Health Services Coverage and Limitations Handbook
+
+                                   APPENDIX B
+            TEMPORARY SERVICE AUTHORIZATION
+
+March 2014  B-1
+                                       Community Behavioral Health Services Coverage and Limitations Handbook
+
+                         TEMPORARY SERVICE AUTHORIZATION
+
+Recipient name:
+Recipient Medicaid number:
+Date of service(s):
+Service(s) provided:
+
+Medicaid procedure code(s):
+
+I have reviewed the relevant clinical information and confirm that the service(s) provided was
+(were) medically necessary.
+
+Treating Practitioner's Signature  Date
+Treating Practitioner's Name
+
+To be placed in the recipient's medical record.
+AHCA Form 5000-3510, Revised December 2012 (incorporated by reference in Rule 59G-4.050, F.A.C.)
+
+March 2014                                                                                      B-2
+

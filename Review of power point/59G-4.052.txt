@@ -1,0 +1,324 @@
+Florida
+Medicaid
+
+     Behavioral Health Therapy Services
+                     Coverage Policy
+
+                 Agency for Health Care Administration
+
+                                      November 2019
+                                                                                                                        Florida Medicaid
+                                                                      Behavioral Health Therapy Services Coverage Policy
+
+                                              Table of Contents
+
+1.0 Introduction ...................................................................................................................................... 1
+         1.1 Florida Medicaid Policies ........................................................................................................... 1
+         1.2 Statewide Medicaid Managed Care Plans ................................................................................ 1
+         1.3 Legal Authority........................................................................................................................... 1
+         1.4 Definitions .................................................................................................................................. 1
+
+2.0 Eligible Recipient ............................................................................................................................. 2
+         2.1 General Criteria ......................................................................................................................... 2
+         2.2 Who Can Receive...................................................................................................................... 2
+         2.3 Coinsurance and Copayments .................................................................................................. 2
+
+3.0 Eligible Provider............................................................................................................................... 2
+         3.1 General Criteria ......................................................................................................................... 2
+         3.2 Who Can Provide ...................................................................................................................... 2
+
+4.0 Coverage Information ...................................................................................................................... 2
+         4.1 General Criteria ......................................................................................................................... 2
+         4.2 Specific Criteria ......................................................................................................................... 3
+         4.3 Early and Periodic Screening, Diagnosis, and Treatment......................................................... 3
+
+5.0 Exclusion .......................................................................................................................................... 3
+         5.1 General Non-Covered Criteria ................................................................................................... 3
+         5.2 Specific Non-Covered Criteria ................................................................................................... 3
+
+6.0 Documentation ................................................................................................................................. 3
+         6.1 General Criteria ......................................................................................................................... 3
+         6.2 Specific Criteria ......................................................................................................................... 3
+
+7.0 Authorization .................................................................................................................................... 4
+         7.1 General Criteria ......................................................................................................................... 4
+         7.2 Specific Criteria ......................................................................................................................... 4
+
+8.0 Reimbursement ................................................................................................................................ 4
+         8.1 General Criteria ......................................................................................................................... 4
+         8.2 Claim Type................................................................................................................................. 4
+         8.3 Billing Code, Modifier, and Billing Unit ...................................................................................... 4
+         8.4 Diagnosis Code ......................................................................................................................... 4
+         8.5 Rate ........................................................................................................................................... 4
+
+November 2019  i
+                                                                Florida Medicaid
+               Behavioral Health Therapy Services Coverage Policy
+
+1.0 Introduction
+
+        Florida Medicaid provides behavioral health therapy services to recipients, their families, or other
+        responsible persons to improve the symptoms of the recipient's mental health or substance use
+        disorder(s) through the use of evidence-based, insight-oriented, therapeutic interventions.
+
+1.1 Florida Medicaid Policies
+        This policy is intended for use by providers that render behavioral health therapy services to
+        eligible Florida Medicaid recipients. It must be used in conjunction with Florida Medicaid's
+        General Policies (as defined in section 1.3) and any applicable service-specific and claim
+        reimbursement policies with which providers must comply.
+
+        Note: All Florida Medicaid policies are promulgated in Rule Division 59G, Florida
+        Administrative Code (F.A.C.). Coverage policies are available on the Agency for Health Care
+        Administration's (AHCA) Web site at http://ahca.myflorida.com/Medicaid/review/index.shtml.
+
+1.2 Statewide Medicaid Managed Care Plans
+        Florida Medicaid managed care plans must comply with the coverage requirements outlined
+        in this policy, unless otherwise specified in the AHCA contract with the Florida Medicaid
+        managed care plan. The provision of services to recipients enrolled in a Florida Medicaid
+        managed care plan must not be subject to more stringent coverage limits than specified in
+        Florida Medicaid policies.
+
+1.3 Legal Authority
+        Florida Medicaid behavioral health therapy services are authorized by the following:
+
+         Title XIX of the Social Security Act (SSA)
+         Title 42, Code of Federal Regulations (CFR), section 440.130
+         Section 409.906, Florida Statutes (F.S.)
+
+1.4 Definitions
+        The following definitions are applicable to this policy. For additional definitions that are
+        applicable to all sections of Rule Division 59G, F.A.C., please refer to the Florida Medicaid
+        Definitions Policy.
+
+1.4.1 Claim Reimbursement Policy
+          A policy document found in Rule Division 59G, F.A.C. that provides instructions on
+          how to bill for services.
+
+1.4.2 Coverage and Limitations Handbook or Coverage Policy
+          A policy document found in Rule Division 59G, F.A.C. that contains coverage
+          information about a Florida Medicaid service.
+
+1.4.3          General Policies
+               A collective term for Florida Medicaid policy documents found in Rule Chapter 59G-1,
+               F.A.C. containing information that applies to all providers (unless otherwise specified)
+               rendering services to recipients.
+
+1.4.4 Medically Necessary/Medical Necessity
+          As defined in Rule 59G-1.010, F.A.C.
+
+1.4.5          Provider
+               The term used to describe any entity, facility, person, or group enrolled with AHCA to
+               furnish services under the Florida Medicaid program in accordance with the provider
+               agreement.
+
+1.4.6 Recipient
+          For the purpose of this coverage policy, the term used to describe an individual
+          enrolled in Florida Medicaid (including managed care plan enrollees).
+
+November 2019                                                                                                 1
+                                                                                                                        Florida Medicaid
+                                                                      Behavioral Health Therapy Services Coverage Policy
+
+                1.4.7 Treating Practitioner
+                           A licensed practitioner who directs the course of treatment for recipients.
+
+2.0 Eligible Recipient
+
+        2.1 General Criteria
+                An eligible recipient must be enrolled in the Florida Medicaid program on the date of service
+                and meet the criteria provided in this policy.
+
+                Provider(s) must verify each recipient's eligibility each time a service is rendered.
+
+        2.2 Who Can Receive
+                Florida Medicaid recipients requiring medically necessary behavioral health therapy services.
+                Some services may be subject to additional coverage criteria as specified in section 4.0.
+
+        2.3 Coinsurance and Copayments
+                Recipients are responsible for a $2.00 copayment in accordance with section 409.9081, F.S.,
+                unless the recipient is exempt from copayment requirements or the copayment is waived by
+                the Florida Medicaid managed care plan in which the recipient is enrolled. For more
+                information on copayment and coinsurance requirements and exemptions, please refer to
+                Florida Medicaid's Copayments and Coinsurance Policy.
+
+3.0 Eligible Provider
+
+        3.1 General Criteria
+                Providers must meet the qualifications specified in this policy in order to be reimbursed for
+                Florida Medicaid behavioral health therapy services.
+
+        3.2 Who Can Provide
+                All providers that deliver behavioral health therapy services must be either employed or
+                contracted with a community behavioral health agency.
+
+                 Practitioners licensed in accordance with Chapters 458 or 459, F.S.
+                 Psychiatric advanced practice registered nurses licensed in accordance with Chapter
+
+                     464, F.S.
+
+                The following providers can deliver individual and group therapy services:
+
+                 Practitioners licensed in accordance with Chapters 490 or 491, F.S.
+                 Master's level certified addiction professionals
+                 Master's level practitioners
+
+                The following providers can only deliver group therapy services:
+
+                 Bachelor's level practitioners
+                 Certified addiction professionals
+
+                The following providers can only deliver brief group medical therapy:
+
+                 Psychiatric nurses licensed in accordance with Chapter 464, F.S.
+
+4.0 Coverage Information
+
+                General Criteria
+                Florida Medicaid covers services that meet all of the following:
+
+                 Are determined medically necessary
+                 Do not duplicate another service
+                 Meet the criteria as specified in this policy
+
+November 2019  2
+                                                                Florida Medicaid
+               Behavioral Health Therapy Services Coverage Policy
+
+Specific Criteria
+Florida Medicaid covers behavioral health therapy services, including documentation,
+education, and referrals, in accordance with the applicable Florida Medicaid fee schedule, or
+as specified in this policy. All therapy services must consist of insight-oriented, cognitive
+behavioral, or supportive therapy interventions.
+
+4.2.1          Brief Individual Medical Psychotherapy
+               Brief individual medical psychotherapy must assist the recipient with achieving the
+               following:
+                Reducing maladaptive behaviors related to a behavioral health disorder
+                Maximizing behavioral self-control
+                Restoring normalized functioning and appropriate interpersonal and social
+
+                    relationships
+
+               Recipients residing in a nursing facility, reimbursed on a per diem basis, can receive
+               brief individual medical psychotherapy services reimbursed under this benefit.
+
+4.2.2          Brief Group Medical Therapy
+               Brief group medical therapy consists of continuing medical diagnostic evaluation and
+               drug management to assist the recipient with achieving the following:
+                Reducing maladaptive behaviors
+                Maximizing behavioral self-control
+                Restoring normalized functioning, reality orientation, and emotional adjustment
+
+               Groups may include participants who are not Medicaid eligible and must be between
+               two and 10 participants.
+
+4.2.3          Individual and Family Therapy
+               Individual and family therapy services may include the recipient, the recipient's
+               family, or a combination of both. When the recipient is not present, the services must
+               always focus on the recipient.
+
+4.2.4          Recipients residing in a nursing facility, reimbursed on a per diem basis, can receive
+               individual and family therapy services reimbursed under this benefit.
+
+               Group Therapy
+               Group therapy services delivered to individuals and their families can include the
+               following in addition to therapy:
+                Education related to the recipient's behavioral health issues
+                Sharing of clinical information
+                Guidance on how to assist the recipient
+
+               Groups may include participants who are not Medicaid eligible and must be between
+               two and 15 participants.
+
+Early and Periodic Screening, Diagnosis, and Treatment
+As required by federal law, Florida Medicaid provides services to eligible recipients under the
+age of 21 years, if such services are medically necessary to correct or ameliorate a defect, a
+condition, or a physical or mental illness. Included are diagnostic services, treatment,
+equipment, supplies, and other measures described in section 1905(a) of the SSA, codified in
+Title 42 of the United States Code 1396d(a). As such, services for recipients under the age of
+21 years exceeding the coverage described within this policy or the associated fee schedule
+may be approved, if medically necessary. For more information, please refer to Florida
+Medicaid's Authorization Requirements Policy.
+
+November 2019                                                                                          3
+                                                                                                                        Florida Medicaid
+                                                                      Behavioral Health Therapy Services Coverage Policy
+
+5.0 Exclusion
+
+        5.1 General Non-Covered Criteria
+                Services related to this policy are not covered when any of the following apply:
+
+                  The service does not meet the medical necessity criteria listed in section 1.0
+                  The recipient does not meet the eligibility requirements listed in section 2.0
+                  The service unnecessarily duplicates another provider's service
+
+        5.2 Specific Non-Covered Criteria
+                Florida Medicaid does not cover the following as part of this service benefit:
+
+                 Behavior analysis services
+                 Case management services
+                 Childcare programs for developmental delays, preschool, or enrichment programs
+                 Non-therapy related interactions (e.g., socializing)
+                 Services for a recipient receiving any 24-hour a day Florida Medicaid-funded residential
+
+                     or institutional service
+                 Services for a recipient residing in an institution for mental diseases
+                 Services provided to a recipient on the day of admission into the Statewide Inpatient
+
+                     Psychiatric Program (SIPP); however, community behavioral health services are
+                     reimbursable on the day of discharge
+                 Services rendered to institutionalized individuals as defined in 42 CFR 435.1009
+                 Travel time
+
+6.0 Documentation
+
+        6.1 General Criteria
+                For information on general documentation requirements, please refer to Florida Medicaid's
+                General Policies on recordkeeping and documentation.
+
+        6.2 Specific Criteria
+                Providers must maintain the following documentation in the recipient's file:
+
+                 Daily progress notes that address each service provided
+                 Documentation of approved services on the treatment plan developed and maintained in
+
+                     accordance with Rule 59G-4.028, F.A.C.
+
+7.0 Authorization
+
+        7.1 General Criteria
+                The authorization information described below is applicable to the fee-for-service delivery
+                system. For more information on general authorization requirements, please refer to Florida
+                Medicaid's Authorization Requirements Policy.
+
+        7.2 Specific Criteria
+                There are no service specific authorization criteria for this service.
+
+8.0 Reimbursement
+
+        8.1 General Criteria
+                The reimbursement information in this section is applicable to the fee-for-service delivery
+                system.
+
+        8.2 Claim Type
+                Professional (837P/CMS-1500)
+
+November 2019  4
+                                                                                                               Florida Medicaid
+                                                              Behavioral Health Therapy Services Coverage Policy
+
+8.3 Billing Code, Modifier, and Billing Unit
+        Providers must report the most current and appropriate billing code(s), modifier(s), and billing
+        unit(s) for the service rendered, incorporated by reference in Rule 59G-4.002, F.A.C.
+
+8.4 Diagnosis Code
+        Providers must report the most current and appropriate diagnosis code to the highest level of
+        specificity that supports medical necessity, as appropriate for this service.
+
+8.5 Rate
+        For a schedule of rates, incorporated by reference in Rule 59G-4.002, F.A.C., visit the AHCA
+        Web site at http://ahca.myflorida.com/Medicaid/review/index.shtml.
+
+November 2019  5
+

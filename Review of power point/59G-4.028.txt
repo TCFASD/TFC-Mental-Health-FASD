@@ -1,0 +1,577 @@
+Florida
+Medicaid
+
+ Behavioral Health Assessment Services
+                     Coverage Policy
+
+                 Agency for Health Care Administration
+
+                                         November 2019
+                                                                                                                        Florida Medicaid
+                                                                 Behavioral Health Assessment Services Coverage Policy
+
+                                              Table of Contents
+
+1.0 Introduction ...................................................................................................................................... 1
+         1.1 Florida Medicaid Policies ........................................................................................................... 1
+         1.2 Statewide Medicaid Managed Care Plans ................................................................................ 1
+         1.3 Legal Authority........................................................................................................................... 1
+         1.4 Definitions .................................................................................................................................. 1
+
+2.0 Eligible Recipient ............................................................................................................................. 2
+         2.1 General Criteria ......................................................................................................................... 2
+         2.2 Who Can Receive...................................................................................................................... 2
+         2.3 Coinsurance and Copayments .................................................................................................. 2
+
+3.0 Eligible Provider............................................................................................................................... 2
+         3.1 General Criteria ......................................................................................................................... 2
+         3.2 Who Can Provide ...................................................................................................................... 2
+
+4.0 Coverage Information ...................................................................................................................... 3
+         4.1 General Criteria ......................................................................................................................... 3
+         4.2 Specific Criteria ......................................................................................................................... 3
+         4.3 Early and Periodic Screening, Diagnosis, and Treatment......................................................... 7
+
+5.0 Exclusion .......................................................................................................................................... 7
+         5.1 General Non-Covered Criteria................................................................................................... 7
+         5.2 Specific Non-Covered Criteria ................................................................................................... 7
+
+6.0 Documentation ................................................................................................................................. 8
+         6.1 General Criteria ......................................................................................................................... 8
+         6.2 Specific Criteria ......................................................................................................................... 8
+
+7.0 Authorization .................................................................................................................................... 8
+         7.1 General Criteria ......................................................................................................................... 8
+         7.2 Specific Criteria ......................................................................................................................... 8
+
+8.0 Reimbursement ................................................................................................................................ 8
+         8.1 General Criteria ......................................................................................................................... 8
+         8.2 Claim Type................................................................................................................................. 8
+         8.3 Billing Code, Modifier, and Billing Unit ...................................................................................... 8
+         8.4 Diagnosis Code ......................................................................................................................... 8
+         8.5 Rate ........................................................................................................................................... 8
+
+November 2019  i
+               Behavioral Health Assessment Services Coverage Policy
+
+1.0 Introduction
+
+        Florida Medicaid provides behavioral health assessment services to recipients for screening and
+        identification of mental health and substance use disorders in order to develop, plan, and maintain
+        a schedule of services to restore a recipient to the best possible functional level.
+
+1.1 Florida Medicaid Policies
+        This policy is intended for use by providers that render behavioral health assessment
+        services to eligible Florida Medicaid recipients. It must be used in conjunction with Florida
+        Medicaid's General Policies (as defined in section 1.3) and any applicable service-specific
+        and claim reimbursement policies with which providers must comply.
+
+        Note: All Florida Medicaid policies are promulgated in Rule Division 59G, Florida
+        Administrative Code (F.A.C.). Coverage policies are available on the Agency for Health Care
+        Administration's (AHCA) Web site at http://ahca.myflorida.com/Medicaid/review/index.shtml.
+
+1.2 Statewide Medicaid Managed Care Plans
+        Florida Medicaid managed care plans must comply with the service coverage requirements
+        outlined in this policy, unless otherwise specified in the AHCA contract with the Florida
+        Medicaid managed care plan. The provision of services to recipients enrolled in a Florida
+        Medicaid managed care plan must not be subject to more stringent service coverage limits
+        than specified in Florida Medicaid policies.
+
+1.3 Legal Authority
+        Florida Medicaid behavioral health assessment services are authorized by the following:
+
+ Title XIX of the Social Security Act, (SSA)
+ Title 42, Code of Federal Regulations, (CFR), section 440.130
+ Section 409.906, Florida Statutes (F.S.)
+
+1.4 Definitions
+        The following definitions are applicable to this policy. For additional definitions that are
+        applicable to all sections of Rule Division 59G, F.A.C., please refer to the Florida Medicaid
+        Definitions Policy.
+
+1.4.1          Assessment
+               An intensive clinical and functional face-to-face evaluation of a recipient's presenting
+               mental health or substance use disorder, which results in the issuance of a written
+               report that provides the clinical basis for the development of the recipient's treatment
+               or service plan.
+
+1.4.2 Claim Reimbursement Policy
+          A policy document found in Rule Division 59G, F.A.C. that provides instructions on
+          how to bill for services.
+
+1.4.3 Coverage and Limitations Handbook or Coverage Policy
+          A policy document found in Rule Division 59G, F.A.C. that contains coverage
+          information about a Florida Medicaid service.
+
+1.4.4          General Policies
+               A collective term for Florida Medicaid policy documents found in Rule Chapter 59G-1,
+               F.A.C. containing information that applies to all providers (unless otherwise specified)
+               rendering services to recipients.
+
+1.4.5 Medically Necessary/Medical Necessity
+          As defined in Rule 59G-1.010, F.A.C.
+
+November 2019                                                                                                1
+               Behavioral Health Assessment Services Coverage Policy
+
+1.4.6          Provider
+1.4.7          The term used to describe any entity, facility, person, or group enrolled with AHCA to
+1.4.8          furnish services under the Florida Medicaid program in accordance with the provider
+               agreement.
+
+               Recipient
+               For the purpose of this coverage policy, the term used to describe an individual
+               enrolled in Florida Medicaid (including managed care plan enrollees).
+
+               Treating Practitioner
+               A licensed practitioner who directs the course of treatment for recipients.
+
+2.0 Eligible Recipient
+
+        2.1 General Criteria
+                An eligible recipient must be enrolled in the Florida Medicaid program on the date of service
+                and meet the criteria provided in this policy.
+
+                Provider(s) must verify each recipient's eligibility each time a service is rendered.
+
+        2.2 Who Can Receive
+                Florida Medicaid recipients requiring medically necessary behavioral health assessment
+                services.
+
+                Some services may be subject to additional coverage criteria as specified in section 4.0.
+
+        2.3 Coinsurance and Copayments
+                Recipients are responsible for a $2.00 copayment in accordance with section 409.9081, F.S.,
+                unless the recipient is exempt from copayment requirements or the copayment is waived by
+                the Florida Medicaid managed care plan in which the recipient is enrolled. For more
+                information on copayment and coinsurance requirements and exemptions, please refer to
+                Florida Medicaid's Copayments and Coinsurance Policy.
+
+3.0 Eligible Provider
+
+        3.1 General Criteria
+                Providers must meet the qualifications specified in this policy in order to be reimbursed for
+                Florida Medicaid behavioral health assessment services.
+
+        3.2 Who Can Provide
+                All providers that deliver behavioral health assessment services must be either employed by,
+                or contracted with, a Florida Medicaid-enrolled community behavioral health agency.
+
+                The following providers may deliver all services specified in section 4.0:
+
+                 Practitioners licensed in accordance with Chapters 458 or 459, F.S.
+                 Psychiatric advanced practice registered nurses licensed in accordance with Chapter
+
+                     464, F.S.
+
+                The following providers may deliver all services specified in section 4.0 except for psychiatric
+                evaluations and psychiatric reviews of records:
+
+                 Practitioners licensed in accordance with Chapters 490 or 491, F.S.
+
+                The following providers may deliver brief behavioral health status examinations, in-depth
+                assessments, and bio-psychosocial evaluations and participate on treatment teams:
+
+                 Master's level certified addiction professionals
+
+November 2019  2
+                                        Behavioral Health Assessment Services Coverage Policy
+
+The following providers may deliver in-depth assessments and bio-psychosocial evaluations
+and participate on treatment teams:
+
+ Certified addiction professionals
+ Master's level practitioners
+
+The following providers may deliver bio-psychosocial evaluations and participate on
+treatment teams:
+
+ Bachelor's level practitioners
+
+Providers delivering limited functional assessments using the Functional Assessment Rating
+Scale (FARS) or Children's Functional Assessment Rating Scale (C-FARS) must hold
+certification from the Department of Children and Families.
+
+4.0 Coverage Information
+
+General Criteria
+Florida Medicaid covers services that meet all of the following:
+
+ Are determined medically necessary
+ Do not duplicate another service
+ Meet the criteria as specified in this policy
+
+Specific Criteria
+Florida Medicaid covers the following in accordance with the Healthcare Common Procedure
+Coding System and the applicable Florida Medicaid fee schedule, or as specified in this
+policy:
+
+4.2.1          Bio-psychosocial Evaluation
+               Bio-psychosocial evaluations describe biological, psychological, and social factors
+               that contribute to a recipient's need for services and include brief mental health status
+               examinations and preliminary service recommendations.
+
+               Bio-psychosocial evaluations must provide information on the following:
+
+                Biological factors
+                Diagnostic impressions
+                Mental health status examinations
+                Presenting problems
+                Psychological factors
+                Social factors
+                Summary of findings
+                Treatment recommendations or plans
+
+               Master's level, bachelor's level certified addiction professionals, or treating
+               practitioners must review bio-psychosocial evaluations completed by bachelor's level
+               practitioners and include a statement that concurs with the findings or provides
+               alternative recommendations.
+
+4.2.2          Brief Behavioral Health Status Examination
+               Brief behavioral health status examinations consist of brief clinical, psychiatric,
+               diagnostic, or evaluative interviews to assess behavioral stability or treatment status.
+               An examination is required prior to the development of a recipient's treatment plan.
+
+               Brief behavioral health status examinations must provide information on the following:
+
+                Diagnostic formulation
+                Mental health status
+                Purpose of the exam
+                Summary of findings
+
+November 2019                                                                               3
+                          Behavioral Health Assessment Services Coverage Policy
+
+                Treatment recommendations or plan
+
+               Brief behavioral health status examinations are not required prior to the development
+               of a recipient's treatment plan when a bio-psychosocial evaluation or in-depth
+               assessment has been completed during the previous six months.
+
+4.2.3          In-depth Assessment
+               In-depth assessments gather information to establish or support a diagnosis, provide
+               the basis for developing or modifying a treatment plan, and developing discharge
+               criteria.
+
+               In-depth assessments for recipients ages seven and older must provide information
+               on the following:
+
+                History of treatment that includes the following:
+
+                 Acute care treatment
+
+                 Desired services and goals from the recipient's viewpoint
+
+                 Inpatient behavioral health treatment
+
+                 Mental health status examinations
+
+                 Psychiatric treatment and psychotropic medication information
+
+                 Therapy and counseling
+
+                 Treatment recommendations or plans
+
+                Personal history that includes the following:
+
+                 Alcohol and other drug use
+
+                 Educational analysis
+
+                 Identifying information
+
+                 Legal involvement
+
+                 Medical information
+
+                 Resources and strengths
+
+                 Traumatic experiences
+
+                Recipient's perception of problems, needs, or symptoms
+
+               In-depth assessments for recipients under the age of seven years must include the
+               following:
+
+                Clinical interview with the primary caretaker and observation of the caretaker and
+
+               recipient
+
+                Developmental and medical history that includes the following:
+
+                 Developmental milestones
+
+                 History of the mother's pregnancy and delivery
+
+                 Past and current medical conditions
+
+                Family functioning, cultural and communication patterns, and current
+
+               environmental conditions and stressors
+
+                Family psychosocial and medical history
+
+                Observation and assessment of the recipient's affective, language, cognitive,
+
+               motor, sensory, self-care, and social functioning
+
+                Presenting symptoms and behaviors
+
+               In-depth assessments for new patients must be administered to recipients for one of
+               the following reasons:
+
+                Another type of assessment is insufficient for providing a comprehensive
+                    evaluation for treatment planning.
+
+                Recipient is high risk.
+
+               In-depth assessments for established patients must be administered to recipients for
+               one of the following reasons:
+
+November 2019                                                                                       4
+               Behavioral Health Assessment Services Coverage Policy
+
+                Recipient has received outpatient treatment with unsuccessful results and may
+                    require more intensive services.
+
+                Recipient is identified as high utilizer of behavioral health services.
+
+               In-depth assessments require completion of an integrated summary that evaluates
+               history and assessment information collected and provides the following:
+
+                Diagnosis
+                Discharge criteria
+                Evaluation of past intervention efficacy
+                Service needs
+
+4.2.4          Limited Functional Assessment
+4.2.5          Limited functional assessments consist of the following:
+
+                American Society for Addiction Medicine Patient Placement Criteria (ASAM PPC-
+                    2R)
+
+                Children's Functional Assessment Rating Scale (C-FARS)
+                Functional Assessment Rating Scale (FARS)
+                Other functional assessment required by the Department of Children and
+
+                    Families
+
+               Psychiatric Evaluation
+               Psychiatric evaluations consist of comprehensive evaluations that investigate a
+               recipient's clinical status and include the following:
+
+                Establishment of a therapeutic doctor-patient relationship
+                Gather accurate data to formulate a diagnosis
+                Initiation of an effective treatment plan
+
+               Psychiatric evaluations must include information on the following:
+
+                Alcohol and other drug abuse history
+                Diagnostic formulation
+                History of presenting illnesses or problems
+                Mental health status examination
+                Personal strengths
+                Presenting problems
+                Psychiatric, physical, medication, and trauma history
+                Relevant personal and family medical history
+                Summary of findings
+                Treatment recommendations or plans
+
+4.2.6          Psychiatric evaluations must occur at the onset of illness and may be utilized
+               following an extended hiatus, marked change in mental status, or admission to an
+               inpatient setting due to psychiatric illness.
+
+               Psychiatric evaluations are not necessary for recipients diagnosed with an organic
+               brain disorder unless a change in mental status requires an evaluation.
+
+               Psychiatric Review of Records
+               Psychiatric reviews of records consist of reviewing the following to evaluate and plan
+               recipient care:
+
+                 Clinical and psychological evaluation data for diagnostic use
+                 Psychiatric reports
+                 Psychometric or projective tests
+
+November 2019                                                                                   5
+               Behavioral Health Assessment Services Coverage Policy
+
+               Psychiatric reviews of records must include a written report or progress note to be
+               included in the recipient's clinical record.
+
+4.2.7          Psychological Testing
+4.2.8          Psychological testing consists of the assessment, evaluation, and diagnosis of the
+               recipient's mental status or psychological condition through the use of standardized
+4.2.9          testing methodologies.
+
+               Psychological testing must be administered to recipients for one of the following
+               reasons:
+
+                 Extended hiatuses, marked changes in mental status, or assessing for
+                     admission or readmission to a psychiatric inpatient setting
+
+                 Onset of illness or suspected illness when a recipient first presents for treatment
+                 To obtain additional information needed to evaluate treatment or make a
+
+                     diagnosis
+
+               Treatment Plan Development
+               Treatment plans include individualized, structured, and goal-oriented schedules of
+               services with measurable objectives that promote the maximum reduction of a
+               recipient's disability and restoration to the best possible functional level. Plans must
+               address a recipient's primary and secondary diagnoses and be consistent with
+               assessments.
+
+               Treatment teams that are recipient-centered must develop treatment plans that are
+               consistent with a recipient's identified strengths, abilities, needs, and preferences.
+
+               Treatment plans must include the following:
+
+                 Amount, frequency, and duration of each service for the six-month duration of
+                     the treatment plan
+                      Providers may not specify that services will be provided "as needed" or
+                           within a given date range.
+
+                 Dated signature of the recipient or recipient's guardian if the recipient is under
+                     the age of 18 years
+
+                 Diagnoses consistent with assessments
+                 Discharge criteria
+                 Individualized and strength-based goals that are appropriate to each recipient
+                 List of services to be provided
+                 Measurable objectives with target completion dates listed for each goal
+                 Treating practitioner statement that services are medically necessary
+                 Treatment team member signatures
+
+               Treatment plans become effective on the date of the treating practitioner's signature.
+               Florida Medicaid reimburses for services provided within 45 days of the signature.
+
+               Providers may use addendums to modify treatment plans when significant changes
+               have not occurred. Addendums may add or modify services and must be signed by
+               the treating practitioner and recipient.
+
+               Treatment Plan Review
+               Treatment plan reviews occur once per six months, or when significant changes
+               occur; and consist of the treatment team and recipient reviewing the goals,
+               objectives, and services to determine whether they continue to be appropriate for the
+               recipient's needs and progress.
+
+               Treatment plan reviews must consist of the following:
+
+                 Dated signature of the recipient, or recipient's guardian, if the recipient is under
+                     the age of 18 years
+
+November 2019                                                                                       6
+                                                                 Behavioral Health Assessment Services Coverage Policy
+
+                             Diagnosis and justification for changes in diagnosis
+                             Findings
+                             Recipient's progress toward meeting individualized goals, objectives, and
+
+                                  discharge criteria
+                             Recommendations
+                             Treatment team member signatures
+                             Treating practitioner statement that services are medically necessary
+                             Updates to aftercare plan
+
+                           Treatment teams must document activities, notations of discussions, findings,
+                           conclusions, and modifications. If a recipient does not meet treatment goals, the
+                           treatment team must provide justification if it makes no changes to the treatment
+                           plan.
+
+                Early and Periodic Screening, Diagnosis, and Treatment
+                As required by federal law, Florida Medicaid provides services to eligible recipients under the
+                age of 21 years, if such services are medically necessary to correct or ameliorate a defect, a
+                condition, or a physical or mental illness. Included are diagnostic services, treatment,
+                equipment, supplies, and other measures described in section 1905(a) of the SSA, codified in
+                Title 42 of the United States Code 1396d(a). As such, services for recipients under the age of
+                21 years exceeding the coverage described within this policy or the associated fee schedule
+                may be approved, if medically necessary. For more information, please refer to Florida
+                Medicaid's Authorization Requirements Policy.
+
+5.0 Exclusion
+
+        5.1 General Non-Covered Criteria
+                Services related to this policy are not covered when any of the following apply:
+
+                 The service does not meet the medical necessity criteria listed in section 1.0
+                 The recipient does not meet the eligibility requirements listed in section 2.0
+                 The service unnecessarily duplicates another provider's service
+
+        5.2 Specific Non-Covered Criteria
+                Florida Medicaid does not cover the following as part of this service benefit:
+
+                 Activities performed to maintain and review records for facility utilization, continuous
+                     quality improvement, recipient eligibility status processing, and staff training purposes
+
+                 Behavior analysis assessments or reassessments on the same day as behavioral health
+                     assessments
+
+                 Bio-psychosocial evaluation for the same recipient after an in-depth assessment has
+                     been completed, unless there is a documented change in the recipient's status and
+                     additional information must be gathered to modify the recipient's treatment plan
+
+                 Brief behavioral assessment on the same day that a psychiatric evaluation, bio-
+                     psychosocial assessment, or in-depth assessment has been completed
+
+                 Case management services
+                 Services provided to a recipient on the day of admission into the Statewide Inpatient
+
+                     Psychiatric Program (SIPP); however, community behavioral health services are
+                     reimbursable on the day of discharge
+                 Services rendered to individuals residing in an institution for mental diseases
+                 Services rendered to institutionalized individuals, as defined in 42 CFR 435.1009
+                 Travel time
+
+November 2019  7
+                                      Behavioral Health Assessment Services Coverage Policy
+
+6.0 Documentation
+
+        6.1 General Criteria
+                For information on general documentation requirements, please refer to Florida Medicaid's
+                Recordkeeping and Documentation Policy.
+
+        6.2 Specific Criteria
+                Providers must maintain the following in the recipient's file:
+
+                 Copy of the assessment
+                 Daily progress notes that list each service and activity provided
+                 Record of a mental health diagnosis from a licensed practitioner
+
+7.0 Authorization
+
+        7.1 General Criteria
+                The authorization information described below is applicable to the fee-for-service delivery
+                system. For more information on general authorization requirements, please refer to Florida
+                Medicaid's Authorization Requirements Policy.
+
+        7.2 Specific Criteria
+                There are no specific authorization criteria for this service.
+
+8.0 Reimbursement
+
+8.1 General Criteria
+        The reimbursement information below is applicable to the fee-for-service delivery system.
+
+8.2 Claim Type
+        Professional (837P/CMS-1500)
+
+8.3 Billing Code, Modifier, and Billing Unit
+        Providers must report the most current and appropriate billing code(s), modifier(s), and billing
+        unit(s) for the service rendered, incorporated by reference in Rule 59G-4.002, F.A.C.
+
+8.4 Diagnosis Code
+        Providers must report the most current and appropriate diagnosis code to the highest level of
+        specificity that supports medical necessity, as appropriate for this service.
+
+8.5 Rate
+        For a schedule of rates, incorporated by reference in Rule 59G-4.002, F.A.C., visit the AHCA
+        Web site at http://ahca.myflorida.com/Medicaid/review/index.shtml.
+
+8.5.1          Nursing Facilities
+               Florida Medicaid reimburses separately for all covered behavioral health assessment
+               services provided to recipients who reside in a nursing facility that is reimbursed per
+               diem.
+
+November 2019                                                                                                8
+

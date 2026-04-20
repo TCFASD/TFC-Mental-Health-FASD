@@ -1,0 +1,225 @@
+How to Bill
+The Billing Absolutes!
+
+No ifs, ands, or buts...
+
+Rule #1 - No client can be seen until consents are signed
+Rule #2 - The assessment is always billed first - nothing else can be
+billed before it (unless it's an ITXXCC or CCM which are not billable
+codes)
+Rule #3 - You must do a Treatment Plan within 10 business days from
+the date of the assessment. TPs need to be signed by the caregiver
+Rule #4 - You must track when documents expire and cannot see
+clients until they have been renewed (this goes for consents,
+assessments, treatment plans, and treatment plan reviews)
+Biopsychosocial - PSY
+In-Depth Assessment - IDA
+
+ONE PSY per year ­ H0031 HN    ONE PSY Annual Update ­ H0031 HN
+ONE IDA per year ­ H0031 HO     ONE IDA Annual Update ­ H0031 TS
+
+                             All of them: 1 unit ­ 1 hour
+
+December                                                          December
+   2023                                                              2024
+
+    PSY                                                                 Annual
+    IDA                                                                   PSY
+                                                                          IDA
+Treatment Plan and Treatment Plan Reviews
+
+ONE Master Treatment Plan per year ­ H0032 ­ 1 unit ­ 15, 30, 45, 60 min              For SBMH:
+ONE Treatment Plan Review per quarter ­ H0032TS ­ 1 unit ­ 15, 30, 45, 60 min  Include teacher goal
+
+                                                                                 (SBMH) or parent
+                                                                                   goal (all others)
+
+December   March 2023  June 2023  September                                    December
+   2022        TPR         TPR        2023                                        2023
+
+      PSY                              TPR                                            Annual
+      IDA                                                                               PSY
+                                                                                        IDA
+  MTP
+                                                                                    MTP
+
+TPR                    1 additional TPR is allowed
+
+                       throughout the year if needed
+                CFARS ­ H0031                                                    Bill the first
+                                                                                 3 CFARS to
+                     6 years-old and above AND Medicaid ONLY                     H0031
+                                                                                 Bill 4th
+CFARS ­ 1 unit ­ 15 minutes                                                      CFARS to
+ONE CFARS at Admission ­ ONE CFARS at Discharge ­ ONE CFARS per quarter          CCM
+
+December 2022  March 2023  June 2023  September  December 2023
+                                          2023
+
+PSY                                                                      Annual
+IDA                                                                        PSY
+                                                                           IDA
+MTP            TPR         TPR        TPR
+                                                                         MTP
+
+Admission      CFARS       CFARS      CFARS                              CFARS
+  CFARS
+Brief Behavioral Status Exam - BBSE
+
+  Licensed clinicians will be able to document a Brief Behavioral Status
+  Examination ­ BBSE ­ H2010 HO if a call is received to assist in the crisis
+  intervention/ BTA/ SRA of an existing client.
+
+  A Mental Status Examination is an assessment of mental capacity through
+  evaluation of general appearance, behaviors, perceptions, mood and all
+  aspects of cognition such as attention, orientation, memory, etc.
+
+                                                                                      Code H2010 HO
+                                                       Can bill 15 or 30 minutes (1 or 2 units)
+
+                                                                         Maximum 2 units per day
+                                                                            Up to 10 units per year
+
+                                        Cannot be billed on the same day as a PSY or IDA
+Individual/Family Sessions ­ H2019 HR
+
+Sessions can be billed as:
+
+Individual session: If the therapist worked alone with the client
+
+Family session with client present: If the therapist worked with the client and one or more family
+members.
+
+Family session without client present: If the therapist worked with one or more family members
+and the client was not present (the session has to be pertinent to the client's therapeutic work)
+
+Cannot bill two H2019HR                  Sessions can last:
+   codes in one day, no                  1 unit ­ 15 mins.
+   matter the length of                  2 units ­ 30 mins.
+  time, and no matter if                 3 units ­ 45 mins.
+  one is w/the child and                 4 units ­ 60 mins.
+     the other is w/the           Medicaid allows 7 mins. for
+                           documentation, add this time to your
+parent. Two in one day is  session and round up to the next unit.
+         not allowed.
+For the clients with Sunshine Health -
+
+ONLY  CODE: T1023 HA
+
+Children 0-5
+Used when billing: Tests, inventories, questionnaires,
+structured interviews, structured observations, and systematic
+assessments that are administered to help assess the caregiver-child
+relationship and to help aid in the development of the treatment plan.
+
+How many?: 40 units or 10 hours per calendar year
+
+Writing the note: "Therapist completed ____________ a standardized systematic
+assessment to assess the caregiver-child relationship and gather information for
+treatment plan development. The caregiver shared risk factors associated with
+child-rearing and symptoms that warrant further assessment."
+ For the clients with Sunshine Health - ONLY
+
+                                         CODE: T1027
+
+ 0-21 years old with a Serious Emotional Disturbance (SED) diagnosis whose caregivers could
+                                                  benefit from assistance.
+
+   Services to help caregiver(s) understand and manage a member's behavioral needs related to a
+  Serious Emotional Disturbance (SED) diagnosis to promote the client's development. Client is not
+
+                                 required to be present, but may be if appropriate.
+
+Services include: support groups or individual sessions for family members; psychosocial
+activities; and other education and support activities related to SED in children.
+
+How many?: Maximum of 36 units or 9 hours per month.
+
+Writing the Note: "Therapist offered family psychosocial education to help caregiver understand
+and manage child's behavioral needs related to child's _________________(diagnosis)."
+Early Childhood Court - ONLY
+Sunshine Health & CPP - ONLY
+Client age 0-3 - ONLY
+
+                                CODE: H2014
+
+                0-3 years old only, must have Sunshine, must be in ECC
+Bill this code for:
+
+  - CPP sessions
+  - Time in court
+  - Time in family team meetings
+
+No limit to how much, can be billed
+This is a pilot that started on June1, 2025.
+What will change regarding our current
+sessions vs. consultations?
+
+Individual Sessions·Scheduled weekly                          If the clinician participates in a         Clinicians should try
+                       Crisis Interventionsessions              support call for a client, and      to reduce frequent phone
+                                                                during the intervention, the        exchanges with parents
+                                               Family Sessions·Scheduled Intensiveclinician has to: and caregivers, and
+  services - sessions twice a                                                                       increase scheduled
+  week.                                                       Spend time with the client,           in-person or zoom time
+                                                                alone or not.                       with them, as regular
+·Scheduled weekly                                                                                   outpatient services.
+  sessions plus additional                                    Provide stabilization, practice
+  sessions as needed.                                           coping skills, process            The purpose of this
+                                                                distorted thoughts and              scheduled time is:
+Where do I schedule this?                                       feelings, any type of
+                                                                therapeutic intervention.         Improve relationships.
+  In the Master Treatment                                                                         Exchange therapeutic
+  Plan or Treatment Plan                                      The clinician should bill a
+  Review, the clinician                                         session ­ H2019 HR ­                tools.
+  decides and modifies the                                      document what was the             Benefit the family system
+  frequency of services as                                      reason, who was present and
+  needed throughout the                                         the length of the intervention    These will be billed as
+  year, that's why we have                                      in units. Licensed clinicians       Family Sessions
+  UP TO 4 TPR's.                                                can also bill a BBSE-H2010 HO       with/without Client
+                                                                for 15 or 30 minutes                Present ­ H2019 HR, for
+                                                                                                    the length of the session
+                                                                                                    in units.
+  What can I bill in my first encounter
+  with a parent/caregiver?
+
+On the day of the PSY, a clinician can bill:
+
+ONE PSY or IDA ­ H0031 HN ­ 1 unit
+ONE TP ­ H0032 ­ 1 unit
+ONE CFARS ­ H0031 ­ 1 unit
+
+      Note: CFARS can only be billed if the client has Medicaid
+             CFARS can ONLY be assessed if the client is present
+
+                                        Ask your Supervisor about how to optimize this time!
+Groups ­ H2019 HQ
+
+For each participant, the clinician will have to complete:
+1. Intake
+2. PSY or IDA ­ H0031 HN
+3. TP ­ H0032
+4. CFARS ­ H0031 (Only Medicaid or FKC clients)
+5. Bill group sessions ­ H2019 HQ
+
+Please consult with your Supervisor if you are planning on facilitating or
+co-facilitating any type of groups.
+
+Note: Group and Individual cannot occur on the same day.
+Clinical Consultation (ITXXCC) and
+Clinical Case Management (CCM)
+
+Depending on funding, some therapists will have additional service codes:
+ITXXCC (Clinical Consultation) - Use this when talking to someone via telephone; or when
+talking to other support people (ie: consulting with the child's speech therapist or the counselor
+at the child's school).
+CCM (Clinical Case Management) - Use this when writing reports outside of your normal
+documentation (ie: special reports for court, etc)
+
+These codes can be used to document the therapist's time doing activities that cannot be billed
+to insurance such as phone calls and writing reports for special circumstances (court reports).
+
+Remember, you want to limit the amount of time you are talking to people outside of sessions.
+You can politely say, "That sounds important. Let's set up time to talk." As long as this time is
+in person or on Zoom - It's a billable session. If you end up talking by phone, then it's an
+ITXXCC.
+

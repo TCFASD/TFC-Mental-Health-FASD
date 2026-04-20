@@ -1,0 +1,197 @@
+                                                   Florida Medicaid Community Behavior Health Fee Schedule
+                                                                                    2025
+
+        Description of Service       Procedure Mod Tele- Maximum Fee                     Reimbursement and Service Limitations
+                                     Code       medicine *
+
+59G-4.028: Behavioral Health Assessment Services Coverage Policy
+
+Psychiatric evaluation by a physician H2000 HP  Y                 $250.63 per            Medicaid reimburses a maximum of two psychiatric evaluations per recipient, per state fiscal year.
+                                                                   evaluation
+Psychiatric evaluation by a non-     H2000 HO   Y                 $179.02 per            Medicaid reimburses a maximum of two psychiatric evaluations per recipient, per state fiscal year.
+physician                                                          evaluation
+                                                                                         There is a maximum daily limit of two quarter-hour units.
+Brief behavioral health status exam H2010 HO    Y                  $14.79 per            Medicaid reimburses for brief behavioral health status examinations a maximum of 10 quarter-hour units annually
+                                                                  quarter hour           (2.5 hours), per recipient, per state fiscal year.
+                                                                                         A brief behavioral assessment is not reimbursable on the same day that a psychiatric evaluation, bio-psychosocial
+                                                                                         assessment, or in-depth assessment has been completed by a qualified treating practitioner.
+
+Psychiatric review of records        H2000                        $31.03 per Medicaid reimburses a maximum of two psychiatric reviews of records, per recipient, per state fiscal year.
+                                                                    review This service may not be billed for review of lab work (see medication management).
+
+In-depth assessment, new patient,    H0031 HO                     $126.11 per            Medicaid reimburses one in-depth assessment, per recipient, per state fiscal year.
+mental health                                                     assessment             An in-depth assessment is not reimbursable on the same day for the same recipient as a biopsychosocial evaluation.
+                                                                                         A bio-psychosocial evaluation is not reimbursable for the same recipient after an in-depth assessment has been
+                                                                                         completed, unless there is a documented change in the recipient's status and additional
+                                                                                         information must be gathered to modify the recipient's treatment plan.
+
+In-depth assessment, established     H0031 TS                     $100.88 per            Medicaid reimburses one in-depth assessment, per recipient, per state fiscal year.
+patient, mental health                                            assessment             An in-depth assessment is not reimbursable on the same day for the same recipient as a biopsychosocial evaluation.
+                                                                                         A bio-psychosocial evaluation is not reimbursable for the same recipient after an in-depth assessment has been
+                                                                                         completed, unless there is a documented change in the recipient's status and additional
+                                                                                         information must be gathered to modify the recipient's treatment plan.
+
+In-depth assessment, new patient,    H0001 HO                     $126.11 per            Medicaid reimburses one in-depth assessment, per recipient, per state fiscal year.
+substance abuse                                                   assessment             An in-depth assessment is not reimbursable on the same day for the same recipient as a biopsychosocial evaluation.
+                                                                                         A bio-psychosocial evaluation is not reimbursable for the same recipient after an in-depth assessment has been
+                                                                                         completed, unless there is a documented change in the recipient's status and additional
+                                                                                         information must be gathered to modify the recipient's treatment plan.
+
+In-depth assessment, established     H0001 TS                     $100.88 per            Medicaid reimburses one in-depth assessment, per recipient, per state fiscal year.
+patient, substance abuse                                          assessment             An in-depth assessment is not reimbursable on the same day for the same recipient as a biopsychosocial evaluation.
+                                                                                         A bio-psychosocial evaluation is not reimbursable for the same recipient after an in-depth assessment has been
+                                                                                         completed, unless there is a documented change in the recipient's status and additional
+                                                                                         information must be gathered to modify the recipient's treatment plan.
+
+Bio-psychosocial Evaluation, mental  H0031 HN   Y                 $57.28 per Medicaid reimburses one biopsychosocial evaluation, per recipient, per state fiscal year.
+                                                                  assessment A bio-psychosocial evaluation is not reimbursable on the same day for the same recipient as an in-depth assessment.
+health
+
+* "Y" indicates service can be delivered via telemedicine in accordance with 59G-1.057.                                                                                                  Page 1 of 4
+                                                  Florida Medicaid Community Behavior Health Fee Schedule
+                                                                                   2025
+
+        Description of Service      Procedure Mod Tele- Maximum Fee                      Reimbursement and Service Limitations
+                                    Code       medicine *
+
+Bio-psychosocial evaluation,        H0001 HN   Y           $57.28 per Medicaid reimburses one biopsychosocial evaluation, per recipient, per state fiscal year.
+substance abuse                                            assessment A bio-psychosocial evaluation is not reimbursable on the same day for the same recipient as an in-depth assessment.
+
+Psychological testing               H2019                   $17.90 per                   Medicaid reimburses a maximum of 40 quarter-hour units (10 hours) of psychological testing per state fiscal year.
+                                                           quarter hour                  Medicaid reimburses a maximum of three limited functional assessments, per recipient, per state fiscal year.
+Limited functional assessment,      H0031      Y            $17.90 per                   Medicaid reimburses a maximum of three limited functional assessments, per recipient, per state fiscal year.
+                                                           assessment
+mental health                                               $15.13 per
+                                                           assessment
+Limited functional assessment,      H0001      Y
+
+substance abuse
+
+Treatment plan development, new     H0032                  $97.86 per                    Medicaid reimburses for the development of one treatment plan per provider, per state fiscal year.
+and established patient, mental                               event                      Medicaid reimburses for a maximum total of two treatment plans per recipient per state fiscal year.
+health                                                                                   The reimbursement date for treatment plan development is the day it is authorized by the treating practitioner.
+
+Treatment plan development, new     T1007                  $97.86 per                    Medicaid reimburses for the development of one treatment plan per provider, per state fiscal year.
+and established patient, substance                            event                      Medicaid reimburses for a maximum total of two treatment plans per recipient per state fiscal year.
+abuse                                                                                    The reimbursement date for treatment plan development is the day it is authorized by the treating practitioner.
+
+Treatment plan review, mental       H0032 TS               $48.93 per Medicaid reimburses a maximum of four treatment plan reviews, per recipient, per state fiscal year.
+health
+                                                           event                         The reimbursement date for a treatment plan review is the day it is authorized by the treating practitioner.
+
+Treatment plan review, substance    T1007 TS               $48.93 per                    Medicaid reimburses a maximum of four treatment plan reviews, per recipient, per state fiscal year.
+abuse                                                         event                      The reimbursement date for a treatment plan review is the day it is authorized by the treating practitioner.
+
+59G-4.029: Behavioral Health Medication Management Services Coverage Policy              Medicaid reimburses medication management as medically necessary.
+                                                                                         Medication management is not reimbursable on the same day, for the same recipient, as brief group medical therapy
+Medication management               T1015      Y           $71.61 per                    or brief individual medical psychotherapy.
+                                                              event
+                                                                                         Medicaid reimburses two behavioral health medical screening services, per recipient, per state fiscal year.
+Behavioral health medical screening, T1023 HE  Y           $44.01 per                    Behavioral health-related medical screening services are not reimbursable on the same day, for the same recipient, as
+mental health                                                 event                      behavioral health-related medical services: verbal interactions, medication management.
+
+Behavioral health medical screening, T1023 HF  Y           $44.01 per                    Medicaid reimburses two behavioral health medical screening services, per recipient, per state fiscal year.
+substance abuse                                               event                      Behavioral health-related medical screening services are not reimbursable on the same day, for the same recipient, as
+                                                                                         behavioral health-related medical services: verbal interactions, medication management.
+Behavioral health-related medical                          $15.13 per
+                                                              event                      Medicaid reimburses 52 behavioral health-related medical services: medical procedures, per recipient, per state fiscal
+services: verbal interaction, mental H0046     Y                                         year.
+                                                                                         Behavioral health-related medical services: verbal interactions are not reimbursable on the same day as behavioral
+health                                                                                   health screening services.
+
+* "Y" indicates service can be delivered via telemedicine in accordance with 59G-1.057.                                                                                                                Page 2 of 4
+                                                  Florida Medicaid Community Behavior Health Fee Schedule
+                                                                                   2025
+
+Description of Service             Procedure Mod Tele- Maximum Fee                              Reimbursement and Service Limitations
+                                   Code        medicine *
+
+Behavioral health-related medical                          $15.13 per                    Medicaid reimburses 52 behavioral health-related medical services: medical procedures, per recipient, per state fiscal
+                                                              event                      year.
+services: verbal interaction,      H0047       Y                                         Behavioral health-related medical services: verbal interactions are not reimbursable on the same day as behavioral
+                                                           $10.09 per                    health screening services.
+substance abuse                                               event
+                                                                                         Medicaid reimburses 52 behavioral health-related medical services: medical procedures, per recipient, per state fiscal
+Behavioral health-related medical                                                        year.
+services: medical procedures, mental T1015 HE
+health
+
+Behavioral health-related medical  T1015 HF                $10.09 per Medicaid reimburses 52 behavioral health-related medical services: medical procedures, per recipient, per state fiscal
+services: medical procedures,
+substance abuse                                            event                         year.
+
+Behavioral health-related medical  H0048                   $10.09 per Medicaid reimburses 52 behavioral health ­ related medical services: alcohol and other drug screening specimen
+services: alcohol and other drug
+screening specimen                                         event                         collections, per recipient, per state fiscal year.
+
+Medication-assisted treatment      H0020       Y           $68.08 weekly Medicaid reimburses medication assisted treatment services 52 times, per recipient, per state fiscal year.
+services
+                                                                         rate            The service is billed one time per seven days. This service is not reimbursable using any other procedure code.
+
+59G-4.031: Behavioral Health Community Support Services Coverage Policy
+
+Psychosocial rehabilitation services H2017                   $9.08 per                   Medicaid reimburses a maximum of 1,920 quarter-hour units (480 hours) of psychosocial rehabilitation services, per
+                                                           quarter hour                  recipient, per state fiscal year.
+                                                                                         These units count against clubhouse service units.
+
+Clubhouse services                 H2030                     $5.04 per Medicaid reimburses a maximum of 1920 quarter-hour units (480 hours) annually, per recipient, per state fiscal year.
+                                                           quarter hour These units count against psychosocial rehabilitation units of service.
+
+59G-4.052: Behavioral Health Therapy Services
+
+Brief individual medical           H2010 HE    Y           $15.13 per                    There is a maximum daily limit of two quarter-hour units.
+psychotherapy, mental health                               quarter hour                  Medicaid reimburses a maximum of 16 quarter-hour units (4 hours) of brief individual medical psychotherapy, per
+                                                                                         recipient, per state fiscal year.*
+Brief individual medical           H2010 HF    Y           $15.13 per                    Brief individual medical psychotherapy is not reimbursable on the same day, for the same recipient, as brief group
+psychotherapy, substance abuse                             quarter hour                  medical therapy or medication management.
+                                                                                         There is a maximum daily limit of two quarter-hour units.
+                                                                                         Medicaid reimburses a maximum of 16 quarter-hour units (4 hours) of brief individual medical psychotherapy, per
+                                                                                         recipient, per state fiscal year.
+                                                                                         Brief individual medical psychotherapy is not reimbursable on the same day, for the same recipient, as brief group
+                                                                                         medical therapy or medication management.
+
+* "Y" indicates service can be delivered via telemedicine in accordance with 59G-1.057.                                                                                              Page 3 of 4
+                                                                Florida Medicaid Community Behavior Health Fee Schedule
+                                                                                                 2025
+
+Description of Service           Procedure Mod Tele- Maximum Fee                         Reimbursement and Service Limitations
+                                 Code                       medicine *
+
+Brief group medical therapy      H2010 HQ                                 $8.73 per      There is a maximum daily limit of two quarter-hour units.
+                                                                        quarter hour     Medicaid reimburses a maximum of 18 quarter-hour units (4.5 hours) of group medical therapy, per recipient, per
+                                                                                         state fiscal year.
+                                                                                         Brief group medical therapy is not reimbursable on the same day, for the same recipient as brief individual medical
+                                                                                         psychotherapy or behavioral health-related medical services: verbal interactions, medication management.
+
+Individual and family therapy    H2019 HR                    Y           $21.87 per      Medicaid reimburses a maximum of 104 quarter-hour units (26 hours) of individual and family therapy services, per
+                                                                           quarter       recipient, per state fiscal year.
+Group therapy                    H2019 HQ                                                There is a maximum daily limit of four quarter-hour units (1 hour).
+                                                                          $6.73 per      Medicaid reimburses a maximum of 156 quarter-hour units (39 hours) of group therapy services, per recipient, per
+                                                                        quarter hour     state fiscal year.
+
+59G-4.370: Behavioral Intervention Services Coverage Policy
+
+Therapeutic behavioral on-site   H2019 HO                                $19.09 per      Medicaid reimburses therapeutic behavioral on-site therapy services a maximum combined limit of a total of 36 15-
+services, therapy                                                       quarter hour     minute units per month.
+                                                                         $10.09 per      Medicaid reimburses therapeutic behavioral on-site behavior management and therapeutic behavioral on-site
+Therapeutic behavioral on-site   H2019 HN                               quarter hour     therapy services for a maximum combined total of 36 15-minute units per month.
+services, behavior management
+
+Therapeutic behavioral                                                    $4.04 per Medicaid reimburses therapeutic behavioral on-site therapeutic support services for a maximum of 128 quarter-hour
+                                                  H2019 HM              quarter hour units per month (32 hours), per recipient.
+
+on-site services, therapeutic support
+
+Behavioral health day services,  H2012                                                       Medicaid reimburses a maximum of 190-hour units per recipient, per state fiscal year.
+mental health                                                           $12.61 per hour Medicaid will not reimburse for behavioral health day services the same day as psychosocial rehabilitation services.
+
+Behavioral health day services,  H2012 HF                               $12.61 per hour  Medicaid reimburses a maximum of 190-hour units per recipient, per state fiscal year.
+substance abuse                                                                          Medicaid will not reimburse for behavioral health day services the same day as psychosocial rehabilitation services.
+
+59G-4.127: Florida Assertive Community Treatment (FACT) Services Coverage Policy
+
+Florida Assertive Community      H0040                                  $31.55 per day Medicaid reimburses 1 unit per day for 365 or 366 days per state fiscal year per recipient.
+Treatment
+
+* "Y" indicates service can be delivered via telemedicine in accordance with 59G-1.057.                                                                                             Page 4 of 4
+

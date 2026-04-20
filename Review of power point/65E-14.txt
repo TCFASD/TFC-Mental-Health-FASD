@@ -1,0 +1,1269 @@
+         65E-14 : COMMUNITY SUBSTANCE ABUSE AND MENTAL HEALTH SERVICES -
+FINANCIAL RULES - Florida Administrative Rules, Law, Code, Register - FAC, FAR, eRulemaking
+
+     65E-14.021 Schedule of Covered Services.
+This rule provides guidelines and requirements applicable to service providers under direct contract with the Department or service
+providers under subcontracts with a Managing Entity.
+
+     (1) Unless specifically authorized otherwise in advance by the Department, service providers shall only use the following
+Substance Abuse and Mental Health (SAMH) Covered Services to report contracted or subcontracted substance abuse and mental
+health services.
+
+     (a) Aftercare,
+     (b) Assessment,
+     (c) Care Coordination,
+     (d) Case Management,
+     (e) Community Action Treatment (CAT),
+     (f) Comprehensive Community Service Team,
+     (g) Crisis Stabilization,
+     (h) Crisis Support/Emergency,
+     (i) Day Care,
+     (j) Day Treatment,
+     (k) Drop-In/Self Help Centers,
+     (l) Florida Assertive Community Treatment (FACT) Team,
+     (m) HIV Early Intervention Services,
+     (n) Incidental Expenses,
+     (o) Information and Referral,
+     (p) In-Home and Onsite,
+     (q) Inpatient,
+     (r) Intensive Case Management,
+     (s) Intervention,
+     (t) Medical Services,
+     (u) Medication-Assisted Treatment,
+     (v) Mental Health Clubhouse Services,
+     (w) Outpatient,
+     (x) Outreach,
+     (y) Prevention ­ Indicated,
+     (z) Prevention ­ Selective,
+     (aa) Prevention ­ Universal Direct,
+     (bb) Prevention ­ Universal Indirect,
+     (cc) Recovery Support,
+     (dd) Residential Level I,
+     (ee) Residential Level II,
+     (ff) Residential Level III,
+     (gg) Residential Level IV,
+     (hh) Respite Services,
+     (ii) Room and Board with Supervision Level I,
+     (jj) Room and Board with Supervision Level II,
+     (kk) Room and Board with Supervision Level III,
+     (ll) Room and Board with Supervision Level IV,
+     (mm) Short-term Residential Treatment,
+
+                                                                  1
+     (nn) Substance Abuse Inpatient Detoxification,
+     (oo) Substance Abuse Outpatient Detoxification,
+     (pp) Supported Employment,
+     (qq) Supportive Housing/Living,
+     (rr) Treatment Accountability for Safer Communities (TASC), and
+     (ss) Any other SAMH Covered Services the department may establish pursuant to subsection (2) of this rule, to ensure adequate
+provision of service.
+     (2) The department may establish additional SAMH Covered Services for statewide use as necessary to ensure the adequate
+provision of services to individuals. At a minimum, the department shall notify affected parties of the department's intended action
+and provide an opportunity to comment at least 30 days prior to the establishment of a temporary SAMH Covered Service.
+     (3) Measurement Standards for Covered Services.
+     (a) Measurement standards document the amount of service delivery, regardless of the method of payment for the service provided
+pursuant to contracts with SAMH-Funded Entities. The following common measurement definitions shall apply to each SAMH
+Covered Service as specified in subsection (4) of this rule:
+     1. Direct Staff Hour.
+     a. This measure equals the actual time a staff person:
+     (I) Is available at the work site to perform assigned tasks, or
+     (II) Spends in face-to-face or direct telephone contact with an individual receiving services or a collateral contact where the
+contact is documented in the individual's service record, or
+     (III) Spends on activities directly associated with an individual receiving services, including case staffings and travel time if the
+travel is integral to a Covered Service allowable under this rule.
+     b. This measure may also include telephone contact with parents or teachers and actual time spent in a courtroom or juvenile
+detention facility on behalf of a child or adult.
+     c. Covered Services that are measured by this standard shall be reported on the basis of utilization, except for the following SAMH
+Covered Services, which shall be paid on the basis of availability.
+     (I) Paragraph (4)(h), Crisis Support/Emergency,
+     (II) Paragraph (4)(o), Information and Referral; and,
+     (III) Paragraph (4)(oo), Substance Abuse Outpatient Detoxification.
+     2. Non-Direct Staff Hour.
+     a. This measure indicates the time spent on activities that cannot be directly associated with an individual or group of individuals
+receiving services, but are integral to the program and described in the program description. This includes preparation for services and
+travel time, if travel is integral to a Covered Service allowable under this rule.
+     b. Covered Services that are measured by this standard shall be reported on the basis of utilization, except paragraph (4)(i), Drop-
+in/Self Help Centers, which shall be reported on the basis of availability.
+     3. Day.
+     a. This measure is determined by one of the following:
+     (I) The service provider's capacity to provide an actual bed for a period of twenty-four hours to individuals eligible for SAMH-
+funded services, or
+     (II) A day in which an individual receiving services is physically present at the midnight census, including the day the individual
+is admitted and excluding the day the individual is discharged.
+     b. Covered Services that are measured by this standard shall be reported on the basis of utilization, except for the following:
+     (I) Paragraph (4)(g), Crisis Stabilization,
+     (II) Paragraph (4)(mm), Short-term Residential Treatment; and,
+     (III) Paragraph (4)(nn), Substance Abuse Inpatient Detoxification.
+     4. Dosage.
+     a. This measure equals one dose of clinically prescribed medication received by an individual participating in programs under the
+Medication-Assisted Treatment Covered Service.
+     b. Dosage shall be reported on the basis of utilization.
+
+                                                                  2
+     (b) Covered Services reported on the basis of utilization require the service to be provided to or on behalf of an eligible individual,
+or by the commitment of actual direct or non-direct staff hours.
+
+     (c) Covered Services reported on the basis of availability require the service to be available for use, regardless of whether the
+service is actually used by an individual. Availability shall not include staff time spent serving a Medicaid eligible individual for a
+Medicaid eligible service, or staff time spent in another program or Covered Service other than the specific availability-based service
+in which they are listed on the duty roster.
+
+     (d) Definition of Hour.
+     1. Hourly units of measure are based upon the actual time spent providing services to or on behalf of an individual or individuals,
+rounded to the nearest fifteen-minute interval. The cumulative, rounded number of minutes shall be divided by sixty to derive the
+number of hourly units.
+     2. When intermittent services are provided to or on behalf of a specific individual during a single calendar day, the actual
+cumulative time spent providing the service during that day shall be rounded to the nearest fifteen-minute interval.
+     3. For the Case Management Covered Service defined in paragraph (4)(d) of this rule, if the time interval required by Medicaid
+is different than described above, a service provider may use the Medicaid time interval instead.
+     (e) Covered Services measured in terms of hours or days:
+     1. Shall not include the time direct service delivery staff are:
+     a. Absent from the work place, or
+     b. Attending training or orientation, unless the training or orientation is specifically required in contracts or subcontracts.
+     2. Shall include time direct service delivery staff spend administering individual functional assessments and individual satisfaction
+surveys.
+     (4) The descriptions, applicable programs, measurements standards, and data elements for SAMH Covered Services are as
+follows:
+     (a) Aftercare.
+     1. Description ­ Aftercare activities occur after a treatment level of care is completed and include activities such as supportive
+counseling, life skills training, and relapse prevention for individuals with mental illness or substance use disorders to assist in their
+ongoing recovery. Aftercare services help individuals, families, and pro-social support systems reinforce a healthy living environment.
+     2. Programs ­ Community Mental Health and Community Substance Abuse.
+     3. Measurement Standard ­ Direct Staff Hour, as defined in sub-sub-subparagraph (3)(a)1.a.(III) of this rule.
+     4. Data Elements:
+     a. Service Documentation ­ Activity Log:
+     (I) Covered Service,
+     (II) Staff name and identification number,
+     (III) Recipient name and identification number,
+     (IV) Service date,
+     (V) Duration,
+     (VI) Service (specify),
+     (VII) Group Indicator; and,
+     (VIII) Program.
+     b. Audit Documentation ­ Recipient Service Chart:
+     (I) Recipient name and identification number,
+     (II) Staff name and identification number,
+     (III) Service date,
+     (IV) Duration; and,
+     (V) Service (specify).
+     (b) Assessment.
+     1. Description ­ This Covered Service includes the systematic collection and integrated review of individual-specific data, such
+as examinations and evaluations. This data is gathered, analyzed, monitored and documented to develop the person's individualized
+plan of care and to monitor recovery. Assessment specifically includes efforts to identify the person's key medical and psychological
+
+                                                                  3
+needs, competency to consent to treatment, history of mental illness or substance use and indicators of co-occurring conditions, as
+well as clinically significant neurological deficits, traumatic brain injury, organicity, physical disability, developmental disability,
+need for assistive devices, physical or sexual abuse, and trauma.
+
+     2. Programs ­ Community Mental Health and Community Substance Abuse.
+     3. Measurement Standard ­ Direct Staff Hour, as defined in sub-sub-subparagraph (3)(a)1.a.(II) of this rule.
+     4. Data Elements:
+     a. Service Documentation ­ Service Ticket:
+     (I) Recipient name and identification number,
+     (II) Staff name and identification number,
+     (III) Service date,
+     (IV) Duration,
+     (V) Covered Service,
+     (VI) Service (specify); and,
+     (VII) Program.
+     b. Audit Documentation ­ Recipient Service Chart:
+     (I) Recipient name and identification number,
+     (II) Staff name and identification number,
+     (III) Service date,
+     (IV) Duration; and,
+     (V) Service (specify).
+     (c) Care Coordination.
+     1. Description ­ Care Coordination is a time-limited service that assists individuals with behavioral health conditions who are not
+effectively engaged with case management or other behavioral health services and supports for a successful transition to appropriate
+levels of care. Once engagement in the necessary community-based services is verified, care coordination services are terminated.
+     2. Programs ­ Community Mental Health and Community Substance Abuse.
+     3. Measurement Standard ­ Direct Staff Hour, as defined in sub-sub-subparagraph (3)(a)1. of this rule.
+     4. Data Elements:
+     a. Service Documentation ­ Activity Log:
+     (I) Covered Service,
+     (II) Staff name and identification number,
+     (III) Recipient name and identification number,
+     (IV) Service date,
+     (V) Duration,
+     (VI) Service (specify), and
+     (VII) Program.
+     b. Audit Documentation ­ Recipient Service Chart:
+     (I) Recipient name and identification number,
+     (II) Staff name and identification number,
+     (III) Service date,
+     (IV) Duration, and
+     (V) Service (specify).
+     (d) Case Management.
+     1. Description ­ Case management services consist of activities that identify the recipient's needs, plan services, link the service
+system with the person, coordinate the various system components, monitor service delivery, and evaluate the effect of the services
+received. This covered service shall include clinical supervision provided to a service provider's personnel by a professional qualified
+by degree, licensure, certification, or specialized training in the implementation of this service.
+     2. Programs ­ Community Mental Health and Community Substance Abuse.
+     3. Measurement Standard ­ Direct Staff Hour, as defined in sub-sub-subparagraph (3)(a)1.a.(III) of this rule.
+
+                                                                  4
+     4. Data Elements:
+     a. Service Documentation ­ Activity Log:
+     (I) Covered Service,
+     (II) Staff name and identification number,
+     (III) Recipient name and identification number,
+     (IV) Service date,
+     (V) Duration,
+     (VI) Service (specify); and,
+     (VII) Program.
+     b. Audit Documentation ­ Recipient Service Chart:
+     (I) Recipient name and identification number,
+     (II) Staff name and identification number,
+     (III) Service date,
+     (IV) Duration; and,
+     (V) Service (specify).
+     (e) Community Action Treatment (CAT).
+     1. Description ­ This Covered Service, pursuant to section 394.495, F.S., provides community-based services to children ages 11
+to 21 with a mental health disorder (including those with a co-occurring substance use diagnosis) who meet certain accompanying
+eligibility criteria identified by the statute. Children younger than 11 may be served if they display two or more of the aforementioned
+eligibility criteria. The team is available on nights, weekends, and holidays. Allowable services may include one or any combination
+of the following activities:
+     a. Aftercare,
+     b. Assessment,
+     c. Care Coordination,
+     d. Case Management,
+     e. Crisis Support / Emergency,
+     f. Information and Referral,
+     g. In-Home and On-Site Services,
+     h. Intensive Case Management,
+     i. Intervention ­ Individual and Group,
+     j. Medical Services,
+     k. Outpatient ­ Individual and Group,
+     l. Outreach,
+     m. Recovery Support ­ Individual and Group,
+     n. Supported Employment, and
+     o. Supported Housing / Living,
+     2. Programs ­ Community Mental Health.
+     3. Measurement Standard: Direct Staff Hour, as defined in sub-sub-subparagraph (3)(a)1.a.(III), of this rule.
+     4. Data Elements:
+     a. Service Documentation ­ Activity Log:
+     (I) Staff name and identification number,
+     (II) Recipient name and identification number,
+     (III) Service date,
+     (IV) Duration,
+     (V) Service (specify), and
+     (VI) Program.
+     b. Audit Documentation ­ Recipient Service Chart:
+     (I) Recipient name and identification number,
+
+                                                                  5
+     (II) Staff name and identification number,
+     (III) Service date,
+     (IV) Duration, and
+     (V) Service (specify).
+     (f) Comprehensive Community Service Team.
+     1. Description ­ This Covered Service is a bundled service package designed to provide short-term assistance and guide
+individuals to rebuild skills in identified roles in their environment through the engagement of natural supports, treatment services,
+and assistance of multiple agencies when indicated. Services provided under Comprehensive Community Service Teams may not be
+simultaneously reported to another Covered Service. Allowable bundled activities include the following Covered Services as defined
+in subsection (4) of this rule:
+     a. Aftercare,
+     b. Assessment,
+     c. Care Coordination,
+     d. Case Management,
+     e. Information and Referral,
+     f. In-home/Onsite,
+     g. Intensive Case Management,
+     h. Intervention,
+     i. Outpatient,
+     j. Outreach,
+     k. Prevention ­ Indicated,
+     l. Recovery Support,
+     m. Supported Employment; and,
+     n. Supported Housing.
+     2. Programs ­ Community Mental Health and Community Substance Abuse.
+     3. Measurement Standard ­ Direct Staff Hour, as defined in sub-sub-subparagraph (3)(a)1.a.(III) of this rule.
+     4. Data Elements:
+     a. Service Documentation ­ Service Ticket:
+     (I) Staff name and identification number,
+     (II) Service date,
+     (III) Duration,
+     (IV) Covered Service provided; and,
+     (V) Program.
+     b. Audit Documentation ­ Recipient Service Chart:
+     (I) Staff name and identification number,
+     (II) Service date,
+     (III) Duration; and,
+     (IV) Covered Service provided.
+     (g) Crisis Stabilization.
+     1. Description ­ These acute care services, offered twenty-four hours per day, seven days per week, provide brief, intensive mental
+health residential treatment services. These services meet the needs of individuals who are experiencing an acute crisis and who, in
+the absence of a suitable alternative, would require hospitalization.
+     2. Programs ­ Community Mental Health.
+     3. Measurement Standard ­Day, as defined in sub-sub-subparagraph (3)(a)3.a.(I) of this rule.
+     4. Data Elements:
+     a. Service Documentation ­ Number of licensed bed-days.
+     b. Audit Documentation ­ License:
+     (I) Beginning date,
+
+                                                                  6
+     (II) Ending date; and,
+     (III) Number of beds.
+     (h) Crisis Support/Emergency.
+     1. Description ­ This non-residential care is generally available twenty-four hours per day, seven days per week, or some other
+specific time period, to intervene in a crisis or provide emergency care. Examples include: crisis/emergency screening, mobile
+response, telephone or telehealth crisis support, and emergency walk-in.
+     2. Programs ­ Community Mental Health and Community Substance Abuse.
+     3. Measurement Standard ­ Direct Staff Hour, as defined in sub-sub-subparagraph (3)(a)1.a.(I) of this rule.
+     4. Data Elements:
+     a. Service Documentation ­ Duty Roster:
+     (I) Staff name and identification number,
+     (II) Date,
+     (III) Hours on Duty ­ Beginning and ending time,
+     (IV) Covered Service,
+     (V) Program; and,
+     (VI) Signature of Clinical Director.
+     b. Audit Documentation ­ Time Sheet:
+     (I) Staff name and identification number,
+     (II) Date,
+     (III) Hours worked ­ Beginning and ending time,
+     (IV) Program,
+     (V) Covered Service; and,
+     (VI) Signature of Supervisor.
+     (i) Day Care.
+     1. Description ­ Day care services, in a non-residential group setting, provide for the care of children of persons who are
+participating in mental health or substance use treatment services. In a residential setting, day care services provide for the residential
+and care-related costs of a child living with a parent receiving residential services. This covered service must be provided in
+conjunction with another Covered Service provided to a person 18 years of age or older.
+     2. Programs ­ Community Mental Health and Community Substance Abuse.
+     3. Measurement Standard ­Direct Staff Hour, as defined in sub-sub-subparagraph (3)(a)1.a.(II) of this rule, reimbursing a
+maximum of four hours in a calendar day.
+     4. Data Elements:
+     a. Service Documentation ­ Census Log:
+     (I) Covered Service,
+     (II) Program,
+     (III) Recipient (Parent) name and identification number and child's date of birth; and,
+     (IV) Service date.
+     b. Audit Documentation ­ Recipient Service Chart:
+     (I) Covered Service,
+     (II) Recipient (Parent) name and identification number and child's date of birth; and,
+     (III) Service date.
+     (j) Day Treatment.
+     1. Description ­ Day Treatment services provide a structured schedule of non-residential interventions to assist individuals to
+attain skills and behaviors needed to function successfully in living, learning, work, and social environments. Activities emphasize
+rehabilitation, treatment, activities of daily living, and education services, using multidisciplinary teams to provide integrated programs
+of academic, therapeutic, and family services. For mental health programs, day treatment services must be provided for four or more
+consecutive hours per day. Substance abuse programs must follow the standards set forth in Rules 65D-30.0081 and 65D-30.009,
+F.A.C.
+
+                                                                  7
+     2. Programs ­ Community Mental Health and Community Substance Abuse.
+     3. Measurement Standard ­Direct Staff Hour, as defined in sub-sub-subparagraph (3)(a)1.a.(II) of this rule, reimbursing a
+maximum of four hours in a calendar day.
+     4. Data Elements:
+     a. Service Documentation ­ Census Log:
+     (I) Covered Service,
+     (II) Program,
+     (III) Recipient name and identification number; and,
+     (IV)Service date.
+     b. Audit Documentation ­ Recipient Service Chart:
+     (I) Covered Service,
+     (II) Recipient name and identification number; and,
+     (III) Service date.
+     (k) Drop-in/Self-Help Centers.
+     1. Description ­ These community centers, such as drop-in centers or recovery community organizations, provide a range of
+opportunities for persons with or a history of mental health and substance use conditions to independently develop, operate, and
+participate in social, recreational, self-help, harm reduction, and networking activities. This covered service may not be provided to a
+person less than 18 years old.
+     2. Programs ­ Community Mental Health and Community Substance Abuse.
+     3. Measurement Standard ­ Non-direct staff hour as defined in subparagraph (3)(a)2. of this rule.
+     4. Data Elements:
+     a. Service Documentation:
+     (I) Number of Days,
+     (II) Time Sheet; and,
+     (III) Staff name and identification number.
+     b. Audit Documentation:
+     (I) Time Sheet; and,
+     (II) Staff name and identification number.
+     (l) Florida Assertive Community Treatment (FACT) Team.
+     1. Description ­ A FACT team is comprised of slots for participants with a serious mental illness. For a provider to identify
+themselves as a FACT team, the provider must demonstrate adherence to assertive community treatment principles. FACT Teams
+provide non-residential services that are available twenty-four hours per day, seven days per week. Rehabilitative, support and
+therapeutic services are provided in the community, by a multidisciplinary team. This covered service may not be provided to a person
+less than 18 years old.
+     2. Programs ­ Community Mental Health and Community Substance Abuse.
+     3. Measurement Standard ­ Number of Enrolled Participants, notwithstanding the requirements of paragraph (3)(a) of this rule.
+     4. Data Elements:
+     a. Enrollment Documentation:
+     (I) Date and number of enrolled participants,
+     (II) Services provided for participant,
+     (III) Program; and,
+     (IV) Staff identification and signature.
+     b. Audit Documentation ­ Time Sheet:
+     (I) Staff name and identification number,
+     (II) Date,
+     (III) Hours worked ­ Beginning and ending time,
+     (IV) Program,
+     (V) Covered Service; and,
+
+                                                                  8
+     (VI) Signature of Supervisor.
+     5. Reimbursement for this Covered Service shall be based upon the total value of a service provider's FACT team contract divided
+by the number of contracted slots establishing the annual cost per participant. The annual cost per participant may be divided by 365
+days per year to establish the daily enrollment cost.
+     (m) HIV Early Intervention Services.
+     1. Description - This Covered Service is a bundled service package to provide Human Immunodeficiency Virus (HIV) Early
+Intervention Services in accordance with 65D-30.004, F.A.C. Allowable HIV Early Intervention Services may include one or any
+combination of the following activities:
+     a. Pretest counseling,
+     b. Posttest counseling,
+     c. Tests to confirm the presence of HIV,
+     d. Tests to diagnose the extent of the deficiency in the immune system,
+     e. Tests to provide information on appropriate therapeutic measures for preventing and treating the deterioration of the immune
+system and conditions arising from HIV, including tests for hepatitis C (when provided to individuals with HIV),
+     f. Therapeutic measures for preventing and treating the deterioration of the immune system and conditions arising from HIV, and
+     g. Linkages to diagnostic tests, therapeutic measures, and HIV specific support services.
+     2. Programs ­ Community Substance Abuse
+     3. Measurement Standard: Direct Staff Hour, as defined in sub-sub-subparagraph (3)(a)1., of this rule.
+     4. Data Elements:
+     a. Service Documentation ­ Activity Log:
+     (I) Staff name and identification number,
+     (II) Recipient name and identification number,
+     (III) Service date,
+     (IV) Duration,
+     (V) Service (specify), and
+     (VI) Program.
+     b. Audit Documentation ­ Recipient Service Chart:
+     (I) Recipient name and identification number,
+     (II) Staff name and identification number,
+     (III) Service date,
+     (IV) Duration, and
+     (V) Service (specify).
+     (n) Incidental Expenses.
+     1. Description ­ This Covered Service reports temporary expenses incurred to facilitate continuing treatment and community
+stabilization when no other resources are available. All incidental expenses shall be authorized by the Managing Entity. Allowable
+purchases under this Covered Service includes: transportation, childcare, housing assistance clothing, educational services, vocational
+services, medical care, housing subsidies, pharmaceuticals and other incidentals as approved by the Department or Managing Entity.
+     2. Programs ­ Community Mental Health and Community Substance Abuse.
+     3. Measurement Standard ­ Cumulative allowable expenses reported in actual dollars expended, notwithstanding the requirements
+of paragraph (3)(a) of this rule.
+     4. Data Elements:
+     a. Service Documentation ­ Census Log:
+     (I) Covered Service,
+     (II) Program,
+     (III) Recipient name and identification,
+     (IV) Receipt for incurred incidental costs,
+     (V) Authorization from the department or appropriate managing entity; and,
+     (VI) Invoice date.
+
+                                                                  9
+     b. Audit Documentation ­ Recipient Service Chart:
+     (I) Covered Service,
+     (II) Recipient name and identification number,
+     (III) Invoice date,
+     (IV) Receipt for incurred incidental costs,
+     (V) Associated plan of care goal, and
+     (VI) Authorization documentation.
+     (o) Information and Referral.
+     1. Description ­ These services maintain information about resources in the community, link people who need assistance with
+appropriate service providers, and provide information about agencies and organizations that offer services. The information and
+referral process is comprised of: being readily available for contact by the individual, assisting the individual with determining which
+resources are needed, providing referral to appropriate resources, and following up to ensure the individual's needs have been met,
+where appropriate.
+     2. Programs ­ Community Mental Health and Community Substance Abuse.
+     3. Measurement Standard ­ Direct Staff Hour, as defined in sub-sub-subparagraph (3)(a)1.a.(I) of this rule.
+     4. Data Elements:
+     a. Service Documentation ­ Duty Roster:
+     (I) Staff name and identification number,
+     (II) Date,
+     (III) Hours on Duty ­ Beginning and ending time,
+     (IV) Covered Service,
+     (V) Program; and,
+     (VI) Signature of Clinical Director.
+     b. Audit Documentation ­ Time Sheet:
+     (I) Staff name and identification number,
+     (II) Date,
+     (III) Hours worked ­ Beginning and ending time,
+     (IV) Program,
+     (V) Covered Service; and,
+     (VI) Signature of Supervisor.
+     (p) In-Home and On-Site.
+     1. Description ­ Therapeutic services and supports, including early childhood mental health consultation, are rendered for
+individuals and their families in non-provider settings such as nursing homes, assisted living facilities, residences, schools, detention
+centers, commitment settings, foster homes, daycare centers, and other community settings.
+     2. Programs ­ Community Mental Health and Community Substance Abuse.
+     3. Measurement Standard ­ Direct Staff Hour, as defined in sub-sub-subparagraph (3)(a)1.a.(III) of this rule.
+     4. Data Elements:
+     a. Service Documentation ­ Activity Log:
+     (I) Covered Service,
+     (II) Staff name and identification number,
+     (III) Recipient name and identification number,
+     (IV) Service date,
+     (V) Duration,
+     (VI) Service (specify); and,
+     (VII) Program.
+     b. Audit Documentation ­ Recipient Service Chart:
+     (I) Recipient name and identification number,
+     (II) Staff name and identification number,
+
+                                                                 10
+     (III) Service date,
+     (IV) Duration; and,
+     (V) Service (specify).
+     (q) Inpatient.
+     1. Description ­ Inpatient services provided in psychiatric units within hospitals licensed as general hospitals and psychiatric
+hospitals under Chapter 395, F.S. They provide intensive treatment and stabilization to persons exhibiting behaviors that may result
+in harm to self or others due to mental illness or co-occurring mental illness and substance use disorder.
+     2. Programs ­ Community Mental Health.
+     3. Measurement Standard ­ Day, as defined in sub-sub-subparagraph (3)(a)3.a.(II) of this rule.
+     4. Data Elements:
+     a. Service Documentation ­ Census Log:
+     (I) Name of hospital,
+     (II) Recipient name and identification number,
+     (III) Clinical diagnosis,
+     (IV) Service date; and,
+     (V) Program.
+     b. Audit Documentation ­ Recipient Service Chart:
+     (I) Name of hospital,
+     (II) Recipient name and identification number,
+     (III) Clinical diagnosis,
+     (IV) Service date.
+     (r) Intensive Case Management.
+     1. Description ­ These services are typically offered to persons who are being discharged from an acute care setting, and need
+more professional care, and have contingency needs to remain in a less restrictive setting. The services include the same components
+as case management as described in subparagraph (4)(d)1., of this rule, but are provided at a higher intensity and frequency, and with
+lower caseloads per case manager sufficient to meet the needs of the individuals in treatment.
+     2. Programs ­ Community Mental Health and Community Substance Abuse.
+     3. Measurement Standard ­ Direct Staff Hour, as defined in sub-sub-subparagraph (3)(a)1.a.(III) of this rule.
+     4. Data Elements:
+     a. Service Documentation ­ Activity Log:
+     (I) Covered Service,
+     (II) Staff name and identification number,
+     (III) Recipient name and identification number,
+     (IV) Service date,
+     (V) Duration,
+     (VI) Service (specify); and,
+     (VII) Program.
+     b. Audit Documentation ­ Recipient Service Chart:
+     (I) Recipient name and identification number,
+     (II) Staff name and identification number,
+     (III) Service date,
+     (IV) Duration; and,
+     (V) Service (specify).
+     (s) Intervention.
+     1. Description ­ Intervention services focus on reducing risk factors generally associated with the progression of substance misuse
+and mental health problems. Intervention is accomplished through early identification of persons at risk, performing basic individual
+assessments, and providing supportive services, which emphasize short-term counseling and referral. These services are targeted
+toward individuals and families. This covered service shall include clinical supervision provided to a service provider's personnel by
+
+                                                                 11
+a professional qualified by degree, licensure, certification, or specialized training in the implementation of this service.
+     2. Programs ­ Community Mental Health and Community Substance Abuse.
+     3. Measurement Standard ­Direct Staff Hour, as defined in sub-sub-subparagraph (3)(a)1.a.(III) of this rule.
+     4. Data Elements:
+     a. Service Documentation ­ Activity Log:
+     (I) Covered Service,
+     (II) Staff name and identification number,
+     (III) Recipient name and identification number,
+     (IV) Service date,
+     (V) Duration,
+     (VI) Service (specify),
+     (VII) Group Indicator; and,
+     (VIII) Program.
+     b. Audit Documentation ­ Recipient Service Chart:
+     (I) Recipient name and identification number,
+     (II) Staff name and identification number,
+     (III) Service date,
+     (IV) Duration; and,
+     (V) Service (specify).
+     (t) Medical Services.
+     1. Description ­ Medical services provide primary psychiatric care, therapy, and medication administration provided by an
+
+individual licensed under the state of Florida to provide the specific service rendered. Medical services improve the functioning or
+prevent further deterioration of persons with mental health or substance abuse problems, including mental status assessment. Medical
+services are usually provided on a regular schedule, with arrangements for non-scheduled visits during times of increased stress or
+crisis.
+
+     2. Programs ­ Community Mental Health and Community Substance Abuse.
+     3. Measurement Standard ­Direct Staff Hour, as defined in sub-sub-subparagraph (3)(a)1.a.(I) of this rule.
+     4. Data Elements:
+     a. Service Documentation ­ Service Ticket:
+     (I) Recipient name and identification number or, if non-recipient, participant's name, address, and relation to recipient,
+     (II) Staff name and identification number,
+     (III) Service date,
+     (IV) Duration,
+     (V) Clinical diagnosis,
+     (VI) Covered Service,
+     (VII) Service (specify),
+     (VIII) Group Indicator; and,
+     (IX) Program.
+     b. Audit Documentation ­ Recipient Service or Non-Recipient Chart:
+     (I) Recipient name and identification number or if non-recipient, participant's name, address, and relation to recipient,
+     (II) Staff name and identification number,
+     (III) Service date,
+     (IV) Duration; and,
+     (V) Service (specify).
+     (u) Medication-Assisted Treatment.
+     1. Description ­ This Covered Service provides for the delivery of medications for the treatment of substance use disorders which
+are prescribed by a licensed health care professional. Services must be based upon a clinical assessment, and treatment and support
+services must be available for and offered to individuals receiving medications to support their ongoing recovery.
+
+                                                                 12
+     2. Programs ­ Community Substance Abuse.
+     3. Measurement Standard ­ Dosage, as defined in sub-subparagraph (3)(a)4.a. of this rule.
+     4. Data Elements:
+     a. Service Documentation ­ Medication Administration Record:
+     (I) Recipient name and identification number,
+     (II) Dosage date,
+     (III) Prescribed dosage,
+     (IV) Clinical diagnosis,
+     (V) Covered Service,
+     (VI) Service (specify); and,
+     (VII) Program.
+     b. Audit Documentation ­ Recipient Service Chart:
+     (I) Individual name and identification number,
+     (II) Dosage date,
+     (III) Dosage received; and,
+     (IV) Covered Service.
+     (v) Mental Health Clubhouse Services.
+     1. Description ­ Structured, evidence-based services both strengthen and/or regain the individual's interpersonal skills, provide
+psycho-social support, develop the environmental supports necessary to help the individual thrive in the community and meet
+employment and other life goals, and promote recovery from mental illness. Services are typically provided in a community-based
+program with trained staff and members working as teams to address the individual's life goals and to perform the tasks necessary for
+the operations of the program. The emphasis is on a holistic approach focusing on the individual's strengths and abilities while
+challenging the individual to pursue those life goals. This service would include, but not be limited to, clubhouses certified under the
+International Center for Clubhouse Development. This covered service may not be provided to a person less than 18 years old.
+     2. Programs ­ Community Mental Health.
+     3. Measurement Standard ­Direct Staff Hour, as defined in sub-sub-subparagraph (3)(a)1.a.(III) of this rule.
+     4. Data Elements:
+     a. Service Documentation ­ Duty Roster:
+     (I) Staff name and identification number,
+     (II) Date,
+     (III) Hours on Duty ­ Beginning and ending time,
+     (IV) Covered Service,
+     (V) Program; and,
+     (VI) Signature of Program Manager.
+     b. Audit Documentation.
+     (I) Staff name and identification number,
+     (II) Date,
+     (III) Hours worked ­ Beginning and ending time,
+     (IV) Program,
+     (V) Covered Service,
+     (VI) Clubhouse Schedule,
+     (VII) Daily consumer sign-in sheet with date; and,
+     (VIII) Signature of Program Manager.
+     (w) Outpatient.
+     1. Description ­ Outpatient services provide clinical interventions to improve the functioning or prevent further deterioration of
+persons with mental health and/or substance abuse use disorders. These services are usually provided on a regularly scheduled basis
+by appointment, with arrangements made for non-scheduled visits during times of increased stress or crisis. Outpatient services may
+be provided to an individual or in a group setting. The maximum number of individuals allowed in a group session is 15. This covered
+
+                                                                 13
+service shall include clinical supervision provided to a service provider's personnel by a professional qualified by degree, licensure,
+certification, or specialized training in the implementation of this service.
+
+     2. Programs ­ Community Mental Health and Community Substance Abuse.
+     3. Measurement Standard ­ Direct Staff Hour, as defined in sub-sub-subparagraph (3)(a)1.a.(II) of this rule.
+     4. Data Elements:
+     a. Service Documentation ­ Service Ticket:
+     (I) Recipient name and identification number or, if non-recipient, participant's name, address, and relation to recipient,
+     (II) Staff name and identification number,
+     (III) Service date,
+     (IV) Duration,
+     (V) Covered Service,
+     (VI) Service (specify),
+     (VII) Clinical Diagnosis,
+     (VIII) Group Indicator; and,
+     (IX) Program.
+     b. Audit Documentation ­ Recipient Service or Non-Recipient Chart:
+     (I) Recipient name and identification number or, if non-recipient, participant's name, address, and relation to recipient,
+     (II) Staff name and identification number,
+     (III) Service date,
+     (IV) Clinical diagnosis,
+     (V) Duration; and,
+     (VI) Service (specify).
+     (x) Outreach.
+     1. Description ­ Outreach services are provided through a formal program to both individuals and the community. Community
+services include education, identification, and linkage with high-risk groups. Outreach services for individuals: encourage, educate,
+and engage prospective individuals who show an indication of substance misuse and mental health problems or needs. Individual
+enrollment is not included in Outreach services.
+     2. Programs ­ Community Mental Health and Community Substance Abuse.
+     3. Measurement Standard ­ Non-Direct Staff Hour, as defined in subparagraph (3)(a)2. of this rule.
+     4. Data Elements:
+     a. Service Documentation ­ Time Sheet:
+     (I) Staff name and identification number,
+     (II) Description of activity, including time to plan and prepare,
+     (III) Duration,
+     (IV) Activity date,
+     (V) Program; and,
+     (VI) Covered Service.
+     b. Audit Documentation:
+     (I) Activity list,
+     (II) Duration; and,
+     (III) Supervisor's staff schedule.
+     (y) Prevention  Indicated.
+     1. Description ­ Indicated prevention services are provided to at-risk individuals who are identified as having minimal but
+detectable signs or symptoms foreshadowing mental health or substance use disorders. Target recipients of indicated prevention
+services are at-risk individuals who do not meet clinical criteria for mental health or substance use disorders. Indicated prevention
+services preclude, forestall, or impede the development of mental health or substance use disorders. These services shall address the
+following specific prevention strategies, as defined in rule 65D-30.013, F.A.C.: education, alternative and problem identification and
+referral services.
+
+                                                                 14
+     2. Programs ­ Community Mental Health and Community Substance Abuse.
+     3. Measurement Standard ­ Direct Staff Hour, as defined in sub-sub-subparagraph (3)(a)1.a.(II) of this rule, measured at a
+maximum of eight hours per calendar day.
+     4. Data Elements:
+     a. Service Documentation ­ Time Sheet:
+     (I) Staff name,
+     (II) Staff identifier number,
+     (III) Name of Program,
+     (IV) Activity Name,
+     (V) Activity Description,
+     (VI) Program Group Identifier,
+     (VII) Activity Date,
+     (VIII) Activity duration,
+     (IX) Specific Prevention Strategy provided,
+     (X) Participant name and identification number,
+     (XI) Number of participants served; and,
+     (XII) Staff time, including separate planning, preparation and travel time details.
+     b. Audit documentation:
+     (I) Attendances records with date,
+     (II) Program Material; and,
+     (III) Activity name from the program manual.
+     (z) Prevention ­ Selective.
+     1. Description ­ Selective prevention services are provided to a population subgroup whose risk of developing mental health or
+substance use disorders is higher than average. Target recipients of selective prevention services do not meet clinical criteria for mental
+health or substance use disorders. Selective prevention services preclude, forestall, or impede the development of mental health or
+substance use disorders. These services shall address the following specific prevention strategies, as defined in Rule 65D-30.013,
+F.A.C.: information dissemination, education, alternatives, and problem identification and referral services.
+     2. Programs ­ Community Mental Health and Community Substance Abuse.
+     3. Measurement Standard ­ Non-Direct Staff Hour, as defined in subparagraph (3)(a)2. of this rule.
+     4. Data Elements:
+     a. Service Documentation ­ Time Sheet:
+     (I) Covered Service,
+     (II) No change,
+     (III) Program name and program group identifier,
+     (IV) Description of activity, including time to plan and prepare,
+     (V) Duration,
+     (VI) Activity Date,
+     (VII) Specific Prevention Strategy provided,
+     (VIII) Number served; and,
+     (IX) Staff time, including separate planning, preparation and travel time details.
+     b. Audit Documentation:
+     (I) Attendance records with date,
+     (II) Program Material; and,
+     (III) Activity name from the program manual.
+     (aa) Prevention ­ Universal Direct.
+     1. Description ­ Universal direct prevention services are provided to the general public or a whole population that has not been
+identified on the basis of individual risk. These services preclude, forestall, or impede the development of mental health or substance
+use disorders. Universal direct services directly serve an identifiable group of participants who have not been identified on the basis
+
+                                                                 15
+of individual risk. This includes interventions involving interpersonal and ongoing or repeated contact such as curricula, programs,
+and classes. These services shall address the following specific prevention strategies, as defined in rule 65D-30.013, F.A.C.:
+information dissemination, education, alternatives, or problem identification and referral services.
+
+     2. Programs ­ Community Mental Health and Community Substance Abuse.
+     3. Measurement Standard ­ Non-Direct Staff Hour, as defined in subparagraph (3)(a)2. of this rule.
+     4. Data Elements:
+     a. Service Documentation ­ Time Sheet:
+     (I) Staff name and identification number,
+     (II) Program name and program group identifier,
+     (III) Description of activity, including time to plan and prepare,
+     (IV) Duration,
+     (V) Activity Date,
+     (VI) Specific Prevention Strategy provided,
+     (VII) Number served; and,
+     (VIII) Staff time, including separate planning, preparation and travel time details.
+     b. Audit Documentation:
+     (I) Attendance records with date,
+     (II) Program Material; and,
+     (III) Activity name from the program manual.
+     (bb) Prevention ­ Universal Indirect.
+     1. Description ­ Universal indirect prevention services are provided to the general public or a whole population that has not been
+identified on the basis of individual risk. These services preclude, forestall, or impede the development of mental health or substance
+use disorders. Universal indirect services support population-based programs and environmental strategies such as changing laws and
+policies. These services can include programs and policies implemented by coalitions. These services can also include meetings and
+events related to the design and implementation of components of the strategic prevention framework, including needs assessments,
+logic models, and comprehensive community action plans. These services shall address the following specific prevention strategies,
+as defined in Rule 65D-30.013, F.A.C.: information dissemination, education, community-based processes, and environmental
+strategies.
+     2. Programs ­ Community Mental Health and Community Substance Abuse.
+     3. Measurement Standard ­ Non-Direct Staff Hour, as defined in subparagraph (3)(a)2. of this rule.
+     4. Data Elements:
+     a. Service Documentation ­ Time Sheet:
+     (I) Staff name and identification number,
+     (II) Description of activity, including time to plan and prepare,
+     (III) Duration,
+     (IV) Activity Date,
+     (V) Specific Prevention Strategy provided, as defined in rule 65D-30.013, F.A.C.,
+     (VI) Number of attendees,
+     (VII) Staff time including separate planning, preparation and travel time details; and,
+     (VII) For media campaigns, identify the campaign name, number of buys, days and times, and copies of media content.
+     b. Audit Documentation:
+     (I) Meeting minutes with date,
+     (II) Meetings materials; and,
+     (III) Agenda with date.
+     (cc) Recovery Support.
+     1. Description ­ This Covered Service is comprised of nonclinical activities that assist individuals and families in recovering from
+substance use and mental health conditions. Activities include social support, linkage to and coordination among service providers,
+life skills training, recovery planning, coaching, education on mental illness and substance use disorders, assisting individuals using
+
+                                                                 16
+digital therapeutics approved by the United States Food and Drug Administration, and other supports that facilitate increasing recovery
+capital and wellness contributing to an improved quality of life. Recovery capital is the personal, family, social, community resources
+and natural supports that promote recovery. These activities may be provided prior to, during, and after treatment. These services
+support and coach an adult or child and family to regain or develop skills to live, work and learn successfully in the community. This
+Covered Service shall include supervision provided to a service provider's personnel by a professional qualified by degree, licensure,
+certification, or specialized training in the implementation of this service, or by a certified peer specialist who has at least 2 years of
+fill-time experience as a peer specialist at a licensed behavioral health organization. This Covered Service must be provided by a
+Certified Recovery Peer Specialist pursuant to Section 397.417, F.S. These services exclude twelve-step programs such as Alcoholics
+Anonymous and Narcotics Anonymous.
+
+     2. Programs ­ Community Mental Health and Community Substance Abuse.
+     3. Measurement Standard ­ Direct Staff Hour, as defined in sub-sub-subparagraph (3)(a)1.a.(III) of this rule.
+     4. Data Elements:
+     a. Service Documentation ­ Activity Log:
+     (I) Covered Service,
+     (II) Staff name and identification number,
+     (III) Recipient name and identification number,
+     (IV) Service date,
+     (V) Duration,
+     (VI) Service (specify),
+     (VII) Clinical diagnosis,
+     (VIII) Group Indicator; and,
+     (IX) Program.
+     b. Audit Documentation ­ Recipient Service Chart:
+     (I) Recipient name and identification number,
+     (II) Staff name and identification number,
+     (III) Service date,
+     (IV) Duration; and,
+     (V) Service (specify).
+     (dd) Residential Level I.
+     1. Description ­ These licensed services provide a structured, live-in, non-hospital setting with supervision on a twenty-four hours
+per day, seven days per week basis. For adult mental health, Residential Treatment Facilities Level IA and IB, as defined in Rule 65E-
+4.016, F.A.C., are reported under this Covered Service. For children with serious emotional disturbances, Level 1 services are the most
+intensive and restrictive level of residential therapeutic intervention provided in a non-hospital or non-crisis stabilization setting.
+Residential Treatment Centers, as defined in Rule 65E-9.002, F.A.C. are reported under this Covered Service. For substance use
+treatment, Residential Level 1, as defined in Rule 65D-30.007, F.A.C., provides a range of assessment, treatment, rehabilitation, and
+ancillary services in an intensive therapeutic environment, with an emphasis on treatment, and may include formal school and adult
+education programs.
+     2. Programs ­ Community Mental Health and Community Substance Abuse.
+     3. Measurement Standard ­Day, as defined in sub-sub-subparagraph (3)(a)3.a.(II) of this rule.
+     4. Data Elements:
+     a. Service Documentation ­ Census Log:
+     (I) Covered Service,
+     (II) Program,
+     (III) Clinical diagnosis,
+     (IV) Documentation of medications, if applicable,
+     (V) Recipient name and identification number,
+     (VI) Service date; and,
+     (VII) Residential type.
+
+                                                                 17
+     b. Audit Documentation ­ Recipient Service Chart:
+     (I) Covered Service,
+     (II) Recipient name and identification number; and,
+     (III) Service date.
+     (ee) Residential Level II.
+     1. Description ­ Level II facilities are licensed, structured rehabilitation-oriented group facilities that have twenty-four hours per
+day, seven days per week, supervision. Level II facilities house persons who have significant deficits in independent living skills and
+need extensive support and supervision. For adults with a mental illness, Residential Treatment Facilities Level II, as defined in Rule
+65E-4.016, F.A.C., are reported under this Covered Service. For children with serious emotional disturbances, Level II services provide
+intensive therapeutic behavioral and treatment interventions. Therapeutic Foster Homes are reported under this Covered Service. For
+substance use treatment, Level II, as defined in Rule 65D-30.007, F.A.C., services provide a range of assessment, treatment,
+rehabilitation, and ancillary services in a less intensive therapeutic environment with an emphasis on rehabilitation and may include
+formal school and adult educational programs.
+     2. Programs ­ Community Mental Health and Community Substance Abuse.
+     3. Measurement Standard ­ Day, as defined in sub-sub-subparagraph (3)(a)3.a.(II) of this rule.
+     4. Data Elements:
+     a. Service Documentation ­ Census Log:
+     (I) Covered Service,
+     (II) Program,
+     (III) Clinical diagnosis,
+     (IV) Recipient name and identification number,
+     (V) Service date; and,
+     (VI) Residential type.
+     b. Audit Documentation ­ Recipient Service Chart:
+     (I) Covered Service,
+     (II) Recipient name and identification number; and,
+     (III) Service date.
+     (ff) Residential Level III.
+     1. Description ­ These licensed facilities provide twenty-four hours per day, seven days per week supervised residential
+alternatives to persons who have developed a moderate functional capacity for independent living. For adults with a mental illness,
+Residential Treatment Facilities Level III, as defined in Rule 65E-4.016, F.A.C., are reported under this Covered Service. For substance
+use treatment, Level III, as defined in Rule 65D-30.007, F.A.C., provides a range of assessment, rehabilitation, treatment and ancillary
+services on a long-term, continuing care basis where, depending upon the characteristics of the individuals served, the emphasis is on
+rehabilitation or treatment.
+     2. Programs ­ Community Mental Health and Community Substance Abuse.
+     3. Measurement Standard ­ Day, as defined in sub-sub-subparagraph (3)(a)3.a.(II) of this rule.
+     4. Data Elements:
+     a. Service Documentation ­ Census Log:
+     (I) Cost center,
+     (II) Program,
+     (III) Recipient name and identification number,
+     (IV) Clinical diagnosis,
+     (V) Service date; and,
+     (VI) Residential type.
+     b. Audit Documentation ­ Recipient Service Chart:
+     (I) Cost center,
+     (II) Recipient name and identification number; and,
+     (III) Service date.
+
+                                                                 18
+     (gg) Residential Level IV.
+     1. Description ­ This type of facility may have less than twenty-four hours per day, seven days per week on-premise supervision.
+It is primarily a support service and, as such, treatment services are not included in this Covered Service, although such treatment
+services may be provided as needed through other Covered Services. Level IV includes satellite apartments, satellite group homes,
+and therapeutic foster homes. For adults with a mental illness, Residential Treatment Facilities Level IV, as defined in paragraph 65E-
+4.016, F.A.C., are reported under this Covered Service. For substance use treatment, Level IV, as defined in Rule 65D-30.007, F.A.C.,
+provides a range of assessment, rehabilitation, treatment, and ancillary services on a long-term, continuing care basis where, depending
+upon the characteristics of the individuals served, the emphasis is on rehabilitation or treatment.
+     2. Programs ­ Community Mental Health and Community Substance Abuse.
+     3. Measurement Standard ­ Day, as defined in sub-sub-subparagraph (3)(a)3.a.(II) of this rule.
+     4. Data Elements:
+     a. Service Documentation ­ Census Log:
+     (I) Covered Service,
+     (II) Program,
+     (III) Recipient name and identification number,
+     (IV) Clinical diagnosis,
+     (V) Service date; and,
+     (VI) Residential type.
+     b. Audit Documentation ­ Recipient Service Chart:
+     (I) Cost center,
+     (II) Recipient name and identification number; and,
+     (III) Service date.
+     (hh) Respite Services.
+     1. Description ­ Respite care services support the family or other primary care giver by providing time-limited, temporary relief,
+including overnight stays, from the ongoing responsibility of care giving.
+     2. Programs ­ Community Mental Health and Community Substance Abuse.
+     3. Measurement Standard ­Direct Staff Hour, as defined in sub-sub-subparagraph (3)(a)1.a.(II) of this rule.
+     4. Data Elements:
+     a. Service Documentation ­ Service Ticket:
+     (I) Recipient name and identification number,
+     (II) Staff name and identification number,
+     (III) Service date,
+     (IV) Clinical Diagnosis of client,
+     (V) Duration,
+     (VI) Covered Service,
+     (VII) Respite service type, and,
+     (VIII) Program.
+     b. Audit Documentation ­ Recipient Service Chart:
+     (I) Covered Service,
+     (II) Recipient name and identification number; and,
+     (III) Service date.
+     (ii) Room and Board with Supervision Level I.
+     1. Description ­ This Covered Service solely provides for room and board with supervision on a twenty-four hours per day, seven
+days per week basis. It corresponds to Residential Level I as defined in paragraph (4)(dd) of this rule.
+     2. Programs ­ Community Mental Health and Community Substance Abuse.
+     3. Measurement Standard ­ Day, as defined in sub-sub-subparagraph (3)(a)3.a.(II) of this rule.
+     4. Data Elements:
+     a. Service Documentation ­ Census Log:
+
+                                                                 19
+     (I) Covered Service,
+     (II) Program,
+     (III) Recipient name and identification,
+     (IV) Clinical diagnosis,
+     (V) Service date; and,
+     (VI) Residential type.
+     b. Audit Documentation ­ Recipient Service Chart:
+     (I) Covered Service,
+     (II) Recipient name and identification number; and,
+     (III) Service date.
+     (jj) Room and Board with Supervision Level II.
+     1. Description ­ This Covered Service solely provides for room and board with supervision on a twenty-four hours per day, seven
+days per week basis. It corresponds to Residential Level II as defined in paragraph (4)(ee) of this rule. This Covered Service is not
+applicable for provider facilities which meet the definition of an Institute for Mental Disease as defined by Title 42 CFR, Part 435.1010.
+     2. Programs ­ Community Mental Health and Community Substance Abuse.
+     3. Measurement Standard ­ Day, as defined in sub-sub-subparagraph (3)(a)3.a.(II) of this rule.
+     4. Data Elements:
+     a. Service Documentation ­ Census Log:
+     (I) Covered Service,
+     (II) Program,
+     (III) Recipient name and identification,
+     (IV) Clinical diagnosis,
+     (V) Service date; and,
+     (VI) Residential type.
+     b. Audit Documentation ­ Recipient Service Chart:
+     (I) Covered Service,
+     (II) Recipient name and identification number; and,
+     (III) Service date.
+     (kk) Room and Board with Supervision Level III.
+     1. Description ­ This Covered Service solely provides for room and board with supervision on a twenty-four hours per day, seven
+days per week basis. It corresponds to Residential Level III as defined in paragraph (4)(ff) of this rule.
+     2. Programs ­ Community Mental Health and Community Substance Abuse.
+     3. Measurement Standard ­ Day, as defined in sub-sub-subparagraph (3)(a)3.a.(II) of this rule.
+     4. Data Elements:
+     a. Service Documentation ­ Census Log:
+     (I) Covered Service,
+     (II) Program,
+     (III) Recipient name and identification,
+     (IV) Clinical diagnosis,
+     (V) Service date; and,
+     (VI) Residential type.
+     b. Audit Documentation ­ Recipient Service Chart:
+     (I) Covered Service,
+     (II) Recipient name and identification number; and,
+     (III) Service date.
+     (ll) Room and Board with Supervision Level IV.
+     1. Description ­ This Covered Service solely provides for room and board with supervision on a twenty-four hours per day, seven
+days per week basis. It corresponds to Respite Services as defined in this rule.
+
+                                                                 20
+     2. Programs ­ Community Mental Health and Community Substance Abuse.
+     3. Measurement Standard ­ Day, as defined in sub-sub-subparagraph (3)(a)3.a.(II), of this rule.
+     4. Data Elements:
+     a. Service Documentation ­ Census Log:
+     (I) Covered Service,
+     (II) Program,
+     (III) Recipient name and identification,
+     (IV) Clinical diagnosis,
+     (V) Service date, and
+     (VI) Residential type.
+     b. Audit Documentation ­ Recipient Service Chart:
+     (I) Covered Service,
+     (II) Recipient name and identification number, and
+     (III) Service date.
+     (mm) Short-term Residential Treatment.
+     1. Description ­ These individualized, stabilizing acute and immediately sub-acute care services provide short and intermediate
+duration intensive mental health residential services on a twenty-four hours per day, seven days per week basis, as provided for in
+Rule Chapter 65E-12, F.A.C. These services shall meet the needs of individuals who are experiencing an acute or immediately sub-
+acute crisis and who, in the absence of a suitable alternative, would require hospitalization.
+     2. Programs ­ Community Mental Health.
+     3. Measurement Standard ­Day, as defined in sub-sub-subparagraph (3)(a)3.a.(I) of this rule.
+     4. Data Elements:
+     a. Service Documentation:
+     (I) Number of licensed days; and,
+     (II) Clinical diagnoses of clients.
+     b. Audit Documentation ­ License:
+     (I) Beginning date,
+     (II) Ending date; and,
+     (III) Number of beds.
+     (nn) Substance Abuse Inpatient Detoxification.
+     1. Description ­ These programs utilize medical and clinical procedures to assist adults, and adolescents with substance use
+disorders in their efforts to withdraw from the physical effects of substance use. Residential detoxification and addiction receiving
+facilities provide emergency screening, evaluation, short-term stabilization, and treatment in a medically supervised.
+     2. Programs ­ Community Substance Abuse.
+     3. Measurement Standard ­Day, as defined in sub-sub-subparagraph (3)(a)3.a.(I) of this rule.
+     4. Data Elements:
+     a. Service Documentation:
+     (I) Number of Days; and,
+     (II) Clinical diagnoses and age of clients.
+     b. Audit Documentation ­ License:
+     (I) Beginning date,
+     (II) Age of clients,
+     (III) Documentation of children's Crisis Stabilization Unit license, if applicable,
+     (IV) Ending date; and,
+     (V) Number of beds.
+     (oo) Substance Abuse Outpatient Detoxification.
+     1. Description ­ These services utilize medication or a psychosocial counseling regimen that assists recipients in their efforts to
+withdraw from the physiological and psychological effects of of addictive substances.
+
+                                                                 21
+     2. Programs ­ Community Substance Abuse.
+     3. Measurement Standard ­ Direct Staff Hour, as defined in sub-sub-subparagraph (3)(a)1.a.(I) of this rule, to a maximum of four
+hours in a calendar day.
+     4. Data Elements:
+     a. Service Documentation ­ Census Log:
+     (I) Covered Service,
+     (II) Program,
+     (III) Recipient name and identification,
+     (IV) Clinical diagnosis,
+     (V) Service date; and,
+     (VI) Residential type.
+     b. Audit Documentation ­ Recipient Service Chart:
+     (I) Covered Service,
+     (II) Recipient name and identification number,
+     (III) Service date and duration; and,
+     (IV) Staff name and identification number.
+     (pp) Supported Employment.
+     1. Description ­ Supported employment is an evidence-based approach that assists individuals with gaining competitive integrated
+employment. Supported employment can be a team-based approach and focuses on the full range of community jobs that match the
+job seeker's strengths and preferences. Job supports are individualized and include: job development, job placement, and long-term
+job coaching.
+     2. Programs ­ Community Mental Health and Community Substance Abuse.
+     3. Measurement Standard ­ Direct Staff Hour, as defined in sub-sub-subparagraph (3)(a)1.a.(III) of this rule.
+     4. Data Elements:
+     a. Service Documentation ­ Time Sheet:
+     (I) Covered Service,
+     (II) Staff name and identification number,
+     (III) Recipient name and identification number,
+     (IV) Clinical diagnosis,
+     (V) Service date,
+     (VI) Duration; and,
+     (VII) Service (specify).
+     b. Audit Documentation ­ Recipient Service Chart:
+     (I) Recipient name and identification number,
+     (II) Staff name and identification number,
+     (III) Service date,
+     (IV) Duration; and,
+     (VI) Service (specify).
+     (qq) Supportive Housing/Living.
+     1. Description ­ Supported housing/living is an evidence-based approach to assist persons with substance use and mental illness
+in the selection of permanent housing of their choice. These services also provide the necessary supports to transition into independent
+community living and assure continued successful living in the community. For children with mental health challenges, supported
+living services are a process which assist adolescents in selecting and maintaining housing arrangements and provides services, such
+as training in independent living skills, to assure successful transition to independent living or with roommates in the community. For
+substance use treatment, services provide for the housing and monitoring of recipients who are participating in non-residential services,
+recipients who have completed or are completing substance use treatment, and those recipients who need assistance and support in
+independent or supervised living within a "live-in" environment.
+     2. Programs ­ Community Mental Health and Community Substance Abuse.
+
+                                                                 22
+     3. Measurement Standard ­Direct Staff Hour, as defined in sub-sub-subparagraph (3)(a)1.a.(II) of this rule.
+     4. Data Elements:
+     a. Service Documentation ­ Time Sheet:
+     (I) Covered Service,
+     (II) Staff name and identification number,
+     (III) Recipient name and identification number,
+     (IV) Clinical diagnosis,
+     (V) Service date,
+     (VI) Duration; and,
+     (VII) Service (specify).
+     b. Audit Documentation ­ Recipient Service Chart:
+     (I) Recipient name and identification number,
+     (II) Staff name and identification number,
+     (III) Service date,
+     (IV) Duration; and,
+     (V) Service (specify).
+     (rr) Treatment Accountability for Safer Communities (TASC).
+     1. Description ­ TASC provides for identification, screening, court liaison, referral and tracking of persons in the criminal justice
+system with a history of substance use or addiction.
+     2. Programs ­ Community Substance Abuse.
+     3. Measurement Standard ­Direct Staff Hour, as defined in sub-sub-subparagraph (3)(a)1.a.(II) of this rule.
+     4. Data Elements:
+     a. Service Documentation ­ Time Sheet:
+     (I) Covered Service,
+     (II) Staff name and identification number,
+     (III) Recipient name and identification number,
+     (IV) Service date,
+     (V) Duration,
+     (VI) Clinical Diagnosis,
+     (VII) Service (specify); and,
+     (VIII) Program.
+     b. Audit Documentation ­ Recipient Service Chart:
+     (I) Recipient name and identification number,
+     (II) Staff name and identification number,
+     (III) Service date,
+     (IV) Duration; and,
+     (V) Service (specify).
+     (5) Budgeting and Accounting for Revenues and Expenditures.
+     (a) The SAMH-Funded Entity shall budget and account for revenues and expenditures in the SAMH Covered Services for
+substance abuse and mental health services.
+     (b) The SAMH-Funded Entity shall develop a written plan for allocating direct and indirect costs to Covered Services which
+complies with the cost principles established in Rule 65E-14.017, F.A.C. The entity's chief financial officer or equivalent shall assert
+that the cost plan is reasonable and complies with these cost principles.
+     (c) Revenue shall be accounted for in the Covered Service where it is generated. If it is not possible to determine the Covered
+Service where revenue is generated, the revenue shall be allocated to Covered Services pursuant to a written methodology, maintained
+by the provider, in accordance with Generally Accepted Accounting Principles.
+     (d) Managing Entity Required Fiscal Reports. Each Managing Entity shall submit the CF-MH 1042, July 2014, SAMH Projected
+Operating and Capital Budget, https://www.flrules.org/Gateway/reference.asp?No=Ref-04192, hereby incorporated by reference, to
+
+                                                                 23
+the department.
+     (e) Service Provider Required Fiscal Reports.
+     1. All service providers shall prepare and submit the following proposed fiscal reports to the department or Managing Entity, as
+
+appropriate, for approval prior to the start of the contract or subcontract period:
+     a. CF-MH 1042, July 2014, SAMH Projected Operating and Capital Budget,
+
+https://www.flrules.org/Gateway/reference.asp?No=Ref-04192, as incorporated by paragraph (5)(d) of this rule.
+     b. CF-MH 1043, July 2014, Agency Capacity Report, https://www.flrules.org/Gateway/reference.asp?No=Ref-04193, hereby
+
+incorporated by reference.
+     c. CF-MH 1045, Oct 2015, http://www.flrules.org/Gateway/reference.asp?No=Ref-06538, Program Description, hereby
+
+incorporated by reference.
+     (I) A service provider shall give the department or Managing Entity, as appropriate, notification ten calendar days in advance of
+
+the end of any quarter in which a change in the Program Description occurs, except changes that pertain to primary referral sources,
+average length of client participation, or staffing levels by type of service delivery position.
+
+     (II) A service provider shall give the department or Managing Entity, as appropriate, notification ten calendar days in advance
+prior to any changes to the Program Description pertaining to service capacity, admissions and discharge criteria, or service location.
+
+     2. If a service provider proposes different rate methodologies or rates for each program applicable to a Covered Service the fiscal
+reports in sub-subparagraphs (5)(e)1.a. through c. of this rule, shall display information separately for each program. If the entity
+proposes the same rate methodologies and rate for every program applicable to a Covered Service; these reports may combine the
+information for all programs for that Covered Service.
+
+     3. Once a contract or subcontract has been signed, the service provider shall submit a final version of the reports specified in sub-
+subparagraphs (5)(e)1.a. through c. of this rule.
+
+     (6) Setting Rates.
+     (a) Negotiated Rates.
+     1. The department or Managing Entity and a service provider shall negotiate rate methodologies and rates that are based on
+projected expenditures and number of units of service to be furnished during the contract or subcontract period using the fiscal reports
+required in sub-subparagraphs (5)(e)1.a. through c. of this rule.
+     2. Negotiations shall take into account the rates paid to the service provider for the most recent completed state fiscal year. The
+service provider shall submit a budget narrative explaining any major changes in projected expenditures from the previous year,
+including any proposed changes to the quality or quantity of service to be provided.
+     3. When proposing projected rates on the Agency Capacity Report, the service provider shall use the number of units derived
+using the following minimum productivity and utilization standards:
+     a. Direct Staff Hour ­ Annualized Standard Units: 1,252 hours per FTE; Standard Percentage: 60.19 percent.
+     (I) Exceptions:
+     (II) For paragraph (4)(h), Crisis Support/Emergency, and paragraph (4)(o), Information and Referral ­ Annualized Standard Units:
+2,080 hours per FTE; Standard Percentage: 100 percent.
+     (III) For paragraph (4)(l), FACT ­ Annualized Standard Units: 1,788 hours per FTE; Standard Percentage: 85.96 percent.
+     (IV) For paragraph (4)(v), Mental Health Clubhouse ­ Annualized Standard Units: 1,768 hours per FTE; Standard Percentage: 85
+percent.
+     (V) For paragraph (4)(i), Day care; paragraph (4)(j), Day Treatment; paragraph (4)(y), Prevention ­ Indicated; and paragraph
+(4)(oo), Substance Abuse Outpatient Detoxification ­ Annualized Standard Units to be established through negotiation between the
+department or Managing Entity and the service provider; Standard Percentage: 90 percent.
+     b. Non-Direct Staff Hour ­ Annualized Standard Units: 1,430 hours per FTE; Standard Percentage: 68.75 percent, except for
+paragraph (4)(k). Drop-in/Self help Centers ­ Annualized Standard Units: To be established through negotiation between the
+department or Managing Entity and the service provider; Standard Percentage: 100 percent.
+     c. Day ­ Annualized Standard Units: 365 Days or 366 Days during Leap Year; Standard Percentage: 100 percent, except
+paragraphs (4)(dd) - (gg). Residential I-IV; paragraphs(4)(ii) - (ll), Room and Board with Supervision I-III Annualized Standard Units:
+365 Days; Standard Percentage: 85 percent.
+     d. Dosage ­ Annualized Standard Units: To be established through negotiation between the department or Managing Entity and
+
+                                                                 24
+the service provider; Standard Percentage: 100 percent.
+     4. Nothing herein shall preclude the department or Managing Entity from using audited data on actual expenditures to analyze the
+
+projected rates submitted by a SAMH-Funded Entity.
+     (b) For contracts and subcontracts under $200,000 annually, in lieu of negotiating rates under the provisions of paragraph (6)(a),
+
+above, the Managing Entity may instead set a rate at a level not in excess of a region's average or median rate negotiated under the
+provisions of paragraph (6)(a), for the same year. If no such rate exists for a particular Covered Service, the Managing Entity may set
+a rate not to exceed the SAMH-Funded Entity's established client charges.
+
+     (7) Payment for Service.
+     (a) Eligibility for Payment.
+     1. A service provider shall invoice only for Covered Services that:
+     a. Are within a contractually specified Covered Service; and,
+     b. Have been delivered during the contract period.
+     2. A service provider shall not invoice for any Covered Services paid for under any other contract or from any other source.
+     3. For the purposes of payment, the department shall not be considered a liable third party payer for Medicaid or other publically
+funded benefits assistance program. A Medicaid enrolled Service Provider shall not bill the department for Medicaid covered services
+provided to a Medicaid eligible recipient. A SAMH-Funded Entity shall not bill the department for:
+     a. Any Covered Service that is partially compensated by Medicaid, or another publically funded benefits program source. This
+shall include any difference in a service provider's rate for a Covered Service and any discount or contracted rate payable by another
+source, or
+     b. An individual's share of service cost, when that cost is reimbursable by Medicaid, or another publically funded benefits
+program.
+     4. Nothing in this paragraph shall be construed to prevent payment for Covered Services that are not covered by Medicaid or
+another publically-funded benefits assistance program, or provided to an individual who has depleted other fund sources.
+     (b) Financial Penalties. The department or a Managing Entity shall apply the provisions of rule 65-29.001, F.A.C, if a service
+provider fails to comply with an approved corrective action plan in response to a finding of unacceptable performance,
+nonperformance, or noncompliance to the terms and conditions of a contract or subcontract.
+     (c) The SAMH-Funded Entity's invoice packet shall include a signed attestation by the fiscal agent identified in the entity's
+contract or subcontract that, to the best of the fiscal agent's knowledge at the time of invoice submission, no other payor source was
+available or approved to reimburse the entity for the services submitted for reimbursement.
+     (d) Upon notification of overpayments by the department, an SAMH-Funded Entity shall have thirty days to remit the amount of
+the overpayment to the department.
+     (e) Service Documentation.
+     1. Service providers shall establish procedures for documenting and reporting service events in such a manner as to provide a
+clear and distinguishable audit trail. Such procedures shall ensure that documents and reports are complete and accurate, service
+documentation requirements are met for each Covered Service, and the department is not billed for unallowable units or more units
+than are eligible to be paid.
+     2. If a service provider fails to meet the individual eligibility and service delivery regulatory requirements of a federal or state
+funding source provided by the department and the service provider receives payment from the department for such service, the amount
+of the payment shall be considered an overpayment and be remitted to the department or offset by the service provider providing
+additional contracted substance abuse or mental health services of comparable or more value that comply with the individual eligibility
+and service delivery regulatory requirements.
+
+Rulemaking Authority 394.78(1), (5), 394.9082(3), 397.321(5), 402.73 FS. Law Implemented 394.74(2)(b), (3)(d), (e), (4), 394.77, 394.78(1), (5),
+394.9082, 397.321(10), 402.73(1) FS. History­New 7-1-03, Amended 12-14-03, 1-2-05, 7-27-14, 6-28-15, 4-27-16, 3-5-23.
+
+                                                                 25
+
