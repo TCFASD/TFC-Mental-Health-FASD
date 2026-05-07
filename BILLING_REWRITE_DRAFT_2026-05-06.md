@@ -12,7 +12,7 @@ When you resume tomorrow, ask Claude to:
 2. Apply the approved rewrites to `FASD_Mental_Health_Onboarding_Manual_REVISED.docx` in the order listed below.
 3. Update `questions.docx` if any new questions come up during the edit.
 
-Three items still PENDING external answers from Charmian — they remain flagged in the manual rather than blocking the rewrite.
+Two items still PENDING external answers from Charmian — they remain flagged in the manual rather than blocking the rewrite. (BPS / IDA reassessment cycle was resolved 2026-05-07: anniversary year, not fiscal year.)
 
 ---
 
@@ -40,7 +40,7 @@ Three items still PENDING external answers from Charmian — they remain flagged
 | 3.6 | Who Can Bill What | Moved from §6 Assessments, reframed billing-first |
 | 3.7 | Timeline for Billing | Consolidated from §6 + §7 + new TP-signature best-practice callout |
 | 3.8 | Sarasota County Funds | Promoted from inline bullet; details PENDING Charmian |
-| 3.9 | Insurance Requirements | Moved from §6; reassessment-cycle bullet PENDING |
+| 3.9 | Insurance Requirements | Moved from §6 |
 | 3.10 | Payor Usage | Existing, reorganized by payor; H2019 backup PENDING |
 | Appendix D | Sources & Regulatory References | NEW |
 
@@ -72,25 +72,24 @@ NOTE bullets (Medicaid 104 units cap, phone-only not reimbursable per Rule 59G-1
 
 | Code | Service | Limits / Notes |
 |---|---|---|
-| H2019 HQ | Group Therapy | Medicaid reimburses a maximum of 156 quarter-hour units (39 hours) per recipient per state fiscal year. A client cannot be billed twice on the same day — for example, attending a group and an individual session on the same date. |
+| H2019 HQ | Group Therapy | Maximum 156 quarter-hour units (39 hours) per recipient per state fiscal year. In-person only — Medicaid does not reimburse telehealth groups. Cannot bill group and individual on the same day. |
 
-(Replaces placeholder "Workflow and same-day-as-individual rule pending — see questions.docx.")
+**APPLIED 2026-05-07.** Replaces the prior placeholder ("Workflow and same-day-as-individual rule pending — see questions.docx"). The "Group + Individual on the same day" bullet has been removed from questions.docx.
 
 ---
 
-## §3.3 Intern Service Codes — NEW SUBSECTION
+## §3.3 Intern Service Codes — NEW SUBSECTION — APPLIED 2026-05-07
 
 **Lead-in paragraph:**
 
 > **Intern Service Codes**
 >
-> Interns track their work using the codes below. The IN suffix tells the EHR that the service is non-billable, so nothing flows to a payor; H2010 HO does not need the IN suffix because the system already recognizes the user as an intern. Use these codes when assigning a case to an intern. The payor is `Non-Payor (FASD)` (intern, high-copay/deductible cases). Even though no real dollars are attached, the same compliance and documentation standards apply — a CFARS, BPS, IDA, treatment plan, or DAP note must be completed to the same standard as the licensed clinician's work.
+> Interns track their work using the codes below. The IN suffix tells the EHR that the service is non-billable, so nothing flows to a payor. Use these codes when assigning a case to an intern. The payor depends on the program: for OPMH and FASD, use Non-Payor (intern, high-copay/deductible cases); for SBMH, the work is logged under the school grant. Even though no real dollars are attached, the same compliance and documentation standards apply — a CFARS, BPS, IDA, treatment plan, or DAP note must be completed to the same standard as the licensed clinician's work.
 
 **Table:**
 
 | Code | Service | Units (per recipient per state fiscal year) |
 |---|---|---|
-| H2010 HO | BBSE | 10 |
 | NON-PAYOR | Consult / Mentor / CCM / ITXXCC | 25 |
 | H0031 IN | CFARS — Limited Functional Assessment | 3 |
 | H0031 HN IN | PSY (Biopsychosocial Assessment) | 1 |
@@ -99,11 +98,11 @@ NOTE bullets (Medicaid 104 units cap, phone-only not reimbursable per Rule 59G-1
 | H0032 IN | Master Treatment Plan | 1 |
 | H0032 TS IN | Treatment Plan Review | 4 |
 | H2019 HR IN | Individual / Family Therapy | 200 |
-| H2019 HQ IN | Group Therapy | (pending) |
+| H2019 HQ IN | Group Therapy | 156 |
 
 ---
 
-## §3.4 Z Codes — ADD ONE FRAMING SENTENCE
+## §3.4 Z Codes — ADD ONE FRAMING SENTENCE — APPLIED 2026-05-07
 
 Add this one sentence at the top of the existing §3.4:
 
@@ -115,7 +114,7 @@ Existing 2 bullets stay verbatim:
 
 ---
 
-## §3.5 Optimizing Billing — KEEP 4 BULLETS, REMOVE 1 INLINE BULLET
+## §3.5 Optimizing Billing — KEEP 4 BULLETS, REMOVE 1 INLINE BULLET — APPLIED 2026-05-07
 
 Keep these 4 bullets (with one minor wording fix on bullet 3):
 
@@ -219,12 +218,10 @@ PENDING items (in questions.docx, "For Charmian" — bullet "Sarasota funds and 
 
 > **3.9 Insurance Requirements**
 >
-> ⚠ **PENDING: This subsection is incomplete.** The BPS / IDA reassessment cycle (state fiscal year vs. anniversary date) is awaiting clarification from Charmian. See questions.docx, "For Charmian." Do not finalize this section until that is resolved.
->
 > **Medicaid**
 > - A BPS or IDA is billed event-based, not by the 60-minute / quarter-hour maximum that applies to individual or family therapy sessions. Longer sessions are appropriate when the assessment requires it.
 > - The Treatment Plan is also event-based, not billed by time.
-> - **Reassessment cycle (PENDING):** Another BPS or IDA cannot be conducted until one year from the original completion date *(this is current operational practice per the Lauris reminder; Medicaid handbook actually says "per state fiscal year")*. Confirm with Charmian.
+> - **Reassessment cycle:** Another BPS or IDA cannot be conducted until one year from the original completion date (anniversary date). The Lauris reminder triggers on this anniversary cycle.
 >
 > **Commercial / Private Insurance**
 > - For all insured clients, ensure an IDA or BPS is on file — insurance requires a billable diagnosis, which comes from these forms.
@@ -306,15 +303,16 @@ Place after Appendix C (Key Contacts), before any back-matter.
 
 ---
 
-## Three PENDING items awaiting Charmian
+## Two PENDING items awaiting Charmian
 
 These remain flagged in the manual; they don't block the rewrite.
 
-1. **BPS / IDA reassessment cycle** — state fiscal year (Medicaid handbook) vs. anniversary date (Lauris reminder). Affects §3.9 and any reference to the rule.
-2. **Sarasota County funds** — full coverage list, annual cap, approver, contact. Affects §3.8.
-3. **H2019 under "G-Fetal Alcohol-Srq Office"** when out of units and additional units cannot be approved. Affects §3.10 Payor Usage.
+1. **Sarasota County funds** — full coverage list, annual cap, approver, contact. Affects §3.8.
+2. **H2019 under "G-Fetal Alcohol-Srq Office"** when out of units and additional units cannot be approved. Affects §3.10 Payor Usage.
 
-All three are in `questions.docx` under the "For Charmian" heading.
+Both are in `questions.docx` under the "For Charmian" heading.
+
+**Resolved 2026-05-07:** BPS / IDA reassessment cycle — using anniversary year (one year from original completion date), not state fiscal year. Reason: clinicians are more familiar with anniversary tracking; fiscal-year framing would confuse staff. Lauris reminder already triggers on the anniversary cycle.
 
 ---
 
