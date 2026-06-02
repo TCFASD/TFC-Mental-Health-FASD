@@ -6,4 +6,5 @@ Thumbs.db
 
 # Timestamped working backups created during in-place docx edits — keep local, not in git
 .manual_backup_*.docx
+.manual_REVISED_backup_*.docx
 .questions_backup*.docx
