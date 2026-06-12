@@ -4,6 +4,9 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
+# Regenerable PowerPoint PNG render previews (rebuild from the decks via PowerPoint COM)
+Training/preview*/
+
 # Timestamped working backups created during in-place docx edits — keep local, not in git
 Backups/
 .manual_backup_*.docx
